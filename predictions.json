@@ -1,40 +1,236 @@
 {
-  "updated": "2026-10-22T02:00:20Z",
+  "updated": "2026-10-22T03:00:31Z",
   "results": [
-    {"trail": "Brushy Creek", "station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Barton Creek Greenbelt", "station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Walnut Creek", "station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "South Austin Trail Network", "station": "Manchaca 4 W", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Suburban Ninja", "station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "St Edwards", "station": "Jollyville 2 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Bull Creek", "station": "Bull Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Mt Lakeway", "station": "Lakeway 2 E", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Muleshoe Bend", "station": "Spicewood 2 NNE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Pace Bend", "station": "Cow Creek near Lago Vista", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Bluff Creek Ranch", "station": "Waldeck 1 SW", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Emma Long", "station": "Lake Austin at Cortana Shores", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Flat Rock Ranch", "station": "Fredericksburg 10 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Lake Georgetown", "station": "Florence 3 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Pedernales Falls", "station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "McKinney Falls", "station": "Onion Creek at Hwy 183, Austin", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Reimers Ranch", "station": "Lakeway 6 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Reveille Peak Ranch", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Rocky Hill Ranch", "station": "Colorado River at Smithville", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Spider Mountain", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"trail": "Thumper", "station": "Jollyville 2 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Colorado River at Smithville", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Florence 3 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Fredericksburg 10 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Jollyville 2 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Lake Austin at Cortana Shores", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Lakeway 2 E", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Lakeway 6 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Manchaca 4 W", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Onion Creek at Hwy 183, Austin", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Spicewood 2 NNE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
-    {"station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"}
+    {
+      "trail": "Brushy Creek",
+      "station": "Cedar Park 3 SSW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Barton Creek Greenbelt",
+      "station": "Barton Creek at Loop 360, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Walnut Creek",
+      "station": "Pflugerville 3 SSE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "South Austin Trail Network",
+      "station": "Manchaca 4 W",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Suburban Ninja",
+      "station": "Cedar Park 3 SSW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "St Edwards",
+      "station": "Jollyville 2 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Bull Creek",
+      "station": "Bull Creek at Loop 360, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Mt Lakeway",
+      "station": "Lakeway 2 E",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Muleshoe Bend",
+      "station": "Spicewood 2 NNE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Pace Bend",
+      "station": "Cow Creek near Lago Vista",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Bluff Creek Ranch",
+      "station": "Waldeck 1 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Emma Long",
+      "station": "Lake Austin at Cortana Shores",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Flat Rock Ranch",
+      "station": "Fredericksburg 10 SSE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Lake Georgetown",
+      "station": "Florence 3 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Pedernales Falls",
+      "station": "Barton Creek at Loop 360, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "McKinney Falls",
+      "station": "Onion Creek at Hwy 183, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Reimers Ranch",
+      "station": "Lakeway 6 W",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "trail": "Reveille Peak Ranch",
+      "station": "Tow 10 ESE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Rocky Hill Ranch",
+      "station": "Colorado River at Smithville",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Spider Mountain",
+      "station": "Tow 10 ESE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "trail": "Thumper",
+      "station": "Jollyville 2 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Barton Creek at Loop 360, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Cedar Park 3 SSW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Colorado River at Smithville",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Florence 3 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Fredericksburg 10 SSE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Jollyville 2 SW",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Lake Austin at Cortana Shores",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Lakeway 2 E",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Lakeway 6 W",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cool"
+    },
+    {
+      "station": "Manchaca 4 W",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Onion Creek at Hwy 183, Austin",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Pflugerville 3 SSE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Spicewood 2 NNE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    },
+    {
+      "station": "Tow 10 ESE",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Mild"
+    }
   ]
 }
