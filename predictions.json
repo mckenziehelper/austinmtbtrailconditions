@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:33:55Z",
+  "updated": "2026-10-23T20:36:10Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -10,7 +10,9 @@
       "soilMoisture": 0.115,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding."
+      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -23,7 +25,9 @@
       "crossingStage": 1.69,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in the past week (0.4 in. over 2 weeks); creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week (0.4 in. over 2 weeks); creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Walnut Creek",
@@ -36,7 +40,9 @@
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "No rain in the past week; even shaded/slow sections have dried; creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week; even shaded/slow sections have dried; creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "South Austin Trail Network",
@@ -49,7 +55,9 @@
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Suburban Ninja",
@@ -60,7 +68,9 @@
       "soilMoisture": 0.115,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "St Edwards",
@@ -73,7 +83,9 @@
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in the past week (0.43 in. over 2 weeks); creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week (0.43 in. over 2 weeks); creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Bull Creek",
@@ -86,7 +98,9 @@
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in the past week (0.48 in. over 2 weeks); creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week (0.48 in. over 2 weeks); creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Mt Lakeway",
@@ -97,7 +111,9 @@
       "soilMoisture": 0.132,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Muleshoe Bend",
@@ -108,7 +124,10 @@
       "soilMoisture": 0.11,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding."
+      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding.",
+      "status": "caution",
+      "statusNote": "LCRA closing the park Oct 26-28",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Pace Bend",
@@ -119,7 +138,9 @@
       "soilMoisture": 0.11,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -130,7 +151,10 @@
       "soilMoisture": 0.081,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week (0.54 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding."
+      "reason": "No rain in the past week (0.54 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding.",
+      "status": "caution",
+      "statusNote": "Open today; ranch closed this weekend for a race event",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Emma Long",
@@ -141,7 +165,9 @@
       "soilMoisture": 0.177,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding."
+      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -152,7 +178,9 @@
       "soilMoisture": 0.107,
       "rainChance24h": 3,
       "source": "claude",
-      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding."
+      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Lake Georgetown",
@@ -163,7 +191,9 @@
       "soilMoisture": 0.108,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week (0.06 in. over 2 weeks); soil dry, firm riding."
+      "reason": "No rain in the past week (0.06 in. over 2 weeks); soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Pedernales Falls",
@@ -174,7 +204,9 @@
       "soilMoisture": 0.101,
       "rainChance24h": 1,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "McKinney Falls",
@@ -187,7 +219,9 @@
       "crossingStage": 4.31,
       "crossingFlow": 0.07,
       "source": "claude",
-      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding."
+      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Reimers Ranch",
@@ -198,7 +232,9 @@
       "soilMoisture": 0.11,
       "rainChance24h": 1,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -209,7 +245,10 @@
       "soilMoisture": 0.105,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "closed",
+      "statusNote": "Events only; day use ended Oct 2026",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -220,7 +259,10 @@
       "soilMoisture": 0.082,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week (0.17 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding."
+      "reason": "No rain in the past week (0.17 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding.",
+      "status": "caution",
+      "statusNote": "Closed Oct 24-25 for Rise Racing events",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Spider Mountain",
@@ -231,7 +273,9 @@
       "soilMoisture": 0.124,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week; soil dry, firm riding."
+      "reason": "No rain in the past week; soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "trail": "Thumper",
@@ -242,7 +286,9 @@
       "soilMoisture": 0.186,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in the past week (0.43 in. over 2 weeks); soil dry, firm riding."
+      "reason": "No rain in the past week (0.43 in. over 2 weeks); soil dry, firm riding.",
+      "status": "open",
+      "statusChecked": "2026-10-23T20:35:58Z"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",

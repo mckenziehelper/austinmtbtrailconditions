@@ -1,0 +1,114 @@
+{
+  "updated": "2026-10-23T20:35:58Z",
+  "results": [
+    {
+      "trail": "Brushy Creek",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/brushy-creek/status/"
+    },
+    {
+      "trail": "Barton Creek Greenbelt",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/barton-creek-greenbelt-13781/status/"
+    },
+    {
+      "trail": "Walnut Creek",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/walnut-creek/status/"
+    },
+    {
+      "trail": "South Austin Trail Network",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/south-austin-trail-network-satn/status/"
+    },
+    {
+      "trail": "Suburban Ninja",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/suburban-ninja-christ-church-41760/status/"
+    },
+    {
+      "trail": "St Edwards",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/st-edwards-greenbelt-19610/status/"
+    },
+    {
+      "trail": "Bull Creek",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/bull-creek-greenbelt/status/"
+    },
+    {
+      "trail": "Mt Lakeway",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/canyonlands-mt-lakeway-43041/status/"
+    },
+    {
+      "trail": "Muleshoe Bend",
+      "status": "caution",
+      "statusNote": "LCRA closing the park Oct 26-28",
+      "source": "https://lcraparks.com/parks/muleshoe-bend-recreation-area"
+    },
+    {
+      "trail": "Pace Bend",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/pace-bend/status/"
+    },
+    {
+      "trail": "Bluff Creek Ranch",
+      "status": "caution",
+      "statusNote": "Open today; ranch closed this weekend for a race event",
+      "source": "https://bcrwarda.com/"
+    },
+    {
+      "trail": "Emma Long",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/emma-long-metropolitan-park/status/"
+    },
+    {
+      "trail": "Flat Rock Ranch",
+      "status": "open",
+      "source": "https://flatrockranchtx.com/"
+    },
+    {
+      "trail": "Lake Georgetown",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/lake-georgetown-13743/status/"
+    },
+    {
+      "trail": "Pedernales Falls",
+      "status": "open",
+      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls"
+    },
+    {
+      "trail": "McKinney Falls",
+      "status": "open",
+      "source": "https://tpwd.texas.gov/state-parks/mckinney-falls"
+    },
+    {
+      "trail": "Reimers Ranch",
+      "status": "open",
+      "source": "https://parks.traviscountytx.gov/find-a-park/reimers-ranch"
+    },
+    {
+      "trail": "Reveille Peak Ranch",
+      "status": "closed",
+      "statusNote": "Events only; day use ended Oct 2026",
+      "source": "https://www.singletracks.com/?p=727450"
+    },
+    {
+      "trail": "Rocky Hill Ranch",
+      "status": "caution",
+      "statusNote": "Closed Oct 24-25 for Rise Racing events",
+      "source": "https://www.rockyhillranch.com/events"
+    },
+    {
+      "trail": "Spider Mountain",
+      "status": "open",
+      "source": "https://www.spidermountain.com/"
+    },
+    {
+      "trail": "Thumper",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/dominion-at-great-hills-park-13787/status/"
+    }
+  ]
+}

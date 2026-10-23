@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:33:55Z",
+  "updated": "2026-10-23T20:36:10Z",
   "results": [
     {
       "siteNumber": "120",
@@ -5050,7 +5050,7 @@
     },
     {
       "siteNumber": "1995",
-      "dateTime": "2026-10-23T20:30:16Z",
+      "dateTime": "2026-10-23T20:35:14Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Buchanan Dam <br />(Lake Buchanan)",
@@ -5058,8 +5058,8 @@
       "longitude": "-98.418350",
       "siteType": "dam",
       "head": "1018.35",
-      "tail": "887.41",
-      "batteryVoltage": "13.34",
+      "tail": "887.46",
+      "batteryVoltage": "13.36",
       "nwsid": "BUDT2"
     },
     {
@@ -5088,7 +5088,7 @@
     },
     {
       "siteNumber": "1999",
-      "dateTime": "2026-10-23T20:30:11Z",
+      "dateTime": "2026-10-23T20:35:10Z",
       "zoomLevel": "10",
       "agency": "LCRA",
       "siteName": "Inks Dam <br />(Inks Lake)",
@@ -5096,13 +5096,13 @@
       "longitude": "-98.385160",
       "siteType": "dam",
       "head": "887.35",
-      "tail": "825.19",
+      "tail": "825.17",
       "batteryVoltage": "13.75",
       "nwsid": "IKLT2"
     },
     {
       "siteNumber": "2000",
-      "dateTime": "2026-10-23T20:30:11Z",
+      "dateTime": "2026-10-23T20:35:10Z",
       "agency": "LCRA",
       "siteName": "Inks Dam Backup",
       "latitude": "30.73162",
@@ -7778,17 +7778,17 @@
     },
     {
       "siteNumber": "2957",
-      "dateTime": "2026-10-23T20:30:30Z",
+      "dateTime": "2026-10-23T20:35:26Z",
       "agency": "LCRA",
       "siteName": "Wirtz Dam Backup",
       "latitude": "30.55624",
       "longitude": "-98.33852",
       "siteType": "damB",
-      "batteryVoltage": "13.20"
+      "batteryVoltage": "13.16"
     },
     {
       "siteNumber": "2958",
-      "dateTime": "2026-10-23T20:30:30Z",
+      "dateTime": "2026-10-23T20:35:26Z",
       "zoomLevel": "7",
       "agency": "LCRA",
       "siteName": "Wirtz Dam <br />(Lake LBJ)",
@@ -7796,7 +7796,7 @@
       "longitude": "-98.338520",
       "siteType": "dam",
       "head": "824.84",
-      "tail": "736.98",
+      "tail": "736.96",
       "batteryVoltage": "13.96",
       "nwsid": "GPLT2"
     },
@@ -7992,27 +7992,27 @@
     },
     {
       "siteNumber": "2999",
-      "dateTime": "2026-10-23T20:30:39Z",
+      "dateTime": "2026-10-23T20:35:21Z",
       "zoomLevel": "10",
       "agency": "LCRA",
       "siteName": "Starcke Dam <br />(Lake Marble Falls)",
       "latitude": "30.555910",
       "longitude": "-98.257250",
       "siteType": "dam",
-      "head": "736.62",
-      "tail": "677.73",
+      "head": "736.64",
+      "tail": "677.71",
       "batteryVoltage": "13.68",
       "nwsid": "MFDT2"
     },
     {
       "siteNumber": "3000",
-      "dateTime": "2026-10-23T20:30:39Z",
+      "dateTime": "2026-10-23T20:35:21Z",
       "agency": "LCRA",
       "siteName": "Starcke Dam Backup",
       "latitude": "30.555910",
       "longitude": "-98.257250",
       "siteType": "damB",
-      "batteryVoltage": "12.99",
+      "batteryVoltage": "12.98",
       "nwsid": "MFDT2"
     },
     {
@@ -9575,18 +9575,18 @@
     },
     {
       "siteNumber": "3962",
-      "dateTime": "2026-10-23T20:30:19Z",
+      "dateTime": "2026-10-23T20:35:18Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Mansfield Dam Backup",
       "latitude": "30.39105",
       "longitude": "-97.90658",
       "siteType": "damB",
-      "batteryVoltage": "12.94"
+      "batteryVoltage": "12.95"
     },
     {
       "siteNumber": "3963",
-      "dateTime": "2026-10-23T20:30:19Z",
+      "dateTime": "2026-10-23T20:35:18Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Mansfield Dam <br />(Lake Travis)",
@@ -9840,17 +9840,17 @@
     },
     {
       "siteNumber": "3998",
-      "dateTime": "2026-10-23T20:30:26Z",
+      "dateTime": "2026-10-23T20:35:25Z",
       "agency": "LCRA",
       "siteName": "Tom Miller Dam Backup",
       "latitude": "30.294070",
       "longitude": "-97.785120",
       "siteType": "damB",
-      "batteryVoltage": "13.27"
+      "batteryVoltage": "13.24"
     },
     {
       "siteNumber": "3999",
-      "dateTime": "2026-10-23T20:30:26Z",
+      "dateTime": "2026-10-23T20:35:25Z",
       "zoomLevel": "8",
       "agency": "LCRA",
       "siteName": "Tom Miller Dam <br />(Lake Austin)",
@@ -9858,7 +9858,7 @@
       "longitude": "-97.785120",
       "siteType": "dam",
       "head": "492.00",
-      "tail": "428.24",
+      "tail": "428.23",
       "batteryVoltage": "13.43",
       "nwsid": "ALKT2"
     },
@@ -12510,7 +12510,8 @@
       "siteType": "ST",
       "stage": "3.41",
       "flow": "9.77",
-      "nwsid": "WART2"
+      "nwsid": "WART2",
+      "isStale": true
     },
     {
       "siteNumber": "08158030",
