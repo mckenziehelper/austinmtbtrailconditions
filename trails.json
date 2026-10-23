@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Brushy Creek",
+        "city": "Cedar Park, TX",
+        "trailforks": "region/brushy-creek/",
+        "latitude": 30.5080547,
+        "longitude": -97.771960,
+        "gmaps": "https://goo.gl/maps/kt9XTrH3anDTiMaM7",
+        "station":"Cedar Park 3 SSW"
+    
+        
+    },
+    {
+        "name": "Barton Creek Greenbelt",
+        "city": "Austin, TX",
+        "trailforks": "region/barton-creek-greenbelt-13781/",
+        "latitude": 30.247167,
+        "longitude": -97.8126892,
+        "gmaps": "https://goo.gl/maps/oqnWk5ZUCLt4W2kA7",
+        "station":"Barton Creek at Loop 360, Austin"
+    },
+    {
+        "name": "Walnut Creek",
+        "city": "Austin, TX",
+        "trailforks": "region/walnut-creek/",
+        "latitude": 30.4008039,
+        "longitude": -97.686422,
+        "gmaps": "https://goo.gl/maps/DUMoDCGe9j3fzPX68",
+        "station":"Pflugerville 3 SSE"
+        
+    },
+    {
+        "name": "South Austin Trail Network",
+        "city": "Austin, TX",
+        "trailforks": "region/south-austin-trail-network-satn/",
+        "latitude": 30.2068733,
+        "longitude": -97.9048399,
+        "gmaps": "https://g.page/slaughtercreektrail",
+        "station":"Manchaca 4 W"
+    },
+    {
+        "name": "Suburban Ninja",
+        "city": "Cedar Park, TX",
+        "trailforks": "region/suburban-ninja-christ-church-41760/",
+        "latitude": 30.5341152,
+        "longitude": -97.7822233,
+        "gmaps": "https://goo.gl/maps/Ea1ASpcRE6FkMonB7",
+        "station":"Cedar Park 3 SSW"
+        
+    },
+    {
+        "name": "St Edwards",
+        "city": "Austin, TX",
+        "trailforks": "region/st-edwards-greenbelt-19610/",
+        "latitude": 30.4066576,
+        "longitude": -97.7903003,
+        "gmaps": "https://goo.gl/maps/ar4GnoXxxK3vRbFZ7",
+        "station":"Jollyville 2 SW"
+        
+    },
+    {
+        "name": "Bull Creek",
+        "city": "Austin, TX",
+        "trailforks": "region/bull-creek-greenbelt/",
+        "latitude": 30.3783746,
+        "longitude": -97.7785338,
+        "gmaps": "https://goo.gl/maps/FGmJXySAUFabnGMo7",
+        "station":"Jollyville 2 SW"
+
+    },
+    {
+        "name": "Mt Lakeway",
+        "city": "Lakeway, TX",
+        "trailforks": "region/canyonlands-mt-lakeway-43041/",
+        "latitude": 30.349564,
+        "longitude": -97.996325,
+        "gmaps": "https://goo.gl/maps/zscfbaLFmLVhApzi9",
+        "station":"Lakeway 2 E"
+        
+    },
+    {
+        "name": "Muleshoe Bend",
+        "city": "Spicewood, TX",
+        "trailforks": "region/muleshoe-bend/",
+        "latitude": 30.4872904,
+        "longitude": -98.0986726,
+        "gmaps": "https://goo.gl/maps/6PqqXCjMjZgSkGTq7",
+        "station":"Spicewood 2 NNE"
+    },
+    {
+        "name": "Pace Bend",
+        "city": "Spicewood, TX",
+        "trailforks": "region/pace-bend/",
+        "latitude": 30.4596361,
+        "longitude": -98.0192444,
+        "gmaps": "https://goo.gl/maps/SEb8QbafQvUr4ecs9",
+        "station":"Lago Vista 1 ESE"
+    },
+    {
+        "name": "Bluff Creek Ranch",
+        "city": "Warda, TX",
+        "trailforks": "region/bluff-creek-ranch-19829/",
+        "latitude": 30.0578728,
+        "longitude": -96.906305,
+        "gmaps": "https://g.page/BCRWarda",
+        "station":"Colorado River at Smithville"
+    },
+    {
+        "name": "Emma Long",
+        "city": "Austin, TX",
+        "trailforks": "region/emma-long-metropolitan-park/",
+        "gmaps": "https://goo.gl/maps/vtD2zvNwAVvPyuod9",
+        "latitude": 30.3280269,
+        "longitude": -97.8419279,
+        "station":"Lake Austin at Cortana Shores"
+    },
+    {
+        "name": "Flat Rock Ranch",
+        "city": "Comfort, TX",
+        "trailforks": "region/flat-rock-ranch-16142/",
+        "gmaps": "https://goo.gl/maps/YfCqSPoZtSN3abxRA",
+        "latitude": 30.0152476,
+        "longitude": -98.8705957,
+        "station":"Fredericksburg 10 SSE"
+    },
+    {
+        "name": "Lake Georgetown",
+        "city": "Georgetown, TX",
+        "trailforks": "region/lake-georgetown-13743/",
+        "gmaps": "https://goo.gl/maps/KR2qS451rEWesuPD7",
+        "latitude": 30.6736826,
+        "longitude": -97.7368782,
+        "station":"Florence 3 SW"
+    },
+    {
+        "name": "Pedernales Falls",
+        "city": "Johnson City, TX",
+        "trailforks": "region/pedernales-falls-state-park-21994/",
+        "gmaps": "https://goo.gl/maps/pwaZnp6ebiJwLvmn6",
+        "latitude": 30.1639663,
+        "longitude": -97.807562,
+        "station":"Manchaca 4 W"
+    },
+    {
+        "name": "McKinney Falls",
+        "city": "Austin, TX",
+        "trailforks": "region/mckinney-falls-state-park-22054/",
+        "gmaps": "https://goo.gl/maps/syF3GguE4JPofJPv5",
+        "latitude": 30.1836487,
+        "longitude": -97.7221944,
+       "station":"Onion Creek at Hwy 183, Austin"
+    },
+    {
+        "name": "Reimers Ranch",
+        "city": "Dripping Springs, TX",
+        "trailforks": "region/milton-reimers-ranch-park-17523/",
+        "gmaps": "https://goo.gl/maps/i1oWbZYdX8uuQubq7",
+        "latitude": 30.3336618,
+        "longitude": -98.1244595,
+        "station":"Lakeway 6 W"
+    },
+    {
+        "name": "Reveille Peak Ranch",
+        "city": "Burnet, TX",
+        "trailforks": "region/reveille-peak-ranch/",
+        "gmaps": "https://goo.gl/maps/sB5xHTVrDfw55Xy87",
+        "latitude": 30.8004465,
+        "longitude": -98.3360618,
+        "station":"Tow 10 ESE"
+    },
+    {
+        "name": "Rocky Hill Ranch",
+        "city": "Smithville, TX",
+        "trailforks": "region/rocky-hill-ranch/",
+        "gmaps": "https://goo.gl/maps/kmhY5NjWAHDTRFL1A",
+        "latitude": 30.0444613,
+        "longitude": -97.1279317,
+        "station":"Colorado River at Smithville"
+    },
+    {
+        "name": "Spider Mountain",
+        "city": "Burnet, TX",
+        "trailforks": "region/spider-mountain-bike-park-27035/",
+        "gmaps": "https://g.page/SpiderMtn",
+        "latitude": 30.8388205,
+        "longitude": -98.3384559,
+        "station":"Tow 10 ESE"
+    },
+    {
+        "name": "Thumper",
+        "city": "Austin, TX",
+        "trailforks": "region/dominion-at-great-hills-park-13787/",
+        "gmaps": "https://goo.gl/maps/2yGhAnRN61PEo9WN6",
+        "latitude": 30.4019886,
+        "longitude": -97.7758821,
+        "station":"Jollyville 2 SW"
+    }
+]
