@@ -1,0 +1,195 @@
+{
+  "updated": "2026-10-23T14:12:43Z",
+  "source": "Open-Meteo",
+  "results": [
+    {
+      "trail": "Brushy Creek",
+      "soilMoisture": 0.136,
+      "soilMoisture1to3cm": 0.204,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.45,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Barton Creek Greenbelt",
+      "soilMoisture": 0.157,
+      "soilMoisture1to3cm": 0.214,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Walnut Creek",
+      "soilMoisture": 0.209,
+      "soilMoisture1to3cm": 0.244,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.46,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "South Austin Trail Network",
+      "soilMoisture": 0.149,
+      "soilMoisture1to3cm": 0.207,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.49,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Suburban Ninja",
+      "soilMoisture": 0.136,
+      "soilMoisture1to3cm": 0.204,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.44,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "St Edwards",
+      "soilMoisture": 0.209,
+      "soilMoisture1to3cm": 0.244,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Bull Creek",
+      "soilMoisture": 0.209,
+      "soilMoisture1to3cm": 0.244,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Mt Lakeway",
+      "soilMoisture": 0.15,
+      "soilMoisture1to3cm": 0.205,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.5,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Muleshoe Bend",
+      "soilMoisture": 0.131,
+      "soilMoisture1to3cm": 0.186,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Pace Bend",
+      "soilMoisture": 0.131,
+      "soilMoisture1to3cm": 0.186,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.45,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Bluff Creek Ranch",
+      "soilMoisture": 0.101,
+      "soilMoisture1to3cm": 0.112,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Emma Long",
+      "soilMoisture": 0.199,
+      "soilMoisture1to3cm": 0.231,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.46,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Flat Rock Ranch",
+      "soilMoisture": 0.133,
+      "soilMoisture1to3cm": 0.186,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.46,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Lake Georgetown",
+      "soilMoisture": 0.127,
+      "soilMoisture1to3cm": 0.195,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.46,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Pedernales Falls",
+      "soilMoisture": 0.118,
+      "soilMoisture1to3cm": 0.176,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "McKinney Falls",
+      "soilMoisture": 0.157,
+      "soilMoisture1to3cm": 0.214,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.45,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Reimers Ranch",
+      "soilMoisture": 0.126,
+      "soilMoisture1to3cm": 0.188,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.53,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Reveille Peak Ranch",
+      "soilMoisture": 0.122,
+      "soilMoisture1to3cm": 0.178,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.44,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Rocky Hill Ranch",
+      "soilMoisture": 0.1,
+      "soilMoisture1to3cm": 0.112,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.48,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Spider Mountain",
+      "soilMoisture": 0.16,
+      "soilMoisture1to3cm": 0.165,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.45,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    },
+    {
+      "trail": "Thumper",
+      "soilMoisture": 0.209,
+      "soilMoisture1to3cm": 0.244,
+      "rainLast72h": 0.0,
+      "evaporationLast72hMm": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 0
+    }
+  ]
+}
