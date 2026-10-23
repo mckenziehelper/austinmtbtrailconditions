@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:37:26Z",
+  "updated": "2026-10-23T14:42:42Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -9,8 +9,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.136,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Cedar Park; even slow-draining creek sections have dried out."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -22,8 +23,9 @@
       "rainChance24h": 0,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in a week (0.4 in. over 2 weeks); Barton Creek at 0 cfs, crossings dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Walnut Creek",
@@ -35,8 +37,9 @@
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Pflugerville; shaded dirt and Point Six puddles have dried."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "South Austin Trail Network",
@@ -48,8 +51,9 @@
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; Slaughter Creek at 0 cfs, prairie clay is dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Suburban Ninja",
@@ -59,8 +63,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.136,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Cedar Park; shaded sections have had ample time to dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "St Edwards",
@@ -72,8 +77,9 @@
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in a week (0.4 in. over 2 weeks); Bull Creek at 0 cfs, low leg is dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Bull Creek",
@@ -85,8 +91,9 @@
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in a week (0.5 in. over 2 weeks); Bull Creek at 0 cfs, crossings dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Mt Lakeway",
@@ -96,8 +103,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.15,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Lakeway; rocky trails are dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Muleshoe Bend",
@@ -107,8 +115,10 @@
       "temperature": "Mild",
       "soilMoisture": 0.131,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Spicewood; shaded sand and rock are dry."
+      "source": "rule",
+      "status": "caution",
+      "statusNote": "LCRA closing the park Oct 26-28",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Pace Bend",
@@ -118,8 +128,9 @@
       "temperature": "Cool",
       "soilMoisture": 0.131,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; exposed rocky trails are dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -129,8 +140,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.101,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in a week (0.5 in. over 2 weeks) and low soil moisture; forest floor dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Emma Long",
@@ -140,8 +152,9 @@
       "temperature": "Cool",
       "soilMoisture": 0.199,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No meaningful rain in 2 weeks; limestone ledges are dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -151,8 +164,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.133,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No meaningful rain in 2 weeks; rocky and dry. Hunting closure starts Nov 1."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Lake Georgetown",
@@ -162,8 +176,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.127,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "Under 0.1 in. in 2 weeks; limestone is dry and grippy."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Pedernales Falls",
@@ -173,8 +188,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.118,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; rocky trails and stream crossings are dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "McKinney Falls",
@@ -186,8 +202,9 @@
       "rainChance24h": 0,
       "crossingStage": 4.31,
       "crossingFlow": 0.07,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; Onion Creek barely flowing (0.07 cfs), Lower Falls crossable."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Reimers Ranch",
@@ -197,8 +214,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.126,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks at Lakeway 6 W; sandy singletrack is dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -208,8 +226,10 @@
       "temperature": "Mild",
       "soilMoisture": 0.122,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; granite and dirt trails are dry."
+      "source": "rule",
+      "status": "closed",
+      "statusNote": "Events only; day use ended Oct 2026",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -219,8 +239,10 @@
       "temperature": "Mild",
       "soilMoisture": 0.1,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "Only 0.17 in. in 2 weeks and very low soil moisture; sandy hard-pack is dry."
+      "source": "rule",
+      "status": "caution",
+      "statusNote": "Closed Oct 24-25 for Rise Racing events",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Spider Mountain",
@@ -230,8 +252,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.16,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; bike park trails are dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "trail": "Thumper",
@@ -241,8 +264,9 @@
       "temperature": "Mild",
       "soilMoisture": 0.209,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in a week (0.4 in. over 2 weeks); rocky, rooty trail is dry."
+      "source": "rule",
+      "status": "open",
+      "statusChecked": "2026-10-23T14:42:28Z"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
