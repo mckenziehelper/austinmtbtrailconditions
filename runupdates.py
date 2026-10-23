@@ -37,9 +37,17 @@ def fetch_lcra():
     return response.json()
 
 
+def num(value):
+    """LCRA reports numbers as strings ("0.00"); blanks become None."""
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
 def is_wet(station):
-    rain_1day = station.get("rainfall1Day") or 0
-    rain_2days = station.get("rainfall2Days") or 0
+    rain_1day = num(station.get("rainfall1Day")) or 0
+    rain_2days = num(station.get("rainfall2Days")) or 0
     return rain_1day > 0 or rain_2days > 0.5
 
 
@@ -66,7 +74,7 @@ def prediction(station):
     return {
         "prediction": "Wet" if wet else "Dry",
         "isDry": not wet,
-        "temperature": temperature_label(station.get("temperature")),
+        "temperature": temperature_label(num(station.get("temperature"))),
     }
 
 
@@ -84,14 +92,20 @@ def closest_station(trail, stations):
     return min(
         stations,
         key=lambda s: miles_between(
-            float(s["latitude"]), float(s["longitude"]), trail["latitude"], trail["longitude"]
+            num(s["latitude"]), num(s["longitude"]), trail["latitude"], trail["longitude"]
         ),
     )
 
 
 def build_predictions(trails, lcra_data):
     # Only stations that report temperature are useful for a prediction.
-    stations = [s for s in lcra_data if s.get("temperature") is not None]
+    stations = [
+        s
+        for s in lcra_data
+        if num(s.get("temperature")) is not None
+        and num(s.get("latitude")) is not None
+        and num(s.get("longitude")) is not None
+    ]
     by_name = {s["siteName"]: s for s in stations}
     results = []
 
