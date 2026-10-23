@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:43:02Z",
+  "updated": "2026-10-23T20:33:55Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,9 +7,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.119,
+      "soilMoisture": 0.115,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -17,11 +18,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.143,
+      "soilMoisture": 0.139,
       "rainChance24h": 0,
       "crossingStage": 1.69,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.4 in. over 2 weeks); creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "Walnut Creek",
@@ -29,11 +31,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.191,
+      "soilMoisture": 0.186,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; even shaded/slow sections have dried; creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "South Austin Trail Network",
@@ -41,11 +44,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.134,
+      "soilMoisture": 0.131,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "Suburban Ninja",
@@ -53,9 +57,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.119,
+      "soilMoisture": 0.115,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "St Edwards",
@@ -63,11 +68,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.191,
+      "soilMoisture": 0.186,
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.43 in. over 2 weeks); creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "Bull Creek",
@@ -75,11 +81,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.191,
+      "soilMoisture": 0.186,
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.48 in. over 2 weeks); creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "Mt Lakeway",
@@ -87,9 +94,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.136,
+      "soilMoisture": 0.132,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "Muleshoe Bend",
@@ -97,9 +105,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.114,
+      "soilMoisture": 0.11,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; even shaded/slow sections have dried; soil dry, firm riding."
     },
     {
       "trail": "Pace Bend",
@@ -107,19 +116,21 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.114,
+      "soilMoisture": 0.11,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "Bluff Creek Ranch",
       "station": "Waldeck 1 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.085,
+      "temperature": "Hot",
+      "soilMoisture": 0.081,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.54 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding."
     },
     {
       "trail": "Emma Long",
@@ -127,9 +138,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.181,
+      "soilMoisture": 0.177,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -137,9 +149,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.112,
+      "soilMoisture": 0.107,
       "rainChance24h": 3,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.01 in. over 2 weeks); soil dry, firm riding."
     },
     {
       "trail": "Lake Georgetown",
@@ -147,19 +160,21 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.112,
+      "soilMoisture": 0.108,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.06 in. over 2 weeks); soil dry, firm riding."
     },
     {
       "trail": "Pedernales Falls",
       "station": "Johnson City 10 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.104,
+      "temperature": "Hot",
+      "soilMoisture": 0.101,
       "rainChance24h": 1,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "McKinney Falls",
@@ -167,11 +182,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.143,
+      "soilMoisture": 0.139,
       "rainChance24h": 0,
-      "crossingStage": 4.32,
-      "crossingFlow": 0.08,
-      "source": "rule"
+      "crossingStage": 4.31,
+      "crossingFlow": 0.07,
+      "source": "claude",
+      "reason": "No rain in the past week; creek crossing low; soil dry, firm riding."
     },
     {
       "trail": "Reimers Ranch",
@@ -179,19 +195,21 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.113,
+      "soilMoisture": 0.11,
       "rainChance24h": 1,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "Reveille Peak Ranch",
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.108,
+      "temperature": "Hot",
+      "soilMoisture": 0.105,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -199,19 +217,21 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.085,
+      "soilMoisture": 0.082,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.17 in. over 2 weeks); even shaded/slow sections have dried; soil dry, firm riding."
     },
     {
       "trail": "Spider Mountain",
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.13,
+      "temperature": "Hot",
+      "soilMoisture": 0.124,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week; soil dry, firm riding."
     },
     {
       "trail": "Thumper",
@@ -219,9 +239,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.191,
+      "soilMoisture": 0.186,
       "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "No rain in the past week (0.43 in. over 2 weeks); soil dry, firm riding."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -263,7 +284,7 @@
       "station": "Johnson City 10 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Jollyville 2 SW",
@@ -317,7 +338,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     }
   ]
 }
