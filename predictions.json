@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:09:42Z",
+  "updated": "2026-10-23T19:43:02Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -9,8 +9,7 @@
       "temperature": "Warm",
       "soilMoisture": 0.119,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks at Cedar Park; even the slow-draining creek sections have dried out."
+      "source": "rule"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -22,8 +21,7 @@
       "rainChance24h": 0,
       "crossingStage": 1.69,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in 7 days, 0.40 in. last week only; Barton Creek not flowing at Loop 360."
+      "source": "rule"
     },
     {
       "trail": "Walnut Creek",
@@ -35,8 +33,7 @@
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
-      "source": "claude",
-      "reason": "No rain in two weeks; shaded dirt and Point Six puddles dried, creek gauge near empty."
+      "source": "rule"
     },
     {
       "trail": "South Austin Trail Network",
@@ -48,8 +45,7 @@
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in two weeks at Manchaca; Slaughter Creek not flowing."
+      "source": "rule"
     },
     {
       "trail": "Suburban Ninja",
@@ -59,21 +55,19 @@
       "temperature": "Warm",
       "soilMoisture": 0.119,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks at Cedar Park; shaded sections have had ample time to dry."
+      "source": "rule"
     },
     {
       "trail": "St Edwards",
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
+      "temperature": "Hot",
       "soilMoisture": 0.191,
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in 7 days, 0.43 in. last week only; Bull Creek not flowing at Loop 360."
+      "source": "rule"
     },
     {
       "trail": "Bull Creek",
@@ -85,19 +79,17 @@
       "rainChance24h": 0,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "No rain in 7 days, under half an inch last week; creek crossings dry with no flow."
+      "source": "rule"
     },
     {
       "trail": "Mt Lakeway",
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
+      "temperature": "Hot",
       "soilMoisture": 0.136,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks at Lakeway; soil is dry."
+      "source": "rule"
     },
     {
       "trail": "Muleshoe Bend",
@@ -107,8 +99,7 @@
       "temperature": "Hot",
       "soilMoisture": 0.114,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks; heavy shade but soil is dry. Park closes Oct 26-28."
+      "source": "rule"
     },
     {
       "trail": "Pace Bend",
@@ -118,8 +109,7 @@
       "temperature": "Hot",
       "soilMoisture": 0.114,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks; rocky, exposed trail is dry."
+      "source": "rule"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -129,8 +119,7 @@
       "temperature": "Warm",
       "soilMoisture": 0.085,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 7 days, 0.54 in. last week; soil very dry under the pines."
+      "source": "rule"
     },
     {
       "trail": "Emma Long",
@@ -140,8 +129,7 @@
       "temperature": "Hot",
       "soilMoisture": 0.181,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No meaningful rain in two weeks; limestone ledges are dry."
+      "source": "rule"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -151,8 +139,7 @@
       "temperature": "Warm",
       "soilMoisture": 0.112,
       "rainChance24h": 3,
-      "source": "claude",
-      "reason": "No meaningful rain in two weeks near Fredericksburg; rocky trail is dry."
+      "source": "rule"
     },
     {
       "trail": "Lake Georgetown",
@@ -162,8 +149,7 @@
       "temperature": "Warm",
       "soilMoisture": 0.112,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "Only 0.06 in. in two weeks; limestone dry, no slick spots expected."
+      "source": "rule"
     },
     {
       "trail": "Pedernales Falls",
@@ -173,8 +159,7 @@
       "temperature": "Warm",
       "soilMoisture": 0.104,
       "rainChance24h": 1,
-      "source": "claude",
-      "reason": "No rain in two weeks near Johnson City; stream crossings low, trail dry."
+      "source": "rule"
     },
     {
       "trail": "McKinney Falls",
@@ -184,10 +169,9 @@
       "temperature": "Hot",
       "soilMoisture": 0.143,
       "rainChance24h": 0,
-      "crossingStage": 4.31,
-      "crossingFlow": 0.07,
-      "source": "claude",
-      "reason": "No rain in two weeks; Onion Creek barely flowing, Lower Falls crossing passable."
+      "crossingStage": 4.32,
+      "crossingFlow": 0.08,
+      "source": "rule"
     },
     {
       "trail": "Reimers Ranch",
@@ -197,19 +181,17 @@
       "temperature": "Hot",
       "soilMoisture": 0.113,
       "rainChance24h": 1,
-      "source": "claude",
-      "reason": "No rain in two weeks; sandy singletrack is dry."
+      "source": "rule"
     },
     {
       "trail": "Reveille Peak Ranch",
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot",
+      "temperature": "Warm",
       "soilMoisture": 0.108,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks; trails dry, though the ranch is now events-only."
+      "source": "rule"
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -219,30 +201,27 @@
       "temperature": "Hot",
       "soilMoisture": 0.085,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "Only 0.17 in. in two weeks; sandy hard-pack is dry. Closed Oct 24-25 for races."
+      "source": "rule"
     },
     {
       "trail": "Spider Mountain",
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot",
+      "temperature": "Warm",
       "soilMoisture": 0.13,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in two weeks near Burnet; trails are dry."
+      "source": "rule"
     },
     {
       "trail": "Thumper",
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
+      "temperature": "Hot",
       "soilMoisture": 0.191,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "No rain in 7 days, 0.43 in. last week only; rocky trail and creek crossing dry."
+      "source": "rule"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -290,7 +269,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Lake Austin at Cortana Shores",
@@ -302,7 +281,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Lakeway 6 W",
@@ -338,7 +317,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot"
+      "temperature": "Warm"
     }
   ]
 }
