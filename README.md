@@ -80,9 +80,9 @@ Temperature label (°F):
 
 Two Claude scheduled tasks add judgment the rain rule can't:
 
-- **Trail calls** (about 5:30am and 2:30pm Central) read `lcra.json`, `weather.json` and
+- **Trail calls** (about 5am and 2pm Central) read `lcra.json`, `weather.json` and
   `trails.json` and write `assessments.json`: a Wet/Dry call and one-sentence reason per trail.
-- **Closures** (about 5am Central) read each trail's status page and recent rider reports and
+- **Closures** (about 4:30am Central) read each trail's status page and recent rider reports and
   write `status.json`: `open`, `closed` or `caution` per trail, with a note.
 
 They push to `claude/trail-data-*` branches. The workflow takes only those two files (if valid and
@@ -99,7 +99,7 @@ Every 4-hour run applies them like this:
 
 `.github/workflows/update-predictions.yml` runs `runupdates.py` on GitHub's servers
 every 4 hours (`0 */4 * * *`, UTC; GitHub sometimes starts scheduled runs a few minutes
-late). It commits `predictions.json` and `lcra.json` to `main` as github-actions[bot],
+late). It commits `predictions.json`, `lcra.json` and `weather.json` to `main` as github-actions[bot],
 and skips the commit if nothing changed.
 
 To run it now: **Actions → Update trail predictions → Run workflow**.
