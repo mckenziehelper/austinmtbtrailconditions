@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T09:00:43Z",
+  "updated": "2026-10-23T11:00:22Z",
   "results": [
     {"trail": "Brushy Creek", "station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "Barton Creek Greenbelt", "station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Walnut Creek", "station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
+    {"trail": "Walnut Creek", "station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "South Austin Trail Network", "station": "Manchaca 4 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "Suburban Ninja", "station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "St Edwards", "station": "Jollyville 2 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
@@ -18,9 +18,9 @@
     {"trail": "Pedernales Falls", "station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "McKinney Falls", "station": "Onion Creek at Hwy 183, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "Reimers Ranch", "station": "Lakeway 6 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Reveille Peak Ranch", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
+    {"trail": "Reveille Peak Ranch", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "Rocky Hill Ranch", "station": "Colorado River at Smithville", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"trail": "Spider Mountain", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
+    {"trail": "Spider Mountain", "station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"trail": "Thumper", "station": "Jollyville 2 SW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"station": "Barton Creek at Loop 360, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"station": "Cedar Park 3 SSW", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
@@ -33,8 +33,8 @@
     {"station": "Lakeway 6 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"station": "Manchaca 4 W", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"station": "Onion Creek at Hwy 183, Austin", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Mild"},
+    {"station": "Pflugerville 3 SSE", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
     {"station": "Spicewood 2 NNE", "prediction": "Dry", "isDry": true, "temperature": "Cool"},
-    {"station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Mild"}
+    {"station": "Tow 10 ESE", "prediction": "Dry", "isDry": true, "temperature": "Cool"}
   ]
 }
