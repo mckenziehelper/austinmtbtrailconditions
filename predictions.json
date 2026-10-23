@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:12:43Z",
+  "updated": "2026-10-23T14:37:26Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -8,18 +8,22 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.136,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Cedar Park; even slow-draining creek sections have dried out."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.157,
       "rainChance24h": 0,
       "crossingStage": 1.68,
-      "crossingFlow": 0.0
+      "crossingFlow": 0.0,
+      "source": "claude",
+      "reason": "No rain in a week (0.4 in. over 2 weeks); Barton Creek at 0 cfs, crossings dry."
     },
     {
       "trail": "Walnut Creek",
@@ -30,7 +34,9 @@
       "soilMoisture": 0.209,
       "rainChance24h": 0,
       "crossingStage": 0.03,
-      "crossingFlow": null
+      "crossingFlow": null,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Pflugerville; shaded dirt and Point Six puddles have dried."
     },
     {
       "trail": "South Austin Trail Network",
@@ -41,7 +47,9 @@
       "soilMoisture": 0.149,
       "rainChance24h": 0,
       "crossingStage": 3.27,
-      "crossingFlow": 0.0
+      "crossingFlow": 0.0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; Slaughter Creek at 0 cfs, prairie clay is dry."
     },
     {
       "trail": "Suburban Ninja",
@@ -50,47 +58,57 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.136,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Cedar Park; shaded sections have had ample time to dry."
     },
     {
       "trail": "St Edwards",
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.209,
       "rainChance24h": 0,
       "crossingStage": 1.03,
-      "crossingFlow": 0.0
+      "crossingFlow": 0.0,
+      "source": "claude",
+      "reason": "No rain in a week (0.4 in. over 2 weeks); Bull Creek at 0 cfs, low leg is dry."
     },
     {
       "trail": "Bull Creek",
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.209,
       "rainChance24h": 0,
       "crossingStage": 1.03,
-      "crossingFlow": 0.0
+      "crossingFlow": 0.0,
+      "source": "claude",
+      "reason": "No rain in a week (0.5 in. over 2 weeks); Bull Creek at 0 cfs, crossings dry."
     },
     {
       "trail": "Mt Lakeway",
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.15,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Lakeway; rocky trails are dry."
     },
     {
       "trail": "Muleshoe Bend",
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.131,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Spicewood; shaded sand and rock are dry."
     },
     {
       "trail": "Pace Bend",
@@ -99,7 +117,9 @@
       "isDry": true,
       "temperature": "Cool",
       "soilMoisture": 0.131,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; exposed rocky trails are dry."
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -108,7 +128,9 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.101,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in a week (0.5 in. over 2 weeks) and low soil moisture; forest floor dry."
     },
     {
       "trail": "Emma Long",
@@ -117,7 +139,9 @@
       "isDry": true,
       "temperature": "Cool",
       "soilMoisture": 0.199,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No meaningful rain in 2 weeks; limestone ledges are dry."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -126,7 +150,9 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.133,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No meaningful rain in 2 weeks; rocky and dry. Hunting closure starts Nov 1."
     },
     {
       "trail": "Lake Georgetown",
@@ -135,7 +161,9 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.127,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "Under 0.1 in. in 2 weeks; limestone is dry and grippy."
     },
     {
       "trail": "Pedernales Falls",
@@ -144,18 +172,22 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.118,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; rocky trails and stream crossings are dry."
     },
     {
       "trail": "McKinney Falls",
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.157,
       "rainChance24h": 0,
       "crossingStage": 4.31,
-      "crossingFlow": 0.07
+      "crossingFlow": 0.07,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; Onion Creek barely flowing (0.07 cfs), Lower Falls crossable."
     },
     {
       "trail": "Reimers Ranch",
@@ -164,7 +196,9 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.126,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks at Lakeway 6 W; sandy singletrack is dry."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -173,16 +207,20 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.122,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; granite and dirt trails are dry."
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.1,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "Only 0.17 in. in 2 weeks and very low soil moisture; sandy hard-pack is dry."
     },
     {
       "trail": "Spider Mountain",
@@ -191,22 +229,26 @@
       "isDry": true,
       "temperature": "Mild",
       "soilMoisture": 0.16,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in 2 weeks; bike park trails are dry."
     },
     {
       "trail": "Thumper",
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.209,
-      "rainChance24h": 0
+      "rainChance24h": 0,
+      "source": "claude",
+      "reason": "No rain in a week (0.4 in. over 2 weeks); rocky, rooty trail is dry."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -218,7 +260,7 @@
       "station": "Colorado River at Smithville",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Cow Creek near Lago Vista",
@@ -248,7 +290,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Lake Austin at Cortana Shores",
@@ -260,7 +302,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Lakeway 6 W",
@@ -278,7 +320,7 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Pflugerville 3 SSE",
@@ -290,7 +332,7 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Tow 10 ESE",
