@@ -4,11 +4,13 @@
         "city": "Cedar Park, TX",
         "trailforks": "region/brushy-creek/",
         "latitude": 30.5080547,
-        "longitude": -97.771960,
+        "longitude": -97.77196,
         "gmaps": "https://goo.gl/maps/kt9XTrH3anDTiMaM7",
-        "station":"Cedar Park 3 SSW"
-    
-        
+        "station": "Cedar Park 3 SSW",
+        "surface": "mixed",
+        "shade": "partial",
+        "drainage": "slow",
+        "notes": "Reviewers: dries slowly after rain and gets very slick; low sections along the creek go under water after heavy rain."
     },
     {
         "name": "Barton Creek Greenbelt",
@@ -17,7 +19,10 @@
         "latitude": 30.247167,
         "longitude": -97.8126892,
         "gmaps": "https://goo.gl/maps/oqnWk5ZUCLt4W2kA7",
-        "station":"Barton Creek at Loop 360, Austin"
+        "station": "Barton Creek at Loop 360, Austin",
+        "surface": "rocky",
+        "crossingGauge": "Barton Ck at Loop 360, Austin, TX",
+        "notes": "Limestone ledges and rock faces; the City of Austin has closed the Greenbelt for weather and high water."
     },
     {
         "name": "Walnut Creek",
@@ -26,8 +31,11 @@
         "latitude": 30.4008039,
         "longitude": -97.686422,
         "gmaps": "https://goo.gl/maps/DUMoDCGe9j3fzPX68",
-        "station":"Pflugerville 3 SSE"
-        
+        "station": "Pflugerville 3 SSE",
+        "surface": "dirt",
+        "shade": "heavy",
+        "crossingGauge": "Walnut Creek at Metric Boulevard",
+        "notes": "Mostly packed dirt with sandy/loamy sections; Point Six Loop is one of the slowest to dry, with large mud puddles."
     },
     {
         "name": "South Austin Trail Network",
@@ -36,7 +44,10 @@
         "latitude": 30.2068733,
         "longitude": -97.9048399,
         "gmaps": "https://g.page/slaughtercreektrail",
-        "station":"Manchaca 4 W"
+        "station": "Manchaca 4 W",
+        "surface": "mixed",
+        "crossingGauge": "Slaughter Ck at FM 1826 nr Austin, TX",
+        "notes": "Rock gardens and roots; blackland prairie on Maxwell Trail; Southbank follows Slaughter Creek. Mostly unsanctioned trails."
     },
     {
         "name": "Suburban Ninja",
@@ -45,8 +56,8 @@
         "latitude": 30.5341152,
         "longitude": -97.7822233,
         "gmaps": "https://goo.gl/maps/Ea1ASpcRE6FkMonB7",
-        "station":"Cedar Park 3 SSW"
-        
+        "station": "Cedar Park 3 SSW",
+        "notes": "Shaded sections stay moist longer; open sections dry first."
     },
     {
         "name": "St Edwards",
@@ -55,8 +66,9 @@
         "latitude": 30.4066576,
         "longitude": -97.7903003,
         "gmaps": "https://goo.gl/maps/ar4GnoXxxK3vRbFZ7",
-        "station":"Jollyville 2 SW"
-        
+        "station": "Jollyville 2 SW",
+        "crossingGauge": "Bull Ck at Loop 360 nr Austin, TX",
+        "notes": "City-sanctioned; one leg runs at creek water level."
     },
     {
         "name": "Bull Creek",
@@ -65,8 +77,9 @@
         "latitude": 30.3783746,
         "longitude": -97.7785338,
         "gmaps": "https://goo.gl/maps/FGmJXySAUFabnGMo7",
-        "station":"Jollyville 2 SW"
-
+        "station": "Jollyville 2 SW",
+        "crossingGauge": "Bull Ck at Loop 360 nr Austin, TX",
+        "notes": "Inga's Trail has several creek crossings and muddy spots south of 360."
     },
     {
         "name": "Mt Lakeway",
@@ -75,8 +88,8 @@
         "latitude": 30.349564,
         "longitude": -97.996325,
         "gmaps": "https://goo.gl/maps/zscfbaLFmLVhApzi9",
-        "station":"Lakeway 2 E"
-        
+        "station": "Lakeway 2 E",
+        "notes": "Monkey Wrench: 'beware when it is wet'; small creek crossing on Drop Out."
     },
     {
         "name": "Muleshoe Bend",
@@ -85,7 +98,11 @@
         "latitude": 30.4872904,
         "longitude": -98.0986726,
         "gmaps": "https://goo.gl/maps/6PqqXCjMjZgSkGTq7",
-        "station":"Spicewood 2 NNE"
+        "station": "Spicewood 2 NNE",
+        "surface": "mixed",
+        "shade": "heavy",
+        "statusUrl": "https://lcraparks.com/parks/muleshoe-bend-recreation-area",
+        "notes": "Sand, rock gardens, limestone and dirt; about 80% shaded by cedar and mesquite. LCRA park."
     },
     {
         "name": "Pace Bend",
@@ -94,7 +111,9 @@
         "latitude": 30.4596361,
         "longitude": -98.0192444,
         "gmaps": "https://goo.gl/maps/SEb8QbafQvUr4ecs9",
-        "station":"Lago Vista 1 ESE"
+        "station": "Cow Creek near Lago Vista",
+        "surface": "rocky",
+        "notes": "Travis County park; rock gardens with some sandy sections; sparse forest and grassland."
     },
     {
         "name": "Bluff Creek Ranch",
@@ -103,7 +122,10 @@
         "latitude": 30.0578728,
         "longitude": -96.906305,
         "gmaps": "https://g.page/BCRWarda",
-        "station":"Colorado River at Smithville"
+        "station": "Colorado River at Smithville",
+        "shade": "heavy",
+        "statusUrl": "https://bcrwarda.com/",
+        "notes": "Hardwood and pine forest; pine needles can be slick. Closes for race weekends."
     },
     {
         "name": "Emma Long",
@@ -112,7 +134,9 @@
         "gmaps": "https://goo.gl/maps/vtD2zvNwAVvPyuod9",
         "latitude": 30.3280269,
         "longitude": -97.8419279,
-        "station":"Lake Austin at Cortana Shores"
+        "station": "Lake Austin at Cortana Shores",
+        "surface": "rocky",
+        "notes": "Dozens of limestone ledges; MX park shared with dirt bikes (no hikers)."
     },
     {
         "name": "Flat Rock Ranch",
@@ -121,7 +145,12 @@
         "gmaps": "https://goo.gl/maps/YfCqSPoZtSN3abxRA",
         "latitude": 30.0152476,
         "longitude": -98.8705957,
-        "station":"Fredericksburg 10 SSE"
+        "station": "Fredericksburg 10 SSE",
+        "surface": "rocky",
+        "closesWhenWet": true,
+        "seasonalClosure": "Nov-Dec",
+        "statusUrl": "https://flatrockranchtx.com/",
+        "notes": "Closed November through December for hunting; may close for inclement weather."
     },
     {
         "name": "Lake Georgetown",
@@ -130,16 +159,23 @@
         "gmaps": "https://goo.gl/maps/KR2qS451rEWesuPD7",
         "latitude": 30.6736826,
         "longitude": -97.7368782,
-        "station":"Florence 3 SW"
+        "station": "Florence 3 SW",
+        "surface": "rocky",
+        "shade": "partial",
+        "notes": "Goodwater Loop: relentless sharp limestone; slick when damp; one creek crossing; open meadow sections. USACE land."
     },
     {
         "name": "Pedernales Falls",
         "city": "Johnson City, TX",
         "trailforks": "region/pedernales-falls-state-park-21994/",
         "gmaps": "https://goo.gl/maps/pwaZnp6ebiJwLvmn6",
-        "latitude": 30.1639663,
-        "longitude": -97.807562,
-        "station":"Manchaca 4 W"
+        "latitude": 30.308069,
+        "longitude": -98.257729,
+        "station": "Johnson City 10 E",
+        "surface": "rocky",
+        "closesWhenWet": true,
+        "statusUrl": "https://tpwd.texas.gov/state-parks/pedernales-falls",
+        "notes": "Rocky limestone; numerous small stream crossings on Juniper Ridge; TPWD sometimes closes trails for weather, call (830) 868-7304."
     },
     {
         "name": "McKinney Falls",
@@ -148,7 +184,10 @@
         "gmaps": "https://goo.gl/maps/syF3GguE4JPofJPv5",
         "latitude": 30.1836487,
         "longitude": -97.7221944,
-       "station":"Onion Creek at Hwy 183, Austin"
+        "station": "Onion Creek at Hwy 183, Austin",
+        "crossingGauge": "Onion Creek at Hwy 183, Austin",
+        "statusUrl": "https://tpwd.texas.gov/state-parks/mckinney-falls",
+        "notes": "Reaching Homestead, Flint Rock and Williamson Creek Overlook means crossing the Lower Falls; Onion Creek can flood after rain."
     },
     {
         "name": "Reimers Ranch",
@@ -157,7 +196,11 @@
         "gmaps": "https://goo.gl/maps/i1oWbZYdX8uuQubq7",
         "latitude": 30.3336618,
         "longitude": -98.1244595,
-        "station":"Lakeway 6 W"
+        "station": "Lakeway 6 W",
+        "surface": "dirt",
+        "closesWhenWet": true,
+        "statusUrl": "https://parks.traviscountytx.gov/find-a-park/reimers-ranch",
+        "notes": "Mostly sandy singletrack with limestone slabs. Travis County closes trails after significant rain until thoroughly dry, sometimes when only slightly wet."
     },
     {
         "name": "Reveille Peak Ranch",
@@ -166,7 +209,7 @@
         "gmaps": "https://goo.gl/maps/sB5xHTVrDfw55Xy87",
         "latitude": 30.8004465,
         "longitude": -98.3360618,
-        "station":"Tow 10 ESE"
+        "station": "Tow 10 ESE"
     },
     {
         "name": "Rocky Hill Ranch",
@@ -175,7 +218,11 @@
         "gmaps": "https://goo.gl/maps/kmhY5NjWAHDTRFL1A",
         "latitude": 30.0444613,
         "longitude": -97.1279317,
-        "station":"Colorado River at Smithville"
+        "station": "Colorado River at Smithville",
+        "surface": "dirt",
+        "shade": "heavy",
+        "statusUrl": "https://www.rockyhillranch.com/",
+        "notes": "Smooth sandy hard-pack in pines and hardwoods; sticky red mud at the bottom of The Wall. Closes for race weekends."
     },
     {
         "name": "Spider Mountain",
@@ -184,7 +231,9 @@
         "gmaps": "https://g.page/SpiderMtn",
         "latitude": 30.8388205,
         "longitude": -98.3384559,
-        "station":"Tow 10 ESE"
+        "station": "Tow 10 ESE",
+        "statusUrl": "https://www.spidermountain.com/",
+        "notes": "Lift-served bike park, open year-round."
     },
     {
         "name": "Thumper",
@@ -193,6 +242,7 @@
         "gmaps": "https://goo.gl/maps/2yGhAnRN61PEo9WN6",
         "latitude": 30.4019886,
         "longitude": -97.7758821,
-        "station":"Jollyville 2 SW"
+        "station": "Jollyville 2 SW",
+        "notes": "Rocky, rooty black-diamond singletrack; at least one creek crossing."
     }
 ]
