@@ -1,8 +1,7 @@
 # austinmtbtrailconditions
 
 Wet/dry and temperature predictions for Austin-area mountain bike trails, built from
-[LCRA Hydromet](https://hydromet.lcra.org/) weather station data.
-
+[LCRA Hydromet](https://hydromet.lcra.org/) weather station data, plus
 [Open-Meteo](https://open-meteo.com/) soil moisture and rain forecasts at each trail.
 
 A GitHub Action refreshes the data every 4 hours and commits it straight to `main`,
@@ -37,7 +36,7 @@ Trail entries can also carry these optional fields:
 
 | Field | Meaning |
 |---|---|
-| `soilMoisture` | Open-Meteo modeled topsoil moisture (0–1 cm), m³/m³. Roughly: under 0.15 dry, over 0.30 wet. |
+| `soilMoisture` | Open-Meteo modeled topsoil moisture (0–1 cm), m³/m³; higher is wetter |
 | `rainChance24h` | Highest hourly chance of rain over the next 24 hours, % |
 | `crossingStage`, `crossingFlow` | Current stage (ft) and flow (cfs) at the gauge for the trail's creek crossing |
 
@@ -48,12 +47,12 @@ A station named in `trails.json` that has no temperature reading in the LCRA dat
 ### `weather.json` entries
 
 ```json
-{"trail": "Walnut Creek", "soilMoisture": 0.22, "soilMoisture1to3cm": 0.25, "rainLast72h": 0.07,
- "evaporationLast72hMm": 7.2, "rainNext24h": 0.03, "rainChance24h": 50}
+{"trail": "Walnut Creek", "soilMoisture": 0.209, "soilMoisture1to3cm": 0.244, "rainLast72h": 0.0,
+ "evaporationLast72h": 0.46, "rainNext24h": 0.0, "rainChance24h": 0}
 ```
 
-Rain is in inches; `evaporationLast72hMm` is Open-Meteo's reference evapotranspiration (how much drying
-the weather allowed) in millimeters.
+Rain and `evaporationLast72h` are in inches. `evaporationLast72h` is Open-Meteo's reference
+evapotranspiration: roughly how much water the weather could dry out of the ground.
 
 ## Prediction rules
 

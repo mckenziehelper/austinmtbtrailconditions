@@ -141,7 +141,7 @@ def summarize_open_meteo(location, now):
         "soilMoisture": hourly["soil_moisture_0_to_1cm"][i],
         "soilMoisture1to3cm": hourly["soil_moisture_1_to_3cm"][i],
         "rainLast72h": total("precipitation", i - 71, i + 1),
-        "evaporationLast72hMm": total("et0_fao_evapotranspiration", i - 71, i + 1),
+        "evaporationLast72h": total("et0_fao_evapotranspiration", i - 71, i + 1),
         "rainNext24h": total("precipitation", i + 1, i + 25),
         "rainChance24h": max(rain_chances) if rain_chances else None,
     }
