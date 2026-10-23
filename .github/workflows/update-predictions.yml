@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 */4 * * *" # every 4 hours (UTC)
   workflow_dispatch: # "Run workflow" button for manual runs
+  push:
+    # The Claude scheduled tasks push assessments.json / status.json to
+    # claude/trail-data-* branches. Fold them in right away, then delete the branch.
+    branches: ["claude/trail-data-**"]
 
 permissions:
   contents: write
@@ -20,6 +24,36 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
+
+      - name: Take Claude's files from its branch
+        if: github.event_name == 'push'
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          # Only these two files are accepted from a Claude branch, and only
+          # when valid JSON that is newer than the copy already on main.
+          for f in assessments.json status.json; do
+            git show "origin/$BRANCH:$f" > "/tmp/$f" 2>/dev/null || continue
+            python3 - "$f" <<'PY'
+          import json, shutil, sys
+          f = sys.argv[1]
+          try:
+              new = json.load(open(f"/tmp/{f}"))
+              assert isinstance(new["results"], list) and new["updated"]
+          except Exception as e:
+              print(f"skipping {f}: {e}"); sys.exit(0)
+          try:
+              old = json.load(open(f))["updated"]
+          except Exception:
+              old = ""
+          if new["updated"] > old:
+              shutil.copy(f"/tmp/{f}", f)
+              print(f"took {f} ({new['updated']})")
+          else:
+              print(f"kept main's {f}")
+          PY
+          done
 
       - uses: actions/setup-python@v5
         with:
@@ -36,10 +70,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add predictions.json lcra.json weather.json
+          git add assessments.json status.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes"
-            exit 0
+          else
+            git commit -m "Update trail predictions"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
-          git commit -m "Update trail predictions"
-          git pull --rebase origin main
-          git push origin HEAD:main
+
+      - name: Delete Claude's branch
+        if: github.event_name == 'push'
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: git push origin --delete "$BRANCH" || true

@@ -39,6 +39,11 @@ Trail entries can also carry these optional fields:
 | `soilMoisture` | Open-Meteo modeled topsoil moisture (0–1 cm), m³/m³; higher is wetter |
 | `rainChance24h` | Highest hourly chance of rain over the next 24 hours, % |
 | `crossingStage`, `crossingFlow` | Current stage (ft) and flow (cfs) at the gauge for the trail's creek crossing |
+| `source` | `claude` if the Wet/Dry call came from Claude's assessment, `rule` if from the rain rule |
+| `reason` | Claude's one-sentence explanation (only when `source` is `claude`) |
+| `status` | `open`, `closed` or `caution`, from Claude's daily check of status pages |
+| `statusNote` | Short note on the status, e.g. why it's closed |
+| `statusChecked` | When that status was checked (UTC) |
 
 If Open-Meteo is unavailable, its fields are left out and the rest of the run still completes.
 
@@ -70,6 +75,25 @@ Temperature label (°F):
 | 73–82 | Warm |
 | 83–92 | Hot |
 | 93 and above | Very Hot |
+
+## Claude's calls and closure status
+
+Two Claude scheduled tasks add judgment the rain rule can't:
+
+- **Trail calls** (about 5:30am and 2:30pm Central) read `lcra.json`, `weather.json` and
+  `trails.json` and write `assessments.json`: a Wet/Dry call and one-sentence reason per trail.
+- **Closures** (about 5am Central) read each trail's status page and recent rider reports and
+  write `status.json`: `open`, `closed` or `caution` per trail, with a note.
+
+They push to `claude/trail-data-*` branches. The workflow takes only those two files (if valid and
+newer than `main`'s copy), folds them into `predictions.json`, and deletes the branch.
+
+Every 4-hour run applies them like this:
+
+- Claude's call is used while it is under 24 hours old **and** the trail's station has recorded no
+  rain since Claude made it. Otherwise the rain rule decides, so new rain always wins.
+- Status is shown while it is under 72 hours old.
+- If either file is missing or stale, predictions are rule-only and still complete.
 
 ## How it runs
 

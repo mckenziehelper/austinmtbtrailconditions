@@ -6,6 +6,10 @@ Writes these files at the repository root:
   weather.json      - Open-Meteo soil moisture, rain and forecast at each trail
   predictions.json  - Wet/Dry and temperature label per trail and per station
 
+It also folds in two files written by Claude scheduled tasks, when present:
+  assessments.json  - Claude's Wet/Dry call and reason per trail (twice a day)
+  status.json       - open/closed/caution per trail from status pages (daily)
+
 Run every 4 hours by .github/workflows/update-predictions.yml, which commits
 them to main.
 """
@@ -218,6 +222,89 @@ def build_predictions(trails, lcra_data, weather=None):
     return results
 
 
+# LCRA rainfall windows, shortest first, as (hours covered, field name).
+RAIN_WINDOWS = [
+    (1, "rainfall1Hour"),
+    (2, "rainfall2Hours"),
+    (3, "rainfall3Hours"),
+    (6, "rainfall6Hours"),
+    (12, "rainfall12Hours"),
+    (24, "rainfall1Day"),
+]
+ASSESSMENT_MAX_AGE_HOURS = 24
+STATUS_MAX_AGE_HOURS = 72
+
+
+def parse_time(value):
+    try:
+        return datetime.datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except (AttributeError, ValueError):
+        return None
+
+
+def read_claude_file(filename):
+    """Load a file written by one of the Claude scheduled tasks, if present."""
+    path = ROOT / filename
+    if not path.exists():
+        return None, {}
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        return parse_time(data.get("updated")), {r["trail"]: r for r in data["results"]}
+    except (ValueError, KeyError, TypeError) as e:
+        logger.warning("ignoring unreadable %s: %s", filename, e)
+        return None, {}
+
+
+def rained_since(station, hours):
+    """True if the station recorded rain in the window covering the last `hours`."""
+    for window, field in RAIN_WINDOWS:
+        if hours <= window:
+            return (num(station.get(field)) or 0) > 0
+    return True  # older than a day: treat as stale
+
+
+def apply_claude(results, lcra_data, now):
+    """Fold Claude's trail calls and closure status into the rule-based results.
+
+    Claude's Wet/Dry call is used only while it is fresh and no rain has fallen
+    at the trail's station since Claude made it; otherwise the rule stands.
+    """
+    lcra_by_name = {s["siteName"]: s for s in lcra_data}
+    assessed_at, assessments = read_claude_file("assessments.json")
+    checked_at, statuses = read_claude_file("status.json")
+
+    assessment_age = (now - assessed_at).total_seconds() / 3600 if assessed_at else None
+    status_fresh = checked_at and (now - checked_at).total_seconds() / 3600 <= STATUS_MAX_AGE_HOURS
+
+    for entry in results:
+        if "trail" not in entry:
+            continue
+        entry["source"] = "rule"
+        call = assessments.get(entry["trail"])
+        station = lcra_by_name.get(entry["station"], {})
+        if (
+            call
+            and call.get("prediction") in ("Wet", "Dry")
+            and assessment_age is not None
+            and assessment_age <= ASSESSMENT_MAX_AGE_HOURS
+            and not rained_since(station, max(assessment_age, 1))
+        ):
+            entry["prediction"] = call["prediction"]
+            entry["isDry"] = call["prediction"] == "Dry"
+            entry["source"] = "claude"
+            if call.get("reason"):
+                entry["reason"] = call["reason"]
+
+        status = statuses.get(entry["trail"])
+        if status_fresh and status and status.get("status") in ("open", "closed", "caution"):
+            entry["status"] = status["status"]
+            if status.get("statusNote"):
+                entry["statusNote"] = status["statusNote"]
+            entry["statusChecked"] = checked_at.strftime("%Y-%m-%dT%H:%M:%SZ")
+    return results
+
+
 def write_json(filename, data):
     path = ROOT / filename
     with open(path, "w") as f:
@@ -244,6 +331,7 @@ def main():
     if not results:
         logger.error("no predictions produced; leaving files unchanged")
         return 1
+    apply_claude(results, lcra_data, datetime.datetime.now(datetime.timezone.utc))
 
     write_json("lcra.json", {"updated": updated, "results": lcra_data})
     if weather:
