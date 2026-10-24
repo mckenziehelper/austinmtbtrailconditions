@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:47:58Z",
+  "updated": "2026-10-24T16:58:13Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -55,7 +55,7 @@
     {
       "trail": "Bluff Creek Ranch",
       "status": "caution",
-      "statusNote": "Site says closed for race event 'this weekend'; confirm dates",
+      "statusNote": "Site banner: ranch closed for a race event this weekend",
       "source": "https://bcrwarda.com/"
     },
     {
