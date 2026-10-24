@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:58:13Z",
+  "updated": "2026-10-24T17:01:42Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -54,8 +54,8 @@
     },
     {
       "trail": "Bluff Creek Ranch",
-      "status": "caution",
-      "statusNote": "Site banner: ranch closed for a race event this weekend",
+      "status": "closed",
+      "statusNote": "Closed this weekend for a race event",
       "source": "https://bcrwarda.com/"
     },
     {
@@ -66,7 +66,7 @@
     {
       "trail": "Flat Rock Ranch",
       "status": "open",
-      "source": "https://flatrockranchtx.com/"
+      "source": "https://www.trailforks.com/region/flat-rock-ranch-16142/status/"
     },
     {
       "trail": "Lake Georgetown",
@@ -76,17 +76,17 @@
     {
       "trail": "Pedernales Falls",
       "status": "open",
-      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls"
+      "source": "https://www.trailforks.com/region/pedernales-falls-state-park-21994/status/"
     },
     {
       "trail": "McKinney Falls",
       "status": "open",
-      "source": "https://tpwd.texas.gov/state-parks/mckinney-falls"
+      "source": "https://www.trailforks.com/region/mckinney-falls-state-park-22054/status/"
     },
     {
       "trail": "Reimers Ranch",
       "status": "open",
-      "source": "https://parks.traviscountytx.gov/find-a-park/reimers-ranch"
+      "source": "https://www.trailforks.com/region/milton-reimers-ranch-park-17523/status/"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -102,7 +102,7 @@
     {
       "trail": "Spider Mountain",
       "status": "open",
-      "source": "https://www.spidermountain.com/"
+      "source": "https://www.trailforks.com/region/spider-mountain-bike-park-27035/status/"
     },
     {
       "trail": "Thumper",

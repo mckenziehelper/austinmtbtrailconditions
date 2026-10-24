@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T16:58:26Z",
+  "updated": "2026-10-24T17:01:52Z",
   "results": [
     {
       "siteNumber": "120",
-      "dateTime": "2026-10-24T16:45:29Z",
+      "dateTime": "2026-10-24T17:00:26Z",
       "zoomLevel": "9",
       "agency": "COA",
       "siteName": "Teri Road near Nuckols Crossing",
@@ -32,13 +32,13 @@
       "rainfallPrev3Month": "2.60",
       "rainfallYear": "26.52",
       "rainfallPrevYear": "22.88",
-      "stage": "0.07",
-      "batteryVoltage": "13.90",
+      "stage": "0.06",
+      "batteryVoltage": "14.10",
       "nwsid": "TNCT2"
     },
     {
       "siteNumber": "121",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Waller Creek at E 45 Street",
@@ -68,12 +68,12 @@
       "rainfallYear": "22.28",
       "rainfallPrevYear": "28.52",
       "stage": "0.14",
-      "batteryVoltage": "13.10",
+      "batteryVoltage": "13.80",
       "nwsid": "WAFT2"
     },
     {
       "siteNumber": "122",
-      "dateTime": "2026-10-24T16:45:18Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Blunn Creek at Stacy Park",
@@ -104,12 +104,12 @@
       "rainfallPrevYear": "23.80",
       "stage": "0.66",
       "flow": "0.00",
-      "batteryVoltage": "13.30",
+      "batteryVoltage": "13.50",
       "nwsid": "BNST2"
     },
     {
       "siteNumber": "123",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Comburg Dam",
@@ -138,13 +138,13 @@
       "rainfallPrev3Month": "3.56",
       "rainfallYear": "26.92",
       "rainfallPrevYear": "22.44",
-      "stage": "0.12",
-      "batteryVoltage": "14.10",
+      "stage": "0.13",
+      "batteryVoltage": "13.90",
       "nwsid": "COBT2"
     },
     {
       "siteNumber": "124",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Sunset Valley",
@@ -178,7 +178,7 @@
     },
     {
       "siteNumber": "187",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:27Z",
       "zoomLevel": "13",
       "agency": "COA",
       "siteName": "Boggy Creek at E 51st Street",
@@ -208,12 +208,12 @@
       "rainfallYear": "21.48",
       "rainfallPrevYear": "31.00",
       "stage": "0.03",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "13.30",
       "nwsid": "BOGT2"
     },
     {
       "siteNumber": "248",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:17Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Waller Creek at 23rd Street",
@@ -244,12 +244,12 @@
       "rainfallPrevYear": "28.48",
       "stage": "0.53",
       "flow": "0.01",
-      "batteryVoltage": "13.90",
+      "batteryVoltage": "13.60",
       "nwsid": "ASWT2"
     },
     {
       "siteNumber": "267",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Great Northern Dam",
@@ -284,7 +284,7 @@
     },
     {
       "siteNumber": "505",
-      "dateTime": "2026-10-24T16:45:11Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Maui Dam",
@@ -314,12 +314,12 @@
       "rainfallYear": "23.32",
       "rainfallPrevYear": "18.88",
       "stage": "0.06",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "MUAT2"
     },
     {
       "siteNumber": "581",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:17Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Metric Boulevard Dam",
@@ -354,7 +354,7 @@
     },
     {
       "siteNumber": "700",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Westlake High School on Westbank Drive",
@@ -383,12 +383,12 @@
       "rainfallPrev3Month": "2.72",
       "rainfallYear": "25.96",
       "rainfallPrevYear": "23.96",
-      "batteryVoltage": "13.80",
+      "batteryVoltage": "14.00",
       "nwsid": "AAWT2"
     },
     {
       "siteNumber": "726",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Tech Ridge Dam",
@@ -422,7 +422,7 @@
     },
     {
       "siteNumber": "800",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "West Bouldin Creek at 1301 Oltorf",
@@ -452,12 +452,12 @@
       "rainfallYear": "28.76",
       "rainfallPrevYear": "22.24",
       "stage": "0.04",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "AAOT2"
     },
     {
       "siteNumber": "810",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "St. Edwards Drive",
@@ -486,12 +486,12 @@
       "rainfallPrev3Month": "3.08",
       "rainfallYear": "25.00",
       "rainfallPrevYear": "22.72",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "AAET2"
     },
     {
       "siteNumber": "820",
-      "dateTime": "2026-10-24T16:45:21Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Country Club West Creek at E. Riverside Drive",
@@ -525,7 +525,7 @@
     },
     {
       "siteNumber": "830",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "3615 S IH 35",
@@ -559,7 +559,7 @@
     },
     {
       "siteNumber": "840",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "3616 S 1st",
@@ -593,7 +593,7 @@
     },
     {
       "siteNumber": "860",
-      "dateTime": "2026-10-24T16:45:18Z",
+      "dateTime": "2026-10-24T17:00:20Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "East Bouldin Creek at Gillis Park",
@@ -623,12 +623,12 @@
       "rainfallYear": "27.20",
       "rainfallPrevYear": "22.08",
       "stage": "0.03",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "14.10",
       "nwsid": "AAAT2"
     },
     {
       "siteNumber": "910",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "5100 South Congress",
@@ -662,7 +662,7 @@
     },
     {
       "siteNumber": "920",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:17Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Seminary Ridge",
@@ -692,12 +692,12 @@
       "rainfallYear": "24.16",
       "rainfallPrevYear": "20.56",
       "stage": "0.09",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "13.90",
       "nwsid": "AAFT2"
     },
     {
       "siteNumber": "930",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Hot Springs Dam",
@@ -732,7 +732,7 @@
     },
     {
       "siteNumber": "950",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Williamson Creek at Emerald Forest Drive",
@@ -762,12 +762,12 @@
       "rainfallYear": "28.28",
       "rainfallPrevYear": "21.52",
       "stage": "0.07",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "13.40",
       "nwsid": "AAST2"
     },
     {
       "siteNumber": "1100",
-      "dateTime": "2026-10-24T16:45:28Z",
+      "dateTime": "2026-10-24T17:00:29Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Kincheon Branch and W. William Cannon",
@@ -797,12 +797,12 @@
       "rainfallYear": "23.28",
       "rainfallPrevYear": "23.12",
       "stage": "0.02",
-      "batteryVoltage": "13.80",
+      "batteryVoltage": "13.30",
       "nwsid": "AAJT2"
     },
     {
       "siteNumber": "1130",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Williamson Creek at Silvermine",
@@ -832,12 +832,12 @@
       "rainfallYear": "25.04",
       "rainfallPrevYear": "22.76",
       "stage": "0.04",
-      "batteryVoltage": "13.60",
+      "batteryVoltage": "13.70",
       "nwsid": "ARAT2"
     },
     {
       "siteNumber": "1140",
-      "dateTime": "2026-10-24T16:45:42Z",
+      "dateTime": "2026-10-24T17:00:41Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Oak Hill VFD on Thomas Springs Road",
@@ -871,7 +871,7 @@
     },
     {
       "siteNumber": "1150",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Mearns Meadow Dam",
@@ -901,12 +901,12 @@
       "rainfallYear": "19.36",
       "rainfallPrevYear": "24.92",
       "stage": "0.05",
-      "batteryVoltage": "13.70",
+      "batteryVoltage": "13.80",
       "nwsid": "MDMT2"
     },
     {
       "siteNumber": "1180",
-      "dateTime": "2026-10-24T16:45:18Z",
+      "dateTime": "2026-10-24T17:00:20Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "FM Highway 1826",
@@ -935,12 +935,12 @@
       "rainfallPrev3Month": "3.00",
       "rainfallYear": "24.56",
       "rainfallPrevYear": "24.32",
-      "batteryVoltage": "13.60",
+      "batteryVoltage": "14.00",
       "nwsid": "AWAT2"
     },
     {
       "siteNumber": "1190",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Escarpment Boulevard",
@@ -969,12 +969,12 @@
       "rainfallPrev3Month": "2.76",
       "rainfallYear": "24.92",
       "rainfallPrevYear": "25.44",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "13.70",
       "nwsid": "AAPT2"
     },
     {
       "siteNumber": "1410",
-      "dateTime": "2026-10-24T16:45:19Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "agency": "COA",
       "siteName": "Carson Creek at Posten Lane",
       "latitude": "30.214333",
@@ -1003,13 +1003,13 @@
       "rainfallYear": "26.44",
       "rainfallPrevYear": "26.52",
       "stage": "0.22",
-      "flow": "9.62",
-      "batteryVoltage": "14.00",
+      "flow": "9.59",
+      "batteryVoltage": "14.10",
       "nwsid": "ARBT2"
     },
     {
       "siteNumber": "1820",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:10Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Lake Creek and Lakecreek Parkway",
@@ -1043,7 +1043,7 @@
     },
     {
       "siteNumber": "1930",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Josh Ridge Parkway",
@@ -1072,12 +1072,12 @@
       "rainfallPrev3Month": "2.80",
       "rainfallYear": "20.56",
       "rainfallPrevYear": "24.92",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "JRPT2"
     },
     {
       "siteNumber": "1940",
-      "dateTime": "2026-10-24T16:45:10Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "agency": "COA",
       "siteName": "Harris Branch @ Old Gregg Lane",
       "latitude": "30.396944",
@@ -1105,13 +1105,13 @@
       "rainfallPrev3Month": "3.24",
       "rainfallYear": "23.28",
       "rainfallPrevYear": "6.00",
-      "stage": "0.09",
-      "batteryVoltage": "13.40",
+      "stage": "0.11",
+      "batteryVoltage": "13.80",
       "nwsid": "#1940"
     },
     {
       "siteNumber": "2030",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Blue Goose Road",
@@ -1145,7 +1145,7 @@
     },
     {
       "siteNumber": "2060",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Walnut Creek at Metric Boulevard",
@@ -1175,12 +1175,12 @@
       "rainfallYear": "22.36",
       "rainfallPrevYear": "20.96",
       "stage": "0.03",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "AZIT2"
     },
     {
       "siteNumber": "2070",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:10Z",
       "zoomLevel": "6",
       "agency": "COA",
       "siteName": "Walnut Creek at Oak Creek Drive",
@@ -1215,7 +1215,7 @@
     },
     {
       "siteNumber": "2080",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Walnut Creek near MOPAC",
@@ -1244,13 +1244,13 @@
       "rainfallPrev3Month": "1.80",
       "rainfallYear": "22.04",
       "rainfallPrevYear": "22.56",
-      "stage": "0.02",
-      "batteryVoltage": "14.30",
+      "stage": "0.03",
+      "batteryVoltage": "13.70",
       "nwsid": "AZKT2"
     },
     {
       "siteNumber": "2100",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Fire Station No. 25",
@@ -1279,12 +1279,12 @@
       "rainfallPrev3Month": "2.52",
       "rainfallYear": "25.56",
       "rainfallPrevYear": "23.04",
-      "batteryVoltage": "14.20",
+      "batteryVoltage": "13.90",
       "nwsid": "AZMT2"
     },
     {
       "siteNumber": "2140",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Corpus Christi Drive",
@@ -1318,7 +1318,7 @@
     },
     {
       "siteNumber": "2150",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Pond G Dam",
@@ -1347,13 +1347,13 @@
       "rainfallPrev3Month": "2.32",
       "rainfallYear": "21.40",
       "rainfallPrevYear": "23.36",
-      "stage": "0.09",
-      "batteryVoltage": "14.10",
+      "stage": "0.10",
+      "batteryVoltage": "13.80",
       "nwsid": "PGPT2"
     },
     {
       "siteNumber": "2200",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Fire Station no. 23",
@@ -1382,12 +1382,12 @@
       "rainfallPrev3Month": "2.00",
       "rainfallYear": "22.88",
       "rainfallPrevYear": "29.48",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "14.10",
       "nwsid": "AZPT2"
     },
     {
       "siteNumber": "2210",
-      "dateTime": "2026-10-24T16:45:26Z",
+      "dateTime": "2026-10-24T17:00:22Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Little Walnut Creek at Dottie Jordan Park",
@@ -1416,13 +1416,13 @@
       "rainfallPrev3Month": "1.80",
       "rainfallYear": "21.56",
       "rainfallPrevYear": "27.60",
-      "stage": "0.00",
+      "stage": "0.01",
       "batteryVoltage": "14.10",
       "nwsid": "AZQT2"
     },
     {
       "siteNumber": "2220",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:12Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Little Walnut Creek at Georgian Drive",
@@ -1451,12 +1451,12 @@
       "rainfallPrev3Month": "1.92",
       "rainfallYear": "21.32",
       "rainfallPrevYear": "27.04",
-      "batteryVoltage": "13.30",
+      "batteryVoltage": "14.10",
       "nwsid": "AZRT2"
     },
     {
       "siteNumber": "2240",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Little Walnut Creek at Cameron Road",
@@ -1491,20 +1491,20 @@
     },
     {
       "siteNumber": "2300",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "13",
       "agency": "COA",
       "siteName": "Little Walnut Creek at Rutland Drive",
       "latitude": "30.36653",
       "longitude": "-97.69978",
       "siteType": "river",
-      "stage": "0.07",
-      "batteryVoltage": "13.90",
+      "stage": "0.06",
+      "batteryVoltage": "14.10",
       "nwsid": "AZUT2"
     },
     {
       "siteNumber": "2320",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:12Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Parkfield Drive",
@@ -1533,12 +1533,12 @@
       "rainfallPrev3Month": "2.92",
       "rainfallYear": "22.64",
       "rainfallPrevYear": "26.36",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "14.10",
       "nwsid": "AZVT2"
     },
     {
       "siteNumber": "2340",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Little Walnut Creek at Golden Meadow Drive",
@@ -1573,7 +1573,7 @@
     },
     {
       "siteNumber": "2350",
-      "dateTime": "2026-10-24T16:45:10Z",
+      "dateTime": "2026-10-24T17:00:09Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Auburndale Dam",
@@ -1586,7 +1586,7 @@
     },
     {
       "siteNumber": "2360",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Bartholomew Dam",
@@ -1616,12 +1616,12 @@
       "rainfallYear": "19.32",
       "rainfallPrevYear": "31.60",
       "stage": "0.06",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "13.60",
       "nwsid": "BMWT2"
     },
     {
       "siteNumber": "2380",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:09Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "W 12th Street",
@@ -1655,7 +1655,7 @@
     },
     {
       "siteNumber": "2400",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Shoal Creek at W 45th Street",
@@ -1685,12 +1685,12 @@
       "rainfallYear": "22.96",
       "rainfallPrevYear": "25.56",
       "stage": "0.05",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "13.70",
       "nwsid": "AWET2"
     },
     {
       "siteNumber": "2410",
-      "dateTime": "2026-10-24T16:45:19Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Hancock Branch at Arroyo Seca",
@@ -1719,13 +1719,13 @@
       "rainfallPrev3Month": "3.00",
       "rainfallYear": "22.12",
       "rainfallPrevYear": "28.72",
-      "stage": "0.11",
+      "stage": "0.10",
       "batteryVoltage": "14.10",
       "nwsid": "AWDT2"
     },
     {
       "siteNumber": "2510",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:20Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Shoal Creek at Shoal Creek Boulevard",
@@ -1760,7 +1760,7 @@
     },
     {
       "siteNumber": "2520",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:17Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Shoal Creek at Foster Lane",
@@ -1789,13 +1789,13 @@
       "rainfallPrev3Month": "2.92",
       "rainfallYear": "22.44",
       "rainfallPrevYear": "25.60",
-      "stage": "0.03",
+      "stage": "0.02",
       "batteryVoltage": "14.00",
       "nwsid": "AWGT2"
     },
     {
       "siteNumber": "2540",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Woodhollow Dam",
@@ -1824,12 +1824,12 @@
       "rainfallPrev3Month": "2.60",
       "rainfallYear": "22.68",
       "rainfallPrevYear": "25.72",
-      "batteryVoltage": "13.70",
+      "batteryVoltage": "13.60",
       "nwsid": "AWHT2"
     },
     {
       "siteNumber": "2550",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "ZK Dam",
@@ -1858,12 +1858,12 @@
       "rainfallPrev3Month": "2.32",
       "rainfallYear": "21.72",
       "rainfallPrevYear": "24.48",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "13.80",
       "nwsid": "AWIT2"
     },
     {
       "siteNumber": "2580",
-      "dateTime": "2026-10-24T16:45:19Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "agency": "COA",
       "siteName": "Grover Tributary at Joe Sayers Avenue",
       "latitude": "30.330222",
@@ -1893,12 +1893,12 @@
       "rainfallPrevYear": "26.04",
       "stage": "0.01",
       "flow": "0.03",
-      "batteryVoltage": "14.20",
+      "batteryVoltage": "14.00",
       "nwsid": "AGTT2"
     },
     {
       "siteNumber": "2730",
-      "dateTime": "2026-10-24T16:45:32Z",
+      "dateTime": "2026-10-24T17:00:33Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Barton Creek Boulevard",
@@ -1927,12 +1927,12 @@
       "rainfallPrev3Month": "2.20",
       "rainfallYear": "20.92",
       "rainfallPrevYear": "21.84",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "AWLT2"
     },
     {
       "siteNumber": "2750",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "7",
       "agency": "COA",
       "siteName": "Slaughter Creek at Brodie Lane",
@@ -1962,12 +1962,12 @@
       "rainfallYear": "23.64",
       "rainfallPrevYear": "22.56",
       "stage": "0.04",
-      "batteryVoltage": "13.70",
+      "batteryVoltage": "13.80",
       "nwsid": "AWMT2"
     },
     {
       "siteNumber": "2760",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Tanglewood Dam",
@@ -1996,13 +1996,13 @@
       "rainfallPrev3Month": "3.40",
       "rainfallYear": "25.64",
       "rainfallPrevYear": "21.32",
-      "stage": "0.07",
-      "batteryVoltage": "13.30",
+      "stage": "0.14",
+      "batteryVoltage": "14.10",
       "nwsid": "ARFT2"
     },
     {
       "siteNumber": "2780",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Dick Nichols Dam",
@@ -2037,7 +2037,7 @@
     },
     {
       "siteNumber": "2800",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:20Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "E William Cannon Wet Pond",
@@ -2066,12 +2066,12 @@
       "rainfallPrev3Month": "2.64",
       "rainfallYear": "26.88",
       "rainfallPrevYear": "22.64",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "14.10",
       "nwsid": "ARIT2"
     },
     {
       "siteNumber": "2820",
-      "dateTime": "2026-10-24T16:45:18Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "agency": "COA",
       "siteName": "Fire Station No. 53",
       "latitude": "30.144333",
@@ -2103,7 +2103,7 @@
     },
     {
       "siteNumber": "2840",
-      "dateTime": "2026-10-24T16:45:23Z",
+      "dateTime": "2026-10-24T17:00:25Z",
       "agency": "COA",
       "siteName": "Fire Station No. 49",
       "latitude": "30.143611",
@@ -2131,11 +2131,11 @@
       "rainfallPrev3Month": "3.80",
       "rainfallYear": "24.12",
       "rainfallPrevYear": "17.56",
-      "batteryVoltage": "13.30"
+      "batteryVoltage": "13.50"
     },
     {
       "siteNumber": "2910",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Hornsby Bend WWTP",
@@ -2169,7 +2169,7 @@
     },
     {
       "siteNumber": "3000",
-      "dateTime": "2026-10-24T16:45:18Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Waller Creek at E 12th Street",
@@ -2198,12 +2198,12 @@
       "rainfallPrev3Month": "3.56",
       "rainfallYear": "24.04",
       "rainfallPrevYear": "22.00",
-      "batteryVoltage": "14.00",
+      "batteryVoltage": "14.10",
       "nwsid": "AWPT2"
     },
     {
       "siteNumber": "3120",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Waller Creek at W Koenig Street",
@@ -2232,12 +2232,12 @@
       "rainfallPrev3Month": "2.88",
       "rainfallYear": "21.00",
       "rainfallPrevYear": "28.40",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "13.40",
       "nwsid": "ALIT2"
     },
     {
       "siteNumber": "3130",
-      "dateTime": "2026-10-24T16:45:20Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Waller Creek at Hemphill Park",
@@ -2266,12 +2266,12 @@
       "rainfallPrev3Month": "4.44",
       "rainfallYear": "25.00",
       "rainfallPrevYear": "26.96",
-      "batteryVoltage": "13.90",
+      "batteryVoltage": "14.00",
       "nwsid": "ALJT2"
     },
     {
       "siteNumber": "3200",
-      "dateTime": "2026-10-24T16:45:25Z",
+      "dateTime": "2026-10-24T17:00:21Z",
       "zoomLevel": "10",
       "agency": "COA",
       "siteName": "Tannehill Branch at Oak Springs Drive",
@@ -2306,7 +2306,7 @@
     },
     {
       "siteNumber": "3310",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "11",
       "agency": "COA",
       "siteName": "Fort Branch at Webberville",
@@ -2335,13 +2335,13 @@
       "rainfallPrev3Month": "2.08",
       "rainfallYear": "22.68",
       "rainfallPrevYear": "31.40",
-      "stage": "0.04",
-      "batteryVoltage": "13.40",
+      "stage": "0.05",
+      "batteryVoltage": "13.50",
       "nwsid": "AWZT2"
     },
     {
       "siteNumber": "3320",
-      "dateTime": "2026-10-24T16:45:14Z",
+      "dateTime": "2026-10-24T17:00:16Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Fort Branch at Berkman",
@@ -2371,12 +2371,12 @@
       "rainfallYear": "21.84",
       "rainfallPrevYear": "29.48",
       "stage": "0.06",
-      "batteryVoltage": "13.70",
+      "batteryVoltage": "13.80",
       "nwsid": "ALMT2"
     },
     {
       "siteNumber": "3340",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "13",
       "agency": "COA",
       "siteName": "Fort Branch at Manor Road",
@@ -2405,12 +2405,12 @@
       "rainfallPrev3Month": "1.96",
       "rainfallYear": "22.12",
       "rainfallPrevYear": "32.04",
-      "batteryVoltage": "14.10",
+      "batteryVoltage": "14.00",
       "nwsid": "AWYT2"
     },
     {
       "siteNumber": "3400",
-      "dateTime": "2026-10-24T16:45:11Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Webberville Road",
@@ -2439,12 +2439,12 @@
       "rainfallPrev3Month": "2.64",
       "rainfallYear": "22.00",
       "rainfallPrevYear": "27.00",
-      "batteryVoltage": "13.90",
+      "batteryVoltage": "13.40",
       "nwsid": "ALQT2"
     },
     {
       "siteNumber": "3600",
-      "dateTime": "2026-10-24T16:45:16Z",
+      "dateTime": "2026-10-24T17:00:14Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Canyon Vista School",
@@ -2473,12 +2473,12 @@
       "rainfallPrev3Month": "3.04",
       "rainfallYear": "24.32",
       "rainfallPrevYear": "21.56",
-      "batteryVoltage": "13.50",
+      "batteryVoltage": "14.10",
       "nwsid": "ALXT2"
     },
     {
       "siteNumber": "3610",
-      "dateTime": "2026-10-24T16:45:17Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "River Place Drive",
@@ -2512,7 +2512,7 @@
     },
     {
       "siteNumber": "3620",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Fathom Drive",
@@ -2546,7 +2546,7 @@
     },
     {
       "siteNumber": "3630",
-      "dateTime": "2026-10-24T16:45:12Z",
+      "dateTime": "2026-10-24T17:00:13Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Floral Park Drive",
@@ -2580,7 +2580,7 @@
     },
     {
       "siteNumber": "3650",
-      "dateTime": "2026-10-24T16:45:21Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Bull Creek Dam",
@@ -2614,20 +2614,20 @@
     },
     {
       "siteNumber": "3670",
-      "dateTime": "2026-10-24T16:45:19Z",
+      "dateTime": "2026-10-24T17:00:24Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Waldon Drive Dam",
       "latitude": "30.377512",
       "longitude": "-97.787981",
       "siteType": "river",
-      "stage": "0.06",
+      "stage": "0.07",
       "batteryVoltage": "14.20",
       "nwsid": "WDDT2"
     },
     {
       "siteNumber": "5000",
-      "dateTime": "2026-10-24T16:45:15Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Decker Power Plant",
@@ -2661,7 +2661,7 @@
     },
     {
       "siteNumber": "5750",
-      "dateTime": "2026-10-24T16:45:19Z",
+      "dateTime": "2026-10-24T17:00:18Z",
       "zoomLevel": "10",
       "agency": "COA",
       "siteName": "Evelyn Drive",
@@ -2695,7 +2695,7 @@
     },
     {
       "siteNumber": "5800",
-      "dateTime": "2026-10-24T16:45:13Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "12",
       "agency": "COA",
       "siteName": "Del Valle High School",
@@ -5060,15 +5060,15 @@
     },
     {
       "siteNumber": "1995",
-      "dateTime": "2026-10-24T16:55:19Z",
+      "dateTime": "2026-10-24T17:00:15Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Buchanan Dam <br />(Lake Buchanan)",
       "latitude": "30.751250",
       "longitude": "-98.418350",
       "siteType": "dam",
-      "head": "1018.35",
-      "tail": "887.40",
+      "head": "1018.34",
+      "tail": "887.39",
       "batteryVoltage": "13.39",
       "nwsid": "BUDT2"
     },
@@ -5099,27 +5099,27 @@
     },
     {
       "siteNumber": "1999",
-      "dateTime": "2026-10-24T16:55:18Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "zoomLevel": "10",
       "agency": "LCRA",
       "siteName": "Inks Dam <br />(Inks Lake)",
       "latitude": "30.731620",
       "longitude": "-98.385160",
       "siteType": "dam",
-      "head": "887.32",
+      "head": "887.33",
       "tail": "825.18",
-      "batteryVoltage": "13.75",
+      "batteryVoltage": "13.76",
       "nwsid": "IKLT2"
     },
     {
       "siteNumber": "2000",
-      "dateTime": "2026-10-24T16:55:18Z",
+      "dateTime": "2026-10-24T17:00:11Z",
       "agency": "LCRA",
       "siteName": "Inks Dam Backup",
       "latitude": "30.73162",
       "longitude": "-98.38516",
       "siteType": "damB",
-      "batteryVoltage": "13.32"
+      "batteryVoltage": "12.99"
     },
     {
       "siteNumber": "2029",
@@ -7792,17 +7792,17 @@
     },
     {
       "siteNumber": "2957",
-      "dateTime": "2026-10-24T16:55:35Z",
+      "dateTime": "2026-10-24T17:00:29Z",
       "agency": "LCRA",
       "siteName": "Wirtz Dam Backup",
       "latitude": "30.55624",
       "longitude": "-98.33852",
       "siteType": "damB",
-      "batteryVoltage": "13.24"
+      "batteryVoltage": "12.88"
     },
     {
       "siteNumber": "2958",
-      "dateTime": "2026-10-24T16:55:35Z",
+      "dateTime": "2026-10-24T17:00:29Z",
       "zoomLevel": "7",
       "agency": "LCRA",
       "siteName": "Wirtz Dam <br />(Lake LBJ)",
@@ -7810,7 +7810,7 @@
       "longitude": "-98.338520",
       "siteType": "dam",
       "head": "824.79",
-      "tail": "737.01",
+      "tail": "737.02",
       "batteryVoltage": "13.96",
       "nwsid": "GPLT2"
     },
@@ -8006,27 +8006,27 @@
     },
     {
       "siteNumber": "2999",
-      "dateTime": "2026-10-24T16:55:30Z",
+      "dateTime": "2026-10-24T17:00:28Z",
       "zoomLevel": "10",
       "agency": "LCRA",
       "siteName": "Starcke Dam <br />(Lake Marble Falls)",
       "latitude": "30.555910",
       "longitude": "-98.257250",
       "siteType": "dam",
-      "head": "736.69",
-      "tail": "677.69",
-      "batteryVoltage": "13.69",
+      "head": "736.70",
+      "tail": "677.71",
+      "batteryVoltage": "13.68",
       "nwsid": "MFDT2"
     },
     {
       "siteNumber": "3000",
-      "dateTime": "2026-10-24T16:55:30Z",
+      "dateTime": "2026-10-24T17:00:28Z",
       "agency": "LCRA",
       "siteName": "Starcke Dam Backup",
       "latitude": "30.555910",
       "longitude": "-98.257250",
       "siteType": "damB",
-      "batteryVoltage": "12.68",
+      "batteryVoltage": "12.69",
       "nwsid": "MFDT2"
     },
     {
@@ -9571,18 +9571,18 @@
     },
     {
       "siteNumber": "3962",
-      "dateTime": "2026-10-24T16:55:26Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Mansfield Dam Backup",
       "latitude": "30.39105",
       "longitude": "-97.90658",
       "siteType": "damB",
-      "batteryVoltage": "12.96"
+      "batteryVoltage": "12.95"
     },
     {
       "siteNumber": "3963",
-      "dateTime": "2026-10-24T16:55:26Z",
+      "dateTime": "2026-10-24T17:00:19Z",
       "zoomLevel": "6",
       "agency": "LCRA",
       "siteName": "Mansfield Dam <br />(Lake Travis)",
@@ -9591,7 +9591,7 @@
       "siteType": "dam",
       "head": "677.32",
       "tail": "492.14",
-      "batteryVoltage": "13.31",
+      "batteryVoltage": "13.32",
       "nwsid": "MSDT2"
     },
     {
@@ -9836,17 +9836,17 @@
     },
     {
       "siteNumber": "3998",
-      "dateTime": "2026-10-24T16:55:34Z",
+      "dateTime": "2026-10-24T17:00:23Z",
       "agency": "LCRA",
       "siteName": "Tom Miller Dam Backup",
       "latitude": "30.294070",
       "longitude": "-97.785120",
       "siteType": "damB",
-      "batteryVoltage": "13.09"
+      "batteryVoltage": "13.22"
     },
     {
       "siteNumber": "3999",
-      "dateTime": "2026-10-24T16:55:34Z",
+      "dateTime": "2026-10-24T17:00:23Z",
       "zoomLevel": "8",
       "agency": "LCRA",
       "siteName": "Tom Miller Dam <br />(Lake Austin)",
@@ -12393,7 +12393,8 @@
       "siteType": "ST",
       "stage": "1.21",
       "flow": "0.00",
-      "nwsid": "HDCT2"
+      "nwsid": "HDCT2",
+      "isStale": true
     },
     {
       "siteNumber": "08145000",
@@ -12404,7 +12405,6 @@
       "longitude": "-99.335055",
       "siteType": "ST",
       "rainfallRecent": "0.00",
-      "rainfall30Minute": "0.00",
       "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
@@ -12600,7 +12600,8 @@
       "siteType": "ST",
       "stage": "3.68",
       "flow": "0.99",
-      "nwsid": "ONIT2"
+      "nwsid": "ONIT2",
+      "isStale": true
     },
     {
       "siteNumber": "08158840",
@@ -12722,7 +12723,6 @@
       "longitude": "-97.659400",
       "siteType": "ST",
       "rainfallRecent": "0.00",
-      "rainfall30Minute": "0.00",
       "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
@@ -12748,7 +12748,6 @@
       "longitude": "-98.423150",
       "siteType": "ST",
       "rainfallRecent": "0.00",
-      "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
       "rainfall6Hours": "0.00",
@@ -12761,7 +12760,8 @@
       "rainfall5Days": "0.00",
       "rainfall1Week": "0.00",
       "rainfall2Weeks": "0.00",
-      "stage": "12.43"
+      "stage": "12.43",
+      "isStale": true
     },
     {
       "siteNumber": "08154700",
@@ -12776,7 +12776,8 @@
       "flow": "0.00",
       "bankfullStage": "5.00",
       "isLCRA": "1",
-      "nwsid": "ABUT2"
+      "nwsid": "ABUT2",
+      "isStale": true
     },
     {
       "siteNumber": "08143000",
@@ -12788,7 +12789,6 @@
       "longitude": "-99.003942",
       "siteType": "LK",
       "rainfallRecent": "0.00",
-      "rainfall30Minute": "0.00",
       "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
@@ -12870,7 +12870,6 @@
       "longitude": "-99.465347",
       "siteType": "LK",
       "rainfallRecent": "0.00",
-      "rainfall30Minute": "0.00",
       "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
@@ -12908,7 +12907,6 @@
       "longitude": "-99.560904",
       "siteType": "LK",
       "rainfallRecent": "0.00",
-      "rainfall30Minute": "0.00",
       "rainfall1Hour": "0.00",
       "rainfall2Hours": "0.00",
       "rainfall3Hours": "0.00",
@@ -13009,7 +13007,8 @@
       "stage": "3.99",
       "flow": "0.13",
       "isLCRA": "1",
-      "nwsid": "WWVT2"
+      "nwsid": "WWVT2",
+      "isStale": true
     },
     {
       "siteNumber": "08159000",
@@ -13122,7 +13121,8 @@
       "stage": "21.66",
       "flow": "18.50",
       "isCOA": "1",
-      "nwsid": "ABST2"
+      "nwsid": "ABST2",
+      "isStale": true
     },
     {
       "siteNumber": "08156800",
@@ -13148,7 +13148,8 @@
       "siteType": "ST",
       "stage": "1.63",
       "flow": "0.00",
-      "nwsid": "WKLT2"
+      "nwsid": "WKLT2",
+      "isStale": true
     },
     {
       "siteNumber": "08162501",
