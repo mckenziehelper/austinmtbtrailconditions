@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:48:11Z",
+  "updated": "2026-10-24T16:56:36Z",
   "source": "Open-Meteo",
   "results": [
     {
@@ -9,7 +9,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,7 +18,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.49,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Walnut Creek",
@@ -27,7 +27,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "South Austin Trail Network",
@@ -36,7 +36,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.51,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Suburban Ninja",
@@ -54,7 +54,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.49,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Bull Creek",
@@ -63,7 +63,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Mt Lakeway",
@@ -99,7 +99,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
-      "rainChance24h": 0
+      "rainChance24h": 1
     },
     {
       "trail": "Emma Long",
@@ -108,7 +108,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Flat Rock Ranch",
@@ -144,7 +144,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.46,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Reimers Ranch",
@@ -189,7 +189,7 @@
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     }
   ]
 }
