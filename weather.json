@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-24T10:09:33Z",
+  "updated": "2026-10-24T15:13:26Z",
   "source": "Open-Meteo",
   "results": [
     {
       "trail": "Brushy Creek",
-      "soilMoisture": 0.107,
-      "soilMoisture1to3cm": 0.196,
+      "soilMoisture": 0.11,
+      "soilMoisture1to3cm": 0.194,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
@@ -13,8 +13,8 @@
     },
     {
       "trail": "Barton Creek Greenbelt",
-      "soilMoisture": 0.127,
-      "soilMoisture1to3cm": 0.204,
+      "soilMoisture": 0.13,
+      "soilMoisture1to3cm": 0.202,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.49,
       "rainNext24h": 0.0,
@@ -22,8 +22,8 @@
     },
     {
       "trail": "Walnut Creek",
-      "soilMoisture": 0.178,
-      "soilMoisture1to3cm": 0.232,
+      "soilMoisture": 0.182,
+      "soilMoisture1to3cm": 0.23,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
@@ -31,8 +31,8 @@
     },
     {
       "trail": "South Austin Trail Network",
-      "soilMoisture": 0.123,
-      "soilMoisture1to3cm": 0.199,
+      "soilMoisture": 0.127,
+      "soilMoisture1to3cm": 0.198,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.52,
       "rainNext24h": 0.0,
@@ -40,17 +40,17 @@
     },
     {
       "trail": "Suburban Ninja",
-      "soilMoisture": 0.107,
-      "soilMoisture1to3cm": 0.196,
+      "soilMoisture": 0.11,
+      "soilMoisture1to3cm": 0.194,
       "rainLast72h": 0.0,
-      "evaporationLast72h": 0.47,
+      "evaporationLast72h": 0.46,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "St Edwards",
-      "soilMoisture": 0.178,
-      "soilMoisture1to3cm": 0.232,
+      "soilMoisture": 0.182,
+      "soilMoisture1to3cm": 0.23,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.49,
       "rainNext24h": 0.0,
@@ -58,8 +58,8 @@
     },
     {
       "trail": "Bull Creek",
-      "soilMoisture": 0.178,
-      "soilMoisture1to3cm": 0.232,
+      "soilMoisture": 0.182,
+      "soilMoisture1to3cm": 0.23,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
@@ -67,16 +67,16 @@
     },
     {
       "trail": "Mt Lakeway",
-      "soilMoisture": 0.125,
-      "soilMoisture1to3cm": 0.196,
+      "soilMoisture": 0.129,
+      "soilMoisture1to3cm": 0.195,
       "rainLast72h": 0.0,
-      "evaporationLast72h": 0.52,
+      "evaporationLast72h": 0.51,
       "rainNext24h": 0.0,
       "rainChance24h": 1
     },
     {
       "trail": "Muleshoe Bend",
-      "soilMoisture": 0.105,
+      "soilMoisture": 0.109,
       "soilMoisture1to3cm": 0.178,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.49,
@@ -85,7 +85,7 @@
     },
     {
       "trail": "Pace Bend",
-      "soilMoisture": 0.105,
+      "soilMoisture": 0.109,
       "soilMoisture1to3cm": 0.178,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
@@ -94,17 +94,17 @@
     },
     {
       "trail": "Bluff Creek Ranch",
-      "soilMoisture": 0.082,
-      "soilMoisture1to3cm": 0.102,
+      "soilMoisture": 0.085,
+      "soilMoisture1to3cm": 0.101,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
-      "rainChance24h": 1
+      "rainChance24h": 0
     },
     {
       "trail": "Emma Long",
-      "soilMoisture": 0.166,
-      "soilMoisture1to3cm": 0.219,
+      "soilMoisture": 0.169,
+      "soilMoisture1to3cm": 0.217,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
@@ -112,26 +112,26 @@
     },
     {
       "trail": "Flat Rock Ranch",
-      "soilMoisture": 0.113,
+      "soilMoisture": 0.12,
       "soilMoisture1to3cm": 0.184,
       "rainLast72h": 0.0,
-      "evaporationLast72h": 0.48,
+      "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
-      "rainChance24h": 8
+      "rainChance24h": 10
     },
     {
       "trail": "Lake Georgetown",
-      "soilMoisture": 0.102,
-      "soilMoisture1to3cm": 0.187,
+      "soilMoisture": 0.105,
+      "soilMoisture1to3cm": 0.186,
       "rainLast72h": 0.0,
-      "evaporationLast72h": 0.49,
+      "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
       "rainChance24h": 0
     },
     {
       "trail": "Pedernales Falls",
-      "soilMoisture": 0.099,
-      "soilMoisture1to3cm": 0.171,
+      "soilMoisture": 0.103,
+      "soilMoisture1to3cm": 0.17,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.5,
       "rainNext24h": 0.0,
@@ -139,8 +139,8 @@
     },
     {
       "trail": "McKinney Falls",
-      "soilMoisture": 0.127,
-      "soilMoisture1to3cm": 0.204,
+      "soilMoisture": 0.13,
+      "soilMoisture1to3cm": 0.202,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.46,
       "rainNext24h": 0.0,
@@ -148,8 +148,8 @@
     },
     {
       "trail": "Reimers Ranch",
-      "soilMoisture": 0.105,
-      "soilMoisture1to3cm": 0.182,
+      "soilMoisture": 0.109,
+      "soilMoisture1to3cm": 0.181,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.56,
       "rainNext24h": 0.0,
@@ -157,37 +157,37 @@
     },
     {
       "trail": "Reveille Peak Ranch",
-      "soilMoisture": 0.104,
-      "soilMoisture1to3cm": 0.173,
+      "soilMoisture": 0.109,
+      "soilMoisture1to3cm": 0.172,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.46,
       "rainNext24h": 0.0,
-      "rainChance24h": 0
+      "rainChance24h": 1
     },
     {
       "trail": "Rocky Hill Ranch",
-      "soilMoisture": 0.083,
-      "soilMoisture1to3cm": 0.103,
-      "rainLast72h": 0.0,
-      "evaporationLast72h": 0.47,
-      "rainNext24h": 0.0,
-      "rainChance24h": 3
-    },
-    {
-      "trail": "Spider Mountain",
-      "soilMoisture": 0.135,
-      "soilMoisture1to3cm": 0.148,
+      "soilMoisture": 0.085,
+      "soilMoisture1to3cm": 0.102,
       "rainLast72h": 0.0,
       "evaporationLast72h": 0.47,
       "rainNext24h": 0.0,
       "rainChance24h": 0
     },
     {
-      "trail": "Thumper",
-      "soilMoisture": 0.178,
-      "soilMoisture1to3cm": 0.232,
+      "trail": "Spider Mountain",
+      "soilMoisture": 0.141,
+      "soilMoisture1to3cm": 0.151,
       "rainLast72h": 0.0,
-      "evaporationLast72h": 0.49,
+      "evaporationLast72h": 0.47,
+      "rainNext24h": 0.0,
+      "rainChance24h": 1
+    },
+    {
+      "trail": "Thumper",
+      "soilMoisture": 0.182,
+      "soilMoisture1to3cm": 0.23,
+      "rainLast72h": 0.0,
+      "evaporationLast72h": 0.48,
       "rainNext24h": 0.0,
       "rainChance24h": 1
     }
