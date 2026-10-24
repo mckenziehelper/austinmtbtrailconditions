@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:35:58Z",
+  "updated": "2026-10-24T16:45:19Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -44,7 +44,7 @@
     {
       "trail": "Muleshoe Bend",
       "status": "caution",
-      "statusNote": "LCRA closing the park Oct 26-28",
+      "statusNote": "Park closed Oct 26-28",
       "source": "https://lcraparks.com/parks/muleshoe-bend-recreation-area"
     },
     {
@@ -55,7 +55,7 @@
     {
       "trail": "Bluff Creek Ranch",
       "status": "caution",
-      "statusNote": "Open today; ranch closed this weekend for a race event",
+      "statusNote": "Site notes a race-event closure this weekend; dates unclear",
       "source": "https://bcrwarda.com/"
     },
     {
@@ -90,15 +90,14 @@
     },
     {
       "trail": "Reveille Peak Ranch",
-      "status": "closed",
-      "statusNote": "Events only; day use ended Oct 2026",
-      "source": "https://www.singletracks.com/?p=727450"
+      "status": "open",
+      "source": "https://www.trailforks.com/region/reveille-peak-ranch/status/"
     },
     {
       "trail": "Rocky Hill Ranch",
-      "status": "caution",
+      "status": "closed",
       "statusNote": "Closed Oct 24-25 for Rise Racing events",
-      "source": "https://www.rockyhillranch.com/events"
+      "source": "https://www.rockyhillranch.com/"
     },
     {
       "trail": "Spider Mountain",
