@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:13:12Z",
+  "updated": "2026-10-27T19:12:25Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,10 +7,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.103,
-      "rainChance24h": 13,
+      "soilMoisture": 0.097,
+      "rainChance24h": 15,
       "source": "claude",
-      "reason": "No rain in 2 weeks; partial shade and slow drainage have had time to dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,12 +18,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.147,
-      "rainChance24h": 11,
-      "crossingStage": 1.68,
+      "soilMoisture": 0.14,
+      "rainChance24h": 12,
+      "crossingStage": 1.69,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.40 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Walnut Creek",
@@ -31,12 +31,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.191,
-      "rainChance24h": 9,
+      "soilMoisture": 0.179,
+      "rainChance24h": 10,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "No rain in 2 weeks; shaded dirt has dried and creek is at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "South Austin Trail Network",
@@ -44,12 +44,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.15,
-      "rainChance24h": 11,
+      "soilMoisture": 0.141,
+      "rainChance24h": 14,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in 2 weeks; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Suburban Ninja",
@@ -57,10 +57,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.103,
-      "rainChance24h": 13,
+      "soilMoisture": 0.097,
+      "rainChance24h": 15,
       "source": "claude",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "St Edwards",
@@ -68,12 +68,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.191,
-      "rainChance24h": 14,
+      "soilMoisture": 0.179,
+      "rainChance24h": 16,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.43 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Bull Creek",
@@ -81,12 +81,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.191,
-      "rainChance24h": 12,
+      "soilMoisture": 0.179,
+      "rainChance24h": 14,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.48 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Mt Lakeway",
@@ -94,10 +94,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.125,
-      "rainChance24h": 9,
+      "soilMoisture": 0.118,
+      "rainChance24h": 11,
       "source": "claude",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Muleshoe Bend",
@@ -105,10 +105,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.117,
-      "rainChance24h": 5,
+      "soilMoisture": 0.111,
+      "rainChance24h": 8,
       "source": "claude",
-      "reason": "No rain in 2 weeks; heavy shade has dried out."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Pace Bend",
@@ -116,10 +116,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.117,
-      "rainChance24h": 7,
+      "soilMoisture": 0.111,
+      "rainChance24h": 10,
       "source": "claude",
-      "reason": "No rain in 2 weeks; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -127,10 +127,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.063,
-      "rainChance24h": 10,
+      "soilMoisture": 0.061,
+      "rainChance24h": 11,
       "source": "claude",
-      "reason": "0.54 in. in 2 weeks, none in 7 days; shaded ground has dried, soil very low."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Emma Long",
@@ -138,10 +138,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.151,
-      "rainChance24h": 12,
+      "soilMoisture": 0.145,
+      "rainChance24h": 15,
       "source": "claude",
-      "reason": "0.01 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -149,10 +149,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.166,
-      "rainChance24h": 10,
+      "soilMoisture": 0.159,
+      "rainChance24h": 6,
       "source": "claude",
-      "reason": "0.01 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Lake Georgetown",
@@ -160,10 +160,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.1,
-      "rainChance24h": 13,
+      "soilMoisture": 0.093,
+      "rainChance24h": 15,
       "source": "claude",
-      "reason": "0.06 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Pedernales Falls",
@@ -171,10 +171,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.111,
-      "rainChance24h": 5,
+      "soilMoisture": 0.106,
+      "rainChance24h": 7,
       "source": "claude",
-      "reason": "No rain in 2 weeks; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "McKinney Falls",
@@ -182,12 +182,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.147,
-      "rainChance24h": 10,
-      "crossingStage": 4.29,
-      "crossingFlow": 0.05,
+      "soilMoisture": 0.14,
+      "rainChance24h": 11,
+      "crossingStage": 4.3,
+      "crossingFlow": 0.06,
       "source": "claude",
-      "reason": "No rain in 2 weeks; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Reimers Ranch",
@@ -195,10 +195,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.111,
-      "rainChance24h": 7,
+      "soilMoisture": 0.104,
+      "rainChance24h": 10,
       "source": "claude",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -206,21 +206,20 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.132,
-      "rainChance24h": 6,
+      "soilMoisture": 0.123,
+      "rainChance24h": 7,
       "source": "claude",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.065,
-      "rainChance24h": 10,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; shaded dirt has dried, soil very low."
+      "soilMoisture": 0.063,
+      "rainChance24h": 13,
+      "source": "rule"
     },
     {
       "trail": "Spider Mountain",
@@ -228,10 +227,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.127,
-      "rainChance24h": 6,
+      "soilMoisture": 0.115,
+      "rainChance24h": 7,
       "source": "claude",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Thumper",
@@ -239,10 +238,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.191,
-      "rainChance24h": 12,
+      "soilMoisture": 0.179,
+      "rainChance24h": 14,
       "source": "claude",
-      "reason": "0.43 in. in 2 weeks, none in 7 days; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -258,8 +257,8 @@
     },
     {
       "station": "Colorado River at Smithville",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild"
     },
     {

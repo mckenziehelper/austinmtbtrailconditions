@@ -1,110 +1,110 @@
 {
-  "updated": "2026-10-27T10:11:05Z",
+  "updated": "2026-10-27T19:12:10Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; partial shade and slow drainage have had time to dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "0.40 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; shaded dirt has dried and creek is at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "St Edwards",
       "prediction": "Dry",
-      "reason": "0.43 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "0.48 in. in 2 weeks, none in 7 days; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; heavy shade has dried out."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.54 in. in 2 weeks, none in 7 days; shaded ground has dried, soil very low."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "0.01 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Dry",
-      "reason": "0.01 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "0.06 in. in 2 weeks, none in 7 days; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; rocky and fast-draining."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; creek at base flow."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; shaded dirt has dried, soil very low."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "No rain in 2 weeks; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "0.43 in. in 2 weeks, none in 7 days; soil is dry."
+      "reason": "No meaningful rain in 7+ days, 0.0 in. last 72h; soil dry and trail drying."
     }
   ]
 }
