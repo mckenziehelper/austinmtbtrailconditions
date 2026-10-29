@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:53:40Z",
+  "updated": "2026-10-29T19:11:32Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,34 +7,34 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.387,
-      "rainChance24h": 69,
+      "soilMoisture": 0.499,
+      "rainChance24h": 46,
       "source": "rule"
     },
     {
       "trail": "Barton Creek Greenbelt",
       "station": "Barton Creek at Loop 360, Austin",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.46,
-      "rainChance24h": 65,
+      "soilMoisture": 0.483,
+      "rainChance24h": 40,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "Only 0.13 in. today on rocky limestone; crossing gauge shows no flow."
     },
     {
       "trail": "Walnut Creek",
       "station": "Pflugerville 3 SSE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.437,
-      "rainChance24h": 64,
+      "soilMoisture": 0.5,
+      "rainChance24h": 38,
       "crossingStage": 0.03,
       "crossingFlow": null,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; heavy shade but the creek is nearly dry and the soil is firm."
+      "source": "rule"
     },
     {
       "trail": "South Austin Trail Network",
@@ -42,11 +42,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.484,
-      "rainChance24h": 65,
+      "soilMoisture": 0.498,
+      "rainChance24h": 45,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "0.59 in. fell today; mixed surface and blackland sections will be slick."
     },
     {
       "trail": "Suburban Ninja",
@@ -54,8 +55,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.387,
-      "rainChance24h": 69,
+      "soilMoisture": 0.499,
+      "rainChance24h": 41,
       "source": "rule"
     },
     {
@@ -64,8 +65,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.437,
-      "rainChance24h": 68,
+      "soilMoisture": 0.5,
+      "rainChance24h": 51,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -76,8 +77,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.437,
-      "rainChance24h": 67,
+      "soilMoisture": 0.5,
+      "rainChance24h": 47,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -88,8 +89,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.472,
-      "rainChance24h": 75,
+      "soilMoisture": 0.491,
+      "rainChance24h": 47,
       "source": "rule"
     },
     {
@@ -98,8 +99,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.435,
-      "rainChance24h": 82,
+      "soilMoisture": 0.476,
+      "rainChance24h": 45,
       "source": "rule"
     },
     {
@@ -108,19 +109,20 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.435,
-      "rainChance24h": 78,
+      "soilMoisture": 0.476,
+      "rainChance24h": 44,
       "source": "rule"
     },
     {
       "trail": "Bluff Creek Ranch",
       "station": "Waldeck 1 SW",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Mild",
-      "soilMoisture": 0.228,
-      "rainChance24h": 7,
-      "source": "rule"
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Warm",
+      "soilMoisture": 0.224,
+      "rainChance24h": 9,
+      "source": "claude",
+      "reason": "Only 0.14 in. over 3 days with almost none today; low rain chance ahead."
     },
     {
       "trail": "Emma Long",
@@ -128,8 +130,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.45,
-      "rainChance24h": 71,
+      "soilMoisture": 0.502,
+      "rainChance24h": 51,
       "source": "rule"
     },
     {
@@ -138,8 +140,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.477,
-      "rainChance24h": 90,
+      "soilMoisture": 0.473,
+      "rainChance24h": 77,
       "source": "rule"
     },
     {
@@ -148,8 +150,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.252,
-      "rainChance24h": 62,
+      "soilMoisture": 0.478,
+      "rainChance24h": 45,
       "source": "rule"
     },
     {
@@ -158,21 +160,22 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.48,
-      "rainChance24h": 90,
+      "soilMoisture": 0.475,
+      "rainChance24h": 52,
       "source": "rule"
     },
     {
       "trail": "McKinney Falls",
       "station": "Onion Creek at Hwy 183, Austin",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.46,
-      "rainChance24h": 39,
-      "crossingStage": 4.33,
-      "crossingFlow": 0.09,
-      "source": "rule"
+      "soilMoisture": 0.483,
+      "rainChance24h": 31,
+      "crossingStage": 4.34,
+      "crossingFlow": 0.1,
+      "source": "claude",
+      "reason": "Only 0.02 in. of rain; the rule-based Wet call likely reflects the creek stage, not trail wetness."
     },
     {
       "trail": "Reimers Ranch",
@@ -180,8 +183,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.47,
-      "rainChance24h": 82,
+      "soilMoisture": 0.474,
+      "rainChance24h": 47,
       "source": "rule"
     },
     {
@@ -190,19 +193,20 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.449,
-      "rainChance24h": 77,
+      "soilMoisture": 0.477,
+      "rainChance24h": 72,
       "source": "rule"
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Mild",
-      "soilMoisture": 0.219,
-      "rainChance24h": 8,
-      "source": "rule"
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Warm",
+      "soilMoisture": 0.214,
+      "rainChance24h": 13,
+      "source": "claude",
+      "reason": "About 0.14 in. over 3 days with almost none today; shade is offset by low soil moisture."
     },
     {
       "trail": "Spider Mountain",
@@ -210,8 +214,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.304,
-      "rainChance24h": 76,
+      "soilMoisture": 0.343,
+      "rainChance24h": 75,
       "source": "rule"
     },
     {
@@ -220,31 +224,31 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.437,
-      "rainChance24h": 67,
+      "soilMoisture": 0.5,
+      "rainChance24h": 48,
       "source": "rule"
     },
     {
       "trail": "Forrest Creek Ranch",
       "station": "Cedar Creek 3 WSW",
-      "prediction": "Dry",
-      "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.395,
-      "rainChance24h": 20,
+      "prediction": "Wet",
+      "isDry": false,
+      "temperature": "Warm",
+      "soilMoisture": 0.425,
+      "rainChance24h": 27,
       "source": "claude",
-      "reason": "Gauge shows no rain; model hints 0.47 in. but evaporation is high, shade is a risk."
+      "reason": "Gauge shows no rain but model shows 0.48 in. over 72h; shaded dirt, so cautious."
     },
     {
       "trail": "McKinney Roughs",
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.211,
-      "rainChance24h": 17,
+      "temperature": "Warm",
+      "soilMoisture": 0.228,
+      "rainChance24h": 24,
       "source": "claude",
-      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
+      "reason": "No measured rain today and only 0.03 in. over 72h; low soil moisture."
     },
     {
       "trail": "Bauerle Ranch",
@@ -252,11 +256,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.468,
-      "rainChance24h": 58,
+      "soilMoisture": 0.489,
+      "rainChance24h": 38,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "0.59 in. today and slow-draining; creek running at 3.27 ft."
     },
     {
       "trail": "Grelle",
@@ -264,8 +269,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.454,
-      "rainChance24h": 84,
+      "soilMoisture": 0.459,
+      "rainChance24h": 47,
       "source": "rule"
     },
     {
@@ -274,8 +279,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.448,
-      "rainChance24h": 85,
+      "soilMoisture": 0.484,
+      "rainChance24h": 54,
       "source": "rule"
     },
     {
@@ -288,13 +293,13 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -306,7 +311,7 @@
       "station": "Colorado River at Smithville",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Cow Creek near Lago Vista",
@@ -376,8 +381,8 @@
     },
     {
       "station": "Pflugerville 3 SSE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild"
     },
     {
