@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:10:32Z",
+  "updated": "2026-10-29T10:39:51Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.137,
+      "soilMoisture": 0.127,
       "rainChance24h": 30,
       "source": "claude",
       "reason": "No rain in 2 weeks; shaded slow-draining spots have dried out."
@@ -18,7 +18,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.248,
+      "soilMoisture": 0.231,
       "rainChance24h": 34,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.256,
+      "soilMoisture": 0.226,
       "rainChance24h": 28,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -44,7 +44,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.16,
+      "soilMoisture": 0.155,
       "rainChance24h": 32,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -57,7 +57,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.137,
+      "soilMoisture": 0.127,
       "rainChance24h": 28,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -68,7 +68,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.256,
+      "soilMoisture": 0.226,
       "rainChance24h": 31,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
@@ -81,7 +81,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.256,
+      "soilMoisture": 0.226,
       "rainChance24h": 31,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
@@ -94,7 +94,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.118,
+      "soilMoisture": 0.104,
       "rainChance24h": 25,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -105,7 +105,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.12,
+      "soilMoisture": 0.096,
       "rainChance24h": 37,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -116,7 +116,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.12,
+      "soilMoisture": 0.096,
       "rainChance24h": 27,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -138,7 +138,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.185,
+      "soilMoisture": 0.188,
       "rainChance24h": 33,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -149,7 +149,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.163,
+      "soilMoisture": 0.158,
       "rainChance24h": 91,
       "source": "rule"
     },
@@ -159,7 +159,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.099,
+      "soilMoisture": 0.097,
       "rainChance24h": 35,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -181,7 +181,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.248,
+      "soilMoisture": 0.231,
       "rainChance24h": 29,
       "crossingStage": 4.3,
       "crossingFlow": 0.06,
@@ -194,7 +194,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.094,
+      "soilMoisture": 0.082,
       "rainChance24h": 34,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -205,7 +205,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.112,
+      "soilMoisture": 0.111,
       "rainChance24h": 49,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -216,7 +216,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.232,
+      "soilMoisture": 0.231,
       "rainChance24h": 16,
       "source": "claude",
       "reason": "Only 0.13 in. a few days ago; light, so shaded dirt has dried."
@@ -238,7 +238,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.256,
+      "soilMoisture": 0.226,
       "rainChance24h": 31,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -249,7 +249,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.283,
+      "soilMoisture": 0.264,
       "rainChance24h": 21,
       "source": "claude",
       "reason": "Gauge shows no rain; model hints 0.47 in. but evaporation is high, shade is a risk."
@@ -260,7 +260,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.193,
+      "soilMoisture": 0.197,
       "rainChance24h": 19,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -271,7 +271,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.223,
+      "soilMoisture": 0.209,
       "rainChance24h": 36,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -284,7 +284,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.087,
+      "soilMoisture": 0.084,
       "rainChance24h": 45,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
@@ -295,7 +295,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.129,
+      "soilMoisture": 0.122,
       "rainChance24h": 45,
       "source": "claude",
       "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
