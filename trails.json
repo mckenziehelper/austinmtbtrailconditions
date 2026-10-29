@@ -244,5 +244,61 @@
         "longitude": -97.7758821,
         "station": "Jollyville 2 SW",
         "notes": "Rocky, rooty black-diamond singletrack; at least one creek crossing."
+    },
+    {
+        "name": "Forrest Creek Ranch",
+        "city": "Dale, TX",
+        "latitude": 30.046631,
+        "longitude": -97.57953,
+        "gmaps": "https://www.google.com/maps/search/?api=1&query=30.046631,-97.57953",
+        "station": "Cedar Creek 3 WSW",
+        "surface": "dirt",
+        "shade": "heavy",
+        "notes": "Private ranch with about 9 miles of shaded, flowy, nearly rock-free trail. Open only on hosted open-ride days posted in the Forrest Creek Ranch MTB Trails Facebook group; waiver and land-use fee at the gate."
+    },
+    {
+        "name": "McKinney Roughs",
+        "city": "Cedar Creek, TX",
+        "trailforks": "region/mckinney-roughs-nature-park-43914/",
+        "latitude": 30.1406462,
+        "longitude": -97.4593397,
+        "gmaps": "https://www.google.com/maps/search/?api=1&query=30.1406462,-97.4593397",
+        "station": "Cedar Creek near Bastrop",
+        "statusUrl": "https://lcraparks.com/parks/mckinney-roughs-nature-park",
+        "notes": "LCRA park with about 16-18 miles of beginner-friendly multiuse trails along the Colorado River, shared with hikers and horses."
+    },
+    {
+        "name": "Bauerle Ranch",
+        "city": "Austin, TX",
+        "trailforks": "region/bauerle-ranch-58155/",
+        "latitude": 30.1661105,
+        "longitude": -97.8469881,
+        "gmaps": "https://www.google.com/maps/search/?api=1&query=30.1661105,-97.8469881",
+        "station": "Manchaca 4 W",
+        "drainage": "slow",
+        "crossingGauge": "Slaughter Ck at FM 1826 nr Austin, TX",
+        "notes": "City of Austin park on the Slaughter Creek Greenbelt; 2.8-mile XC loop that floods during wet periods."
+    },
+    {
+        "name": "Grelle",
+        "city": "Spicewood, TX",
+        "trailforks": "region/grelle-recreation-area/",
+        "latitude": 30.481971,
+        "longitude": -98.1418698,
+        "gmaps": "https://www.google.com/maps/search/?api=1&query=30.481971,-98.1418698",
+        "station": "Spicewood 2 NNE",
+        "surface": "rocky",
+        "statusUrl": "https://lcraparks.com/parks/grelle-recreation-area",
+        "notes": "LCRA park on Lake Travis; singletrack with technical drops and rock gardens, shared with hikers and horses."
+    },
+    {
+        "name": "Shaffer Bend",
+        "city": "Marble Falls, TX",
+        "latitude": 30.5466488,
+        "longitude": -98.17411,
+        "gmaps": "https://www.google.com/maps/search/?api=1&query=30.5466488,-98.17411",
+        "station": "Marble Falls 6 ENE",
+        "statusUrl": "https://lcraparks.com/parks/shaffer-bend-recreation-area",
+        "notes": "LCRA park on Lake Travis; about 8 miles of wide, family-friendly multiuse ranch trails shared with horses."
     }
 ]
