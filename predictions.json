@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:53:50Z",
+  "updated": "2026-10-29T10:10:32Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,23 +7,23 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.118,
-      "rainChance24h": 38,
+      "soilMoisture": 0.137,
+      "rainChance24h": 30,
       "source": "claude",
-      "reason": "No rain in 2 weeks and warm; even shaded or slow spots have dried out."
+      "reason": "No rain in 2 weeks; shaded slow-draining spots have dried out."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.161,
-      "rainChance24h": 35,
+      "temperature": "Mild",
+      "soilMoisture": 0.248,
+      "rainChance24h": 34,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "Rocky and dry; no rain in 2 weeks and Barton Creek is low."
     },
     {
       "trail": "Walnut Creek",
@@ -31,12 +31,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.188,
-      "rainChance24h": 31,
+      "soilMoisture": 0.256,
+      "rainChance24h": 28,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "No rain in 2 weeks and warm; even shaded or slow spots have dried out."
+      "reason": "No rain in 2 weeks; heavy shade but the creek is nearly dry and the soil is firm."
     },
     {
       "trail": "South Austin Trail Network",
@@ -44,12 +44,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.152,
-      "rainChance24h": 37,
+      "soilMoisture": 0.16,
+      "rainChance24h": 32,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks; Slaughter Creek has no flow."
     },
     {
       "trail": "Suburban Ninja",
@@ -57,10 +57,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.118,
-      "rainChance24h": 39,
+      "soilMoisture": 0.137,
+      "rainChance24h": 28,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "St Edwards",
@@ -68,25 +68,25 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.188,
-      "rainChance24h": 38,
+      "soilMoisture": 0.256,
+      "rainChance24h": 31,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks and Bull Creek is not flowing at the crossing."
     },
     {
       "trail": "Bull Creek",
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.188,
-      "rainChance24h": 37,
+      "temperature": "Mild",
+      "soilMoisture": 0.256,
+      "rainChance24h": 31,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks and Bull Creek is not flowing at the crossing."
     },
     {
       "trail": "Mt Lakeway",
@@ -94,10 +94,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.108,
-      "rainChance24h": 42,
+      "soilMoisture": 0.118,
+      "rainChance24h": 25,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Muleshoe Bend",
@@ -105,10 +105,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.091,
-      "rainChance24h": 44,
+      "soilMoisture": 0.12,
+      "rainChance24h": 37,
       "source": "claude",
-      "reason": "No rain in 2 weeks and warm; even shaded or slow spots have dried out."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Pace Bend",
@@ -116,10 +116,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.091,
-      "rainChance24h": 43,
+      "soilMoisture": 0.12,
+      "rainChance24h": 27,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -127,10 +127,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.233,
-      "rainChance24h": 14,
+      "soilMoisture": 0.242,
+      "rainChance24h": 6,
       "source": "claude",
-      "reason": "Only 0.13 in. two days ago; shaded but light rain and warm, dry now."
+      "reason": "Only 0.13 in. a few days ago; light, so even shaded forest has dried."
     },
     {
       "trail": "Emma Long",
@@ -138,21 +138,20 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.144,
-      "rainChance24h": 36,
+      "soilMoisture": 0.185,
+      "rainChance24h": 33,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Flat Rock Ranch",
       "station": "Fredericksburg 10 SSE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.139,
-      "rainChance24h": 77,
-      "source": "claude",
-      "reason": "No rain in 2 weeks; only a light chance (0.03 in.) ahead, so Dry for now."
+      "soilMoisture": 0.163,
+      "rainChance24h": 91,
+      "source": "rule"
     },
     {
       "trail": "Lake Georgetown",
@@ -160,10 +159,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.098,
+      "soilMoisture": 0.099,
       "rainChance24h": 35,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Pedernales Falls",
@@ -171,10 +170,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.087,
-      "rainChance24h": 48,
+      "soilMoisture": 0.092,
+      "rainChance24h": 38,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "McKinney Falls",
@@ -182,12 +181,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.161,
-      "rainChance24h": 32,
-      "crossingStage": 4.29,
-      "crossingFlow": 0.05,
+      "soilMoisture": 0.248,
+      "rainChance24h": 29,
+      "crossingStage": 4.3,
+      "crossingFlow": 0.06,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks; Onion Creek flow is only 0.05 cfs, so crossings are safe."
     },
     {
       "trail": "Reimers Ranch",
@@ -195,10 +194,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.084,
-      "rainChance24h": 46,
+      "soilMoisture": 0.094,
+      "rainChance24h": 34,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -206,10 +205,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.101,
-      "rainChance24h": 56,
+      "soilMoisture": 0.112,
+      "rainChance24h": 49,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -217,10 +216,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.245,
-      "rainChance24h": 18,
+      "soilMoisture": 0.232,
+      "rainChance24h": 16,
       "source": "claude",
-      "reason": "Only 0.13 in. two days ago; shaded but light rain and warm, dry now."
+      "reason": "Only 0.13 in. a few days ago; light, so shaded dirt has dried."
     },
     {
       "trail": "Spider Mountain",
@@ -228,10 +227,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.105,
-      "rainChance24h": 58,
+      "soilMoisture": 0.121,
+      "rainChance24h": 50,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Thumper",
@@ -239,10 +238,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.188,
-      "rainChance24h": 38,
+      "soilMoisture": 0.256,
+      "rainChance24h": 31,
       "source": "claude",
-      "reason": "No meaningful rain in 2 weeks, warm and breezy; soil dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -250,10 +249,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.224,
-      "rainChance24h": 27,
+      "soilMoisture": 0.283,
+      "rainChance24h": 21,
       "source": "claude",
-      "reason": "No rain in 2+ weeks at the nearby gauge; no weather data, so Dry."
+      "reason": "Gauge shows no rain; model hints 0.47 in. but evaporation is high, shade is a risk."
     },
     {
       "trail": "McKinney Roughs",
@@ -261,10 +260,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.233,
-      "rainChance24h": 25,
+      "soilMoisture": 0.193,
+      "rainChance24h": 19,
       "source": "claude",
-      "reason": "No rain in 2+ weeks at the nearby gauge; no weather data, so Dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Bauerle Ranch",
@@ -272,12 +271,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.178,
+      "soilMoisture": 0.223,
       "rainChance24h": 36,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "No rain in 2+ weeks at the nearby gauge; no weather data, so Dry."
+      "reason": "No rain in 2 weeks and Slaughter Creek has no flow, so no flooding."
     },
     {
       "trail": "Grelle",
@@ -285,10 +284,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.08,
+      "soilMoisture": 0.087,
       "rainChance24h": 45,
       "source": "claude",
-      "reason": "No rain in 2+ weeks at the nearby gauge; no weather data, so Dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "trail": "Shaffer Bend",
@@ -296,16 +295,16 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.11,
+      "soilMoisture": 0.129,
       "rainChance24h": 45,
       "source": "claude",
-      "reason": "No rain in 2+ weeks at the nearby gauge; no weather data, so Dry."
+      "reason": "No rain in 2 weeks at the gauge and warm; soil is dry."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Mild"
     },
     {
       "station": "Cedar Creek 3 WSW",
@@ -345,8 +344,8 @@
     },
     {
       "station": "Fredericksburg 10 SSE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild"
     },
     {
