@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:45:08Z",
+  "updated": "2026-10-30T03:56:04Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.451,
-      "rainChance24h": 29,
+      "soilMoisture": 0.465,
+      "rainChance24h": 42,
       "source": "rule"
     },
     {
@@ -17,8 +17,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.407,
-      "rainChance24h": 58,
+      "soilMoisture": 0.486,
+      "rainChance24h": 64,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -29,8 +29,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.434,
-      "rainChance24h": 36,
+      "soilMoisture": 0.481,
+      "rainChance24h": 52,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "rule"
@@ -41,12 +41,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.422,
-      "rainChance24h": 59,
+      "soilMoisture": 0.477,
+      "rainChance24h": 64,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "0.59 in. fell today; mixed surface and blackland sections will be slick."
+      "source": "rule"
     },
     {
       "trail": "Suburban Ninja",
@@ -54,8 +53,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.451,
-      "rainChance24h": 28,
+      "soilMoisture": 0.465,
+      "rainChance24h": 38,
       "source": "rule"
     },
     {
@@ -64,8 +63,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.434,
-      "rainChance24h": 36,
+      "soilMoisture": 0.481,
+      "rainChance24h": 45,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -76,8 +75,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.434,
-      "rainChance24h": 37,
+      "soilMoisture": 0.481,
+      "rainChance24h": 47,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -88,8 +87,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 36,
+      "soilMoisture": 0.443,
+      "rainChance24h": 49,
       "source": "rule"
     },
     {
@@ -98,8 +97,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.447,
-      "rainChance24h": 51,
+      "soilMoisture": 0.44,
+      "rainChance24h": 56,
       "source": "rule"
     },
     {
@@ -108,20 +107,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.447,
-      "rainChance24h": 49,
+      "soilMoisture": 0.44,
+      "rainChance24h": 54,
       "source": "rule"
     },
     {
       "trail": "Bluff Creek Ranch",
       "station": "Waldeck 1 SW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.215,
-      "rainChance24h": 21,
-      "source": "claude",
-      "reason": "Only 0.14 in. over 3 days with almost none today; low rain chance ahead."
+      "soilMoisture": 0.212,
+      "rainChance24h": 55,
+      "source": "rule"
     },
     {
       "trail": "Emma Long",
@@ -129,8 +127,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 41,
+      "soilMoisture": 0.479,
+      "rainChance24h": 47,
       "source": "rule"
     },
     {
@@ -139,8 +137,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.458,
-      "rainChance24h": 84,
+      "soilMoisture": 0.464,
+      "rainChance24h": 85,
       "source": "rule"
     },
     {
@@ -149,8 +147,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.463,
-      "rainChance24h": 34,
+      "soilMoisture": 0.452,
+      "rainChance24h": 46,
       "source": "rule"
     },
     {
@@ -159,22 +157,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.421,
+      "soilMoisture": 0.403,
       "rainChance24h": 73,
       "source": "rule"
     },
     {
       "trail": "McKinney Falls",
       "station": "Onion Creek at Hwy 183, Austin",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.407,
-      "rainChance24h": 60,
-      "crossingStage": 4.35,
-      "crossingFlow": 0.11,
-      "source": "claude",
-      "reason": "Only 0.02 in. of rain; the rule-based Wet call likely reflects the creek stage, not trail wetness."
+      "soilMoisture": 0.486,
+      "rainChance24h": 63,
+      "crossingStage": 4.36,
+      "crossingFlow": 0.13,
+      "source": "rule"
     },
     {
       "trail": "Reimers Ranch",
@@ -182,8 +179,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.429,
-      "rainChance24h": 55,
+      "soilMoisture": 0.418,
+      "rainChance24h": 57,
       "source": "rule"
     },
     {
@@ -192,20 +189,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.493,
-      "rainChance24h": 75,
+      "soilMoisture": 0.468,
+      "rainChance24h": 70,
       "source": "rule"
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.205,
-      "rainChance24h": 40,
-      "source": "claude",
-      "reason": "About 0.14 in. over 3 days with almost none today; shade is offset by low soil moisture."
+      "soilMoisture": 0.204,
+      "rainChance24h": 47,
+      "source": "rule"
     },
     {
       "trail": "Spider Mountain",
@@ -213,8 +209,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.379,
-      "rainChance24h": 71,
+      "soilMoisture": 0.334,
+      "rainChance24h": 68,
       "source": "rule"
     },
     {
@@ -223,8 +219,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.434,
-      "rainChance24h": 37,
+      "soilMoisture": 0.481,
+      "rainChance24h": 45,
       "source": "rule"
     },
     {
@@ -233,8 +229,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.33,
-      "rainChance24h": 61,
+      "soilMoisture": 0.407,
+      "rainChance24h": 60,
       "source": "claude",
       "reason": "Gauge shows no rain but model shows 0.48 in. over 72h; shaded dirt, so cautious."
     },
@@ -244,8 +240,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.186,
-      "rainChance24h": 57,
+      "soilMoisture": 0.21,
+      "rainChance24h": 63,
       "source": "claude",
       "reason": "No measured rain today and only 0.03 in. over 72h; low soil moisture."
     },
@@ -255,12 +251,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.414,
-      "rainChance24h": 62,
+      "soilMoisture": 0.488,
+      "rainChance24h": 66,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "0.59 in. today and slow-draining; creek running at 3.27 ft."
+      "source": "rule"
     },
     {
       "trail": "Grelle",
@@ -268,8 +263,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.435,
-      "rainChance24h": 61,
+      "soilMoisture": 0.425,
+      "rainChance24h": 66,
       "source": "rule"
     },
     {
@@ -278,8 +273,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.468,
-      "rainChance24h": 68,
+      "soilMoisture": 0.491,
+      "rainChance24h": 69,
       "source": "rule"
     },
     {
