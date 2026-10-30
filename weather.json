@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:09:02Z",
+  "updated": "2026-10-30T10:41:40Z",
   "source": "Open-Meteo",
   "results": [
     {
@@ -8,7 +8,7 @@
       "soilMoisture1to3cm": 0.403,
       "rainLast72h": 0.06,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.13,
+      "rainNext24h": 0.26,
       "rainChance24h": 42
     },
     {
@@ -17,7 +17,7 @@
       "soilMoisture1to3cm": 0.409,
       "rainLast72h": 0.13,
       "evaporationLast72h": 0.24,
-      "rainNext24h": 0.14,
+      "rainNext24h": 0.31,
       "rainChance24h": 44
     },
     {
@@ -26,7 +26,7 @@
       "soilMoisture1to3cm": 0.413,
       "rainLast72h": 0.03,
       "evaporationLast72h": 0.3,
-      "rainNext24h": 0.16,
+      "rainNext24h": 0.06,
       "rainChance24h": 37
     },
     {
@@ -35,7 +35,7 @@
       "soilMoisture1to3cm": 0.412,
       "rainLast72h": 0.14,
       "evaporationLast72h": 0.26,
-      "rainNext24h": 0.18,
+      "rainNext24h": 0.33,
       "rainChance24h": 49
     },
     {
@@ -44,7 +44,7 @@
       "soilMoisture1to3cm": 0.403,
       "rainLast72h": 0.02,
       "evaporationLast72h": 0.28,
-      "rainNext24h": 0.19,
+      "rainNext24h": 0.22,
       "rainChance24h": 41
     },
     {
@@ -62,7 +62,7 @@
       "soilMoisture1to3cm": 0.413,
       "rainLast72h": 0.05,
       "evaporationLast72h": 0.27,
-      "rainNext24h": 0.23,
+      "rainNext24h": 0.25,
       "rainChance24h": 40
     },
     {
@@ -71,7 +71,7 @@
       "soilMoisture1to3cm": 0.408,
       "rainLast72h": 0.16,
       "evaporationLast72h": 0.3,
-      "rainNext24h": 0.23,
+      "rainNext24h": 0.49,
       "rainChance24h": 53
     },
     {
@@ -80,7 +80,7 @@
       "soilMoisture1to3cm": 0.397,
       "rainLast72h": 0.12,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.17,
+      "rainNext24h": 0.23,
       "rainChance24h": 53
     },
     {
@@ -89,7 +89,7 @@
       "soilMoisture1to3cm": 0.397,
       "rainLast72h": 0.06,
       "evaporationLast72h": 0.28,
-      "rainNext24h": 0.19,
+      "rainNext24h": 0.26,
       "rainChance24h": 50
     },
     {
@@ -98,7 +98,7 @@
       "soilMoisture1to3cm": 0.22,
       "rainLast72h": 0.03,
       "evaporationLast72h": 0.3,
-      "rainNext24h": 0.39,
+      "rainNext24h": 0.3,
       "rainChance24h": 36
     },
     {
@@ -107,7 +107,7 @@
       "soilMoisture1to3cm": 0.402,
       "rainLast72h": 0.05,
       "evaporationLast72h": 0.28,
-      "rainNext24h": 0.2,
+      "rainNext24h": 0.16,
       "rainChance24h": 39
     },
     {
@@ -116,16 +116,16 @@
       "soilMoisture1to3cm": 0.418,
       "rainLast72h": 0.61,
       "evaporationLast72h": 0.23,
-      "rainNext24h": 0.88,
+      "rainNext24h": 1.47,
       "rainChance24h": 91
     },
     {
       "trail": "Lake Georgetown",
       "soilMoisture": 0.395,
       "soilMoisture1to3cm": 0.394,
-      "rainLast72h": 0.04,
+      "rainLast72h": 0.06,
       "evaporationLast72h": 0.27,
-      "rainNext24h": 0.18,
+      "rainNext24h": 0.15,
       "rainChance24h": 41
     },
     {
@@ -134,7 +134,7 @@
       "soilMoisture1to3cm": 0.379,
       "rainLast72h": 0.45,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.28,
+      "rainNext24h": 0.49,
       "rainChance24h": 74
     },
     {
@@ -143,7 +143,7 @@
       "soilMoisture1to3cm": 0.409,
       "rainLast72h": 0.07,
       "evaporationLast72h": 0.25,
-      "rainNext24h": 0.05,
+      "rainNext24h": 0.44,
       "rainChance24h": 53
     },
     {
@@ -152,7 +152,7 @@
       "soilMoisture1to3cm": 0.403,
       "rainLast72h": 0.25,
       "evaporationLast72h": 0.3,
-      "rainNext24h": 0.21,
+      "rainNext24h": 0.3,
       "rainChance24h": 71
     },
     {
@@ -161,7 +161,7 @@
       "soilMoisture1to3cm": 0.424,
       "rainLast72h": 0.14,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.06,
+      "rainNext24h": 0.11,
       "rainChance24h": 49
     },
     {
@@ -170,7 +170,7 @@
       "soilMoisture1to3cm": 0.211,
       "rainLast72h": 0.02,
       "evaporationLast72h": 0.28,
-      "rainNext24h": 0.13,
+      "rainNext24h": 0.1,
       "rainChance24h": 43
     },
     {
@@ -179,7 +179,7 @@
       "soilMoisture1to3cm": 0.307,
       "rainLast72h": 0.11,
       "evaporationLast72h": 0.3,
-      "rainNext24h": 0.09,
+      "rainNext24h": 0.12,
       "rainChance24h": 42
     },
     {
@@ -197,7 +197,7 @@
       "soilMoisture1to3cm": 0.369,
       "rainLast72h": 0.48,
       "evaporationLast72h": 0.26,
-      "rainNext24h": 0.21,
+      "rainNext24h": 1.4,
       "rainChance24h": 50
     },
     {
@@ -206,7 +206,7 @@
       "soilMoisture1to3cm": 0.215,
       "rainLast72h": 0.06,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.09,
+      "rainNext24h": 0.29,
       "rainChance24h": 29
     },
     {
@@ -215,7 +215,7 @@
       "soilMoisture1to3cm": 0.412,
       "rainLast72h": 0.19,
       "evaporationLast72h": 0.25,
-      "rainNext24h": 0.12,
+      "rainNext24h": 0.4,
       "rainChance24h": 50
     },
     {
@@ -224,7 +224,7 @@
       "soilMoisture1to3cm": 0.392,
       "rainLast72h": 0.15,
       "evaporationLast72h": 0.28,
-      "rainNext24h": 0.14,
+      "rainNext24h": 0.23,
       "rainChance24h": 54
     },
     {
@@ -233,7 +233,7 @@
       "soilMoisture1to3cm": 0.417,
       "rainLast72h": 0.11,
       "evaporationLast72h": 0.29,
-      "rainNext24h": 0.14,
+      "rainNext24h": 0.29,
       "rainChance24h": 57
     }
   ]

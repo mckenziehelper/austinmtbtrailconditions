@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:09:02Z",
+  "updated": "2026-10-30T10:41:40Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -67,7 +67,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.413,
       "rainChance24h": 40,
       "crossingStage": 1.02,
@@ -114,7 +114,7 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild",
+      "temperature": "Cool",
       "soilMoisture": 0.397,
       "rainChance24h": 50,
       "source": "claude",
@@ -237,7 +237,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.413,
       "rainChance24h": 40,
       "source": "claude",
@@ -334,7 +334,7 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild"
+      "temperature": "Cool"
     },
     {
       "station": "Florence 3 SW",
@@ -358,7 +358,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Lake Austin at Cortana Shores",
