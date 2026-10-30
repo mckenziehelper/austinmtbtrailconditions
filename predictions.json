@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:09:10Z",
+  "updated": "2026-10-30T23:25:09Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,10 +7,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 78,
-      "source": "claude",
-      "reason": "Only 0.11 in. today, but partial shade and slow drainage keep it slick; soil saturated."
+      "soilMoisture": 0.489,
+      "rainChance24h": 54,
+      "source": "rule"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,8 +17,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.484,
-      "rainChance24h": 86,
+      "soilMoisture": 0.49,
+      "rainChance24h": 58,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -30,8 +29,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.454,
-      "rainChance24h": 81,
+      "soilMoisture": 0.492,
+      "rainChance24h": 54,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "rule"
@@ -42,8 +41,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.494,
-      "rainChance24h": 89,
+      "soilMoisture": 0.476,
+      "rainChance24h": 56,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -51,26 +50,24 @@
     {
       "trail": "Suburban Ninja",
       "station": "Cedar Park 3 SSW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 76,
-      "source": "claude",
-      "reason": "Only 0.23 in. this week, mostly drained; shaded bits may be damp. Rule says Wet from soil."
+      "soilMoisture": 0.489,
+      "rainChance24h": 52,
+      "source": "rule"
     },
     {
       "trail": "St Edwards",
       "station": "Jollyville 2 SW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.454,
-      "rainChance24h": 83,
+      "soilMoisture": 0.492,
+      "rainChance24h": 54,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "Just 0.23 in. this week and creek is low (1 ft, 0 cfs); should ride fine. Rule says Wet from soil."
+      "source": "rule"
     },
     {
       "trail": "Bull Creek",
@@ -78,8 +75,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.454,
-      "rainChance24h": 83,
+      "soilMoisture": 0.492,
+      "rainChance24h": 53,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -90,8 +87,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.47,
-      "rainChance24h": 88,
+      "soilMoisture": 0.476,
+      "rainChance24h": 41,
       "source": "rule"
     },
     {
@@ -100,8 +97,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.424,
-      "rainChance24h": 83,
+      "soilMoisture": 0.465,
+      "rainChance24h": 38,
       "source": "rule"
     },
     {
@@ -110,8 +107,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.424,
-      "rainChance24h": 83,
+      "soilMoisture": 0.465,
+      "rainChance24h": 42,
       "source": "rule"
     },
     {
@@ -120,7 +117,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.216,
+      "soilMoisture": 0.266,
       "rainChance24h": 73,
       "source": "rule"
     },
@@ -130,8 +127,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.439,
-      "rainChance24h": 85,
+      "soilMoisture": 0.486,
+      "rainChance24h": 53,
       "source": "rule"
     },
     {
@@ -140,20 +137,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.49,
-      "rainChance24h": 83,
+      "soilMoisture": 0.476,
+      "rainChance24h": 21,
       "source": "rule"
     },
     {
       "trail": "Lake Georgetown",
       "station": "Florence 3 SW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.392,
-      "rainChance24h": 69,
-      "source": "claude",
-      "reason": "Only 0.09 in. today, 0.18 in. this week; rocky trail drains fast. Rule says Wet from soil."
+      "soilMoisture": 0.477,
+      "rainChance24h": 46,
+      "source": "rule"
     },
     {
       "trail": "Pedernales Falls",
@@ -161,8 +157,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.506,
-      "rainChance24h": 95,
+      "soilMoisture": 0.458,
+      "rainChance24h": 41,
       "source": "rule"
     },
     {
@@ -171,10 +167,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.484,
-      "rainChance24h": 85,
-      "crossingStage": 4.38,
-      "crossingFlow": 0.17,
+      "soilMoisture": 0.49,
+      "rainChance24h": 65,
+      "crossingStage": 4.39,
+      "crossingFlow": 0.19,
       "source": "rule"
     },
     {
@@ -183,8 +179,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.48,
-      "rainChance24h": 92,
+      "soilMoisture": 0.47,
+      "rainChance24h": 37,
       "source": "rule"
     },
     {
@@ -193,8 +189,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.467,
-      "rainChance24h": 71,
+      "soilMoisture": 0.438,
+      "rainChance24h": 34,
       "source": "rule"
     },
     {
@@ -203,8 +199,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.207,
-      "rainChance24h": 84,
+      "soilMoisture": 0.336,
+      "rainChance24h": 81,
       "source": "rule"
     },
     {
@@ -213,20 +209,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.334,
-      "rainChance24h": 70,
+      "soilMoisture": 0.312,
+      "rainChance24h": 31,
       "source": "rule"
     },
     {
       "trail": "Thumper",
       "station": "Jollyville 2 SW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.454,
-      "rainChance24h": 82,
-      "source": "claude",
-      "reason": "Only 0.23 in. this week and creek is low; should be rideable. Rule says Wet from soil."
+      "soilMoisture": 0.492,
+      "rainChance24h": 54,
+      "source": "rule"
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -234,8 +229,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.494,
-      "rainChance24h": 86,
+      "soilMoisture": 0.498,
+      "rainChance24h": 71,
       "source": "rule"
     },
     {
@@ -244,8 +239,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.342,
-      "rainChance24h": 82,
+      "soilMoisture": 0.355,
+      "rainChance24h": 73,
       "source": "rule"
     },
     {
@@ -254,8 +249,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.493,
-      "rainChance24h": 90,
+      "soilMoisture": 0.481,
+      "rainChance24h": 58,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -266,8 +261,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.449,
-      "rainChance24h": 85,
+      "soilMoisture": 0.456,
+      "rainChance24h": 39,
       "source": "rule"
     },
     {
@@ -276,8 +271,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.448,
-      "rainChance24h": 80,
+      "soilMoisture": 0.443,
+      "rainChance24h": 40,
       "source": "rule"
     },
     {
