@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:41:40Z",
+  "updated": "2026-10-30T17:36:18Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,23 +7,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.403,
-      "rainChance24h": 42,
-      "source": "claude",
-      "reason": "0.16 in. overnight; partial shade, slow drainage, soil saturated."
+      "soilMoisture": 0.388,
+      "rainChance24h": 81,
+      "source": "rule"
     },
     {
       "trail": "Barton Creek Greenbelt",
       "station": "Barton Creek at Loop 360, Austin",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.41,
-      "rainChance24h": 44,
+      "soilMoisture": 0.403,
+      "rainChance24h": 85,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "Only 0.14 in.; rocky ledges drain fast, creek flow 0 cfs. Rule says Wet from soil."
+      "source": "rule"
     },
     {
       "trail": "Walnut Creek",
@@ -31,8 +29,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.413,
-      "rainChance24h": 37,
+      "soilMoisture": 0.401,
+      "rainChance24h": 81,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
@@ -44,12 +42,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.411,
-      "rainChance24h": 49,
+      "soilMoisture": 0.418,
+      "rainChance24h": 87,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "0.60 in. in the last day; mixed dirt will be muddy and slick."
+      "source": "rule"
     },
     {
       "trail": "Suburban Ninja",
@@ -57,10 +54,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.403,
-      "rainChance24h": 41,
-      "source": "claude",
-      "reason": "0.16 in. overnight; shaded sections stay moist, soil saturated."
+      "soilMoisture": 0.388,
+      "rainChance24h": 79,
+      "source": "rule"
     },
     {
       "trail": "St Edwards",
@@ -68,12 +64,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.413,
-      "rainChance24h": 40,
-      "crossingStage": 1.02,
+      "soilMoisture": 0.401,
+      "rainChance24h": 85,
+      "crossingStage": 1.03,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "0.18 in. in the last day on saturated soil; more rain likely."
+      "source": "rule"
     },
     {
       "trail": "Bull Creek",
@@ -81,9 +76,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.413,
-      "rainChance24h": 40,
-      "crossingStage": 1.02,
+      "soilMoisture": 0.401,
+      "rainChance24h": 85,
+      "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
     },
@@ -93,10 +88,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.407,
-      "rainChance24h": 53,
-      "source": "claude",
-      "reason": "0.15 in. overnight, soil moisture high, little drying in cool weather."
+      "soilMoisture": 0.413,
+      "rainChance24h": 87,
+      "source": "rule"
     },
     {
       "trail": "Muleshoe Bend",
@@ -104,21 +98,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.397,
-      "rainChance24h": 53,
-      "source": "claude",
-      "reason": "0.42 in., mostly last 12 hours; heavy shade, more rain coming."
+      "soilMoisture": 0.388,
+      "rainChance24h": 83,
+      "source": "rule"
     },
     {
       "trail": "Pace Bend",
       "station": "Cow Creek near Lago Vista",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.397,
-      "rainChance24h": 50,
-      "source": "claude",
-      "reason": "0.36 in., most within 12 hours; too fresh for even rocky ground to be dry."
+      "temperature": "Mild",
+      "soilMoisture": 0.388,
+      "rainChance24h": 84,
+      "source": "rule"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -126,21 +118,20 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.219,
-      "rainChance24h": 36,
+      "soilMoisture": 0.221,
+      "rainChance24h": 67,
       "source": "claude",
       "reason": "Just 0.03 in. and low soil moisture; Dry despite rule-based Wet."
     },
     {
       "trail": "Emma Long",
       "station": "Lake Austin at Cortana Shores",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.403,
-      "rainChance24h": 39,
-      "source": "claude",
-      "reason": "0.22 in. on rocky ground should shed quickly; rule-based Wet is cautious."
+      "soilMoisture": 0.393,
+      "rainChance24h": 84,
+      "source": "rule"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -148,32 +139,29 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.418,
-      "rainChance24h": 91,
-      "source": "claude",
-      "reason": "0.57 in. mostly last 12 hours, more rain likely; closes when wet."
+      "soilMoisture": 0.496,
+      "rainChance24h": 98,
+      "source": "rule"
     },
     {
       "trail": "Lake Georgetown",
       "station": "Florence 3 SW",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.395,
-      "rainChance24h": 41,
-      "source": "claude",
-      "reason": "Only 0.12 in. on rocky terrain; should be rideable, rule-based Wet is cautious."
+      "soilMoisture": 0.376,
+      "rainChance24h": 73,
+      "source": "rule"
     },
     {
       "trail": "Pedernales Falls",
       "station": "Johnson City 10 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.381,
-      "rainChance24h": 74,
-      "source": "claude",
-      "reason": "0.35 in. mostly in last 12 hours; closes when wet, 73% more rain."
+      "temperature": "Mild",
+      "soilMoisture": 0.402,
+      "rainChance24h": 89,
+      "source": "rule"
     },
     {
       "trail": "McKinney Falls",
@@ -181,23 +169,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.41,
-      "rainChance24h": 53,
-      "crossingStage": 4.36,
-      "crossingFlow": 0.13,
-      "source": "claude",
-      "reason": "Little rain, but soil is saturated and Onion Creek is running at the crossing."
+      "soilMoisture": 0.403,
+      "rainChance24h": 87,
+      "crossingStage": 4.37,
+      "crossingFlow": 0.15,
+      "source": "rule"
     },
     {
       "trail": "Reimers Ranch",
       "station": "Lakeway 6 W",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.403,
-      "rainChance24h": 71,
-      "source": "claude",
-      "reason": "0.41 in. fell recently on dirt trails; closes when wet."
+      "temperature": "Mild",
+      "soilMoisture": 0.405,
+      "rainChance24h": 87,
+      "source": "rule"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -205,21 +191,19 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.423,
-      "rainChance24h": 49,
-      "source": "claude",
-      "reason": "0.29 in., nearly all last 12 hours, with 70% chance of more."
+      "soilMoisture": 0.42,
+      "rainChance24h": 74,
+      "source": "rule"
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.211,
-      "rainChance24h": 43,
-      "source": "claude",
-      "reason": "Only 0.01 in. recently and soil is dry, though shaded; rule-based Wet is overly cautious."
+      "soilMoisture": 0.203,
+      "rainChance24h": 79,
+      "source": "rule"
     },
     {
       "trail": "Spider Mountain",
@@ -227,10 +211,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.307,
-      "rainChance24h": 42,
-      "source": "claude",
-      "reason": "0.29 in. in the last 12 hours with 68% chance of more rain."
+      "soilMoisture": 0.31,
+      "rainChance24h": 71,
+      "source": "rule"
     },
     {
       "trail": "Thumper",
@@ -238,10 +221,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.413,
-      "rainChance24h": 40,
-      "source": "claude",
-      "reason": "0.18 in. in the last day on saturated soil; likely still tacky."
+      "soilMoisture": 0.401,
+      "rainChance24h": 85,
+      "source": "rule"
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -249,8 +231,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.378,
-      "rainChance24h": 50,
+      "soilMoisture": 0.374,
+      "rainChance24h": 86,
       "source": "claude",
       "reason": "0.48 in. per forecast model, shaded dirt, 0.87 in. more expected."
     },
@@ -260,8 +242,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.221,
-      "rainChance24h": 29,
+      "soilMoisture": 0.257,
+      "rainChance24h": 85,
       "source": "claude",
       "reason": "No gauge rain in 2 weeks and soil moisture low."
     },
@@ -272,11 +254,10 @@
       "isDry": false,
       "temperature": "Mild",
       "soilMoisture": 0.412,
-      "rainChance24h": 50,
+      "rainChance24h": 87,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
-      "source": "claude",
-      "reason": "0.60 in. in the last day and slow drainage; soil saturated."
+      "source": "rule"
     },
     {
       "trail": "Grelle",
@@ -284,10 +265,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.392,
-      "rainChance24h": 54,
-      "source": "claude",
-      "reason": "0.42 in., mostly last 12 hours; too fresh to ride."
+      "soilMoisture": 0.396,
+      "rainChance24h": 82,
+      "source": "rule"
     },
     {
       "trail": "Shaffer Bend",
@@ -295,10 +275,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.416,
-      "rainChance24h": 57,
-      "source": "claude",
-      "reason": "0.39 in. mostly in the last 12 hours, soil saturated."
+      "soilMoisture": 0.404,
+      "rainChance24h": 81,
+      "source": "rule"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -334,7 +313,7 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Florence 3 SW",
@@ -352,7 +331,7 @@
       "station": "Johnson City 10 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Jollyville 2 SW",
@@ -376,7 +355,7 @@
       "station": "Lakeway 6 W",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Manchaca 4 W",
