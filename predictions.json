@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:39:46Z",
+  "updated": "2026-10-31T10:06:24Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 19,
+      "soilMoisture": 0.407,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -17,8 +17,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.457,
-      "rainChance24h": 17,
+      "soilMoisture": 0.426,
+      "rainChance24h": 3,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -29,8 +29,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.444,
-      "rainChance24h": 22,
+      "soilMoisture": 0.418,
+      "rainChance24h": 3,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "rule"
@@ -41,8 +41,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.462,
-      "rainChance24h": 17,
+      "soilMoisture": 0.424,
+      "rainChance24h": 3,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -53,8 +53,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.43,
-      "rainChance24h": 19,
+      "soilMoisture": 0.407,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -63,8 +63,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.444,
-      "rainChance24h": 20,
+      "soilMoisture": 0.418,
+      "rainChance24h": 3,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -75,8 +75,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.444,
-      "rainChance24h": 19,
+      "soilMoisture": 0.418,
+      "rainChance24h": 3,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -87,8 +87,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.449,
-      "rainChance24h": 13,
+      "soilMoisture": 0.416,
+      "rainChance24h": 4,
       "source": "rule"
     },
     {
@@ -97,8 +97,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.41,
-      "rainChance24h": 16,
+      "soilMoisture": 0.394,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -107,8 +107,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.41,
-      "rainChance24h": 13,
+      "soilMoisture": 0.394,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -117,8 +117,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.275,
-      "rainChance24h": 24,
+      "soilMoisture": 0.26,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -127,8 +127,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.445,
-      "rainChance24h": 18,
+      "soilMoisture": 0.414,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -137,8 +137,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.447,
-      "rainChance24h": 7,
+      "soilMoisture": 0.424,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -147,8 +147,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.41,
-      "rainChance24h": 19,
+      "soilMoisture": 0.389,
+      "rainChance24h": 7,
       "source": "rule"
     },
     {
@@ -157,8 +157,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.424,
-      "rainChance24h": 15,
+      "soilMoisture": 0.404,
+      "rainChance24h": 4,
       "source": "rule"
     },
     {
@@ -167,10 +167,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.457,
-      "rainChance24h": 18,
-      "crossingStage": 4.39,
-      "crossingFlow": 0.19,
+      "soilMoisture": 0.426,
+      "rainChance24h": 3,
+      "crossingStage": 4.42,
+      "crossingFlow": 0.27,
       "source": "rule"
     },
     {
@@ -179,8 +179,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.435,
-      "rainChance24h": 16,
+      "soilMoisture": 0.411,
+      "rainChance24h": 4,
       "source": "rule"
     },
     {
@@ -188,9 +188,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.413,
-      "rainChance24h": 14,
+      "temperature": "Mild",
+      "soilMoisture": 0.397,
+      "rainChance24h": 7,
       "source": "rule"
     },
     {
@@ -199,8 +199,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.303,
-      "rainChance24h": 15,
+      "soilMoisture": 0.286,
+      "rainChance24h": 2,
       "source": "rule"
     },
     {
@@ -208,9 +208,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.298,
-      "rainChance24h": 14,
+      "temperature": "Mild",
+      "soilMoisture": 0.289,
+      "rainChance24h": 9,
       "source": "rule"
     },
     {
@@ -219,8 +219,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.444,
-      "rainChance24h": 19,
+      "soilMoisture": 0.418,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -229,8 +229,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.462,
-      "rainChance24h": 17,
+      "soilMoisture": 0.418,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -239,8 +239,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.305,
-      "rainChance24h": 17,
+      "soilMoisture": 0.281,
+      "rainChance24h": 4,
       "source": "rule"
     },
     {
@@ -249,8 +249,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.465,
-      "rainChance24h": 14,
+      "soilMoisture": 0.424,
+      "rainChance24h": 3,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -261,8 +261,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.411,
-      "rainChance24h": 19,
+      "soilMoisture": 0.394,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -270,9 +270,9 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.418,
-      "rainChance24h": 19,
+      "temperature": "Mild",
+      "soilMoisture": 0.401,
+      "rainChance24h": 3,
       "source": "rule"
     },
     {
@@ -363,7 +363,7 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
@@ -387,7 +387,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     }
   ]
 }
