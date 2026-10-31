@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:25:09Z",
+  "updated": "2026-10-31T03:39:46Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.489,
-      "rainChance24h": 54,
+      "soilMoisture": 0.43,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -17,8 +17,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.49,
-      "rainChance24h": 58,
+      "soilMoisture": 0.457,
+      "rainChance24h": 17,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -29,8 +29,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.492,
-      "rainChance24h": 54,
+      "soilMoisture": 0.444,
+      "rainChance24h": 22,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "rule"
@@ -41,8 +41,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.476,
-      "rainChance24h": 56,
+      "soilMoisture": 0.462,
+      "rainChance24h": 17,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -53,8 +53,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.489,
-      "rainChance24h": 52,
+      "soilMoisture": 0.43,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -63,8 +63,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.492,
-      "rainChance24h": 54,
+      "soilMoisture": 0.444,
+      "rainChance24h": 20,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -75,8 +75,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.492,
-      "rainChance24h": 53,
+      "soilMoisture": 0.444,
+      "rainChance24h": 19,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -87,8 +87,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.476,
-      "rainChance24h": 41,
+      "soilMoisture": 0.449,
+      "rainChance24h": 13,
       "source": "rule"
     },
     {
@@ -97,8 +97,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.465,
-      "rainChance24h": 38,
+      "soilMoisture": 0.41,
+      "rainChance24h": 16,
       "source": "rule"
     },
     {
@@ -107,8 +107,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.465,
-      "rainChance24h": 42,
+      "soilMoisture": 0.41,
+      "rainChance24h": 13,
       "source": "rule"
     },
     {
@@ -117,8 +117,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.266,
-      "rainChance24h": 73,
+      "soilMoisture": 0.275,
+      "rainChance24h": 24,
       "source": "rule"
     },
     {
@@ -127,8 +127,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.486,
-      "rainChance24h": 53,
+      "soilMoisture": 0.445,
+      "rainChance24h": 18,
       "source": "rule"
     },
     {
@@ -136,9 +136,9 @@
       "station": "Fredericksburg 10 SSE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.476,
-      "rainChance24h": 21,
+      "temperature": "Mild",
+      "soilMoisture": 0.447,
+      "rainChance24h": 7,
       "source": "rule"
     },
     {
@@ -147,8 +147,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.477,
-      "rainChance24h": 46,
+      "soilMoisture": 0.41,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -157,8 +157,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.458,
-      "rainChance24h": 41,
+      "soilMoisture": 0.424,
+      "rainChance24h": 15,
       "source": "rule"
     },
     {
@@ -167,8 +167,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.49,
-      "rainChance24h": 65,
+      "soilMoisture": 0.457,
+      "rainChance24h": 18,
       "crossingStage": 4.39,
       "crossingFlow": 0.19,
       "source": "rule"
@@ -179,8 +179,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.47,
-      "rainChance24h": 37,
+      "soilMoisture": 0.435,
+      "rainChance24h": 16,
       "source": "rule"
     },
     {
@@ -188,9 +188,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild",
-      "soilMoisture": 0.438,
-      "rainChance24h": 34,
+      "temperature": "Cool",
+      "soilMoisture": 0.413,
+      "rainChance24h": 14,
       "source": "rule"
     },
     {
@@ -199,8 +199,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.336,
-      "rainChance24h": 81,
+      "soilMoisture": 0.303,
+      "rainChance24h": 15,
       "source": "rule"
     },
     {
@@ -208,9 +208,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild",
-      "soilMoisture": 0.312,
-      "rainChance24h": 31,
+      "temperature": "Cool",
+      "soilMoisture": 0.298,
+      "rainChance24h": 14,
       "source": "rule"
     },
     {
@@ -219,8 +219,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.492,
-      "rainChance24h": 54,
+      "soilMoisture": 0.444,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -229,8 +229,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.498,
-      "rainChance24h": 71,
+      "soilMoisture": 0.462,
+      "rainChance24h": 17,
       "source": "rule"
     },
     {
@@ -239,8 +239,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.355,
-      "rainChance24h": 73,
+      "soilMoisture": 0.305,
+      "rainChance24h": 17,
       "source": "rule"
     },
     {
@@ -249,8 +249,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.481,
-      "rainChance24h": 58,
+      "soilMoisture": 0.465,
+      "rainChance24h": 14,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule"
@@ -261,8 +261,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.456,
-      "rainChance24h": 39,
+      "soilMoisture": 0.411,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -270,9 +270,9 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild",
-      "soilMoisture": 0.443,
-      "rainChance24h": 40,
+      "temperature": "Cool",
+      "soilMoisture": 0.418,
+      "rainChance24h": 19,
       "source": "rule"
     },
     {
@@ -321,7 +321,7 @@
       "station": "Fredericksburg 10 SSE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Johnson City 10 E",
@@ -363,7 +363,7 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild"
+      "temperature": "Cool"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
@@ -387,7 +387,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild"
+      "temperature": "Cool"
     }
   ]
 }
