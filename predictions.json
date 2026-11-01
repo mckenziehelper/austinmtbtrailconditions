@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T20:09:20Z",
+  "updated": "2026-11-01T23:16:45Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.337,
+      "soilMoisture": 0.334,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.35 in. over 3 days; slow-draining and partly shaded, soil still saturated."
@@ -17,8 +17,8 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot",
-      "soilMoisture": 0.353,
+      "temperature": "Warm",
+      "soilMoisture": 0.348,
       "rainChance24h": 2,
       "crossingStage": 1.69,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.354,
       "rainChance24h": 2,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -44,7 +44,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.353,
+      "soilMoisture": 0.348,
       "rainChance24h": 2,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -57,7 +57,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.337,
+      "soilMoisture": 0.334,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.35 in. in 3 days; shaded sections stay moist and soil is saturated."
@@ -68,7 +68,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.354,
       "rainChance24h": 2,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
@@ -80,8 +80,8 @@
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Hot",
-      "soilMoisture": 0.358,
+      "temperature": "Warm",
+      "soilMoisture": 0.354,
       "rainChance24h": 2,
       "crossingStage": 1.03,
       "crossingFlow": 0.0,
@@ -94,7 +94,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.351,
+      "soilMoisture": 0.346,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.52 in. in 3 days; soil saturated and Monkey Wrench is slick when wet."
@@ -105,7 +105,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.338,
+      "soilMoisture": 0.332,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.58 in. in 3 days; heavily shaded with saturated soil, slow to dry."
@@ -116,7 +116,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.338,
+      "soilMoisture": 0.332,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "Rocky terrain; only 0.01 in. lately and no rain in 24h, so it has drained."
@@ -126,9 +126,9 @@
       "station": "Waldeck 1 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot",
-      "soilMoisture": 0.17,
-      "rainChance24h": 3,
+      "temperature": "Warm",
+      "soilMoisture": 0.167,
+      "rainChance24h": 2,
       "source": "claude",
       "reason": "Only 0.29 in. in 3 days and soil moisture is low despite shade."
     },
@@ -138,7 +138,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.34,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "Rocky limestone ledges drain fast; no rain in the last day."
@@ -149,8 +149,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.372,
-      "rainChance24h": 4,
+      "soilMoisture": 0.364,
+      "rainChance24h": 2,
       "source": "claude",
       "reason": "1.53 in. in 3 days and it closes when wet; also closed Nov-Dec for hunting."
     },
@@ -160,7 +160,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.318,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "Rocky and light rain (0.23 in. in 3 days); no rain in 24h."
@@ -171,7 +171,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.343,
+      "soilMoisture": 0.336,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.60 in. in 3 days; TPWD closes trails when wet, soil still saturated."
@@ -181,11 +181,11 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Hot",
-      "soilMoisture": 0.353,
-      "rainChance24h": 3,
-      "crossingStage": 4.45,
-      "crossingFlow": 0.39,
+      "temperature": "Warm",
+      "soilMoisture": 0.348,
+      "rainChance24h": 2,
+      "crossingStage": 4.44,
+      "crossingFlow": 0.35,
       "source": "claude",
       "reason": "Onion Creek stage 4.45 ft and flowing; Lower Falls crossing and saturated soil."
     },
@@ -195,7 +195,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.348,
+      "soilMoisture": 0.343,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.44 in. in 3 days, 0.72 in. this week; Travis County closes it when wet."
@@ -206,7 +206,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.353,
+      "soilMoisture": 0.347,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.49 in. in 3 days and soil moisture still high; no drying data to override."
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.197,
+      "soilMoisture": 0.194,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.45 in. two days ago but soil is dry and it is 83F; shade offsets little."
@@ -228,7 +228,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.262,
+      "soilMoisture": 0.259,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "Built bike-park trails, 0.49 in. in 3 days but soil moisture is low."
@@ -239,7 +239,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.354,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.42 in. in 3 days; saturated soil and rooty creek crossing."
@@ -249,8 +249,8 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Hot",
-      "soilMoisture": 0.329,
+      "temperature": "Warm",
+      "soilMoisture": 0.323,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.63 in. in 3 days; heavily shaded dirt trail with saturated soil."
@@ -261,8 +261,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.196,
-      "rainChance24h": 3,
+      "soilMoisture": 0.193,
+      "rainChance24h": 2,
       "source": "claude",
       "reason": "0.44 in. in 3 days, none in 24h; soil moisture is low at 0.22."
     },
@@ -272,7 +272,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.348,
+      "soilMoisture": 0.343,
       "rainChance24h": 2,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -285,7 +285,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.334,
+      "soilMoisture": 0.328,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "Rocky singletrack; 0.58 in. in 3 days but only 0.01 in. in 24h, so it drains."
@@ -296,7 +296,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.352,
+      "soilMoisture": 0.347,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "0.67 in. in 3 days; soil saturated and ranch trails are slow to dry."
@@ -305,13 +305,13 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot"
+      "temperature": "Warm"
     },
     {
       "station": "Cedar Creek 3 WSW",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Hot"
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Warm"
     },
     {
       "station": "Cedar Creek near Bastrop",
@@ -375,8 +375,8 @@
     },
     {
       "station": "Lakeway 6 W",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Warm"
     },
     {
@@ -387,15 +387,15 @@
     },
     {
       "station": "Marble Falls 6 ENE",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Warm"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Hot"
+      "temperature": "Warm"
     },
     {
       "station": "Pflugerville 3 SSE",
