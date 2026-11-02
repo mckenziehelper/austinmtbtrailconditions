@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24T17:01:42Z",
+  "updated": "2026-11-02T03:25:19Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "status": "open",
-      "source": "https://www.trailforks.com/region/brushy-creek/status/"
+      "source": "https://www.trailforks.com/region/brushy-creek-regional-park/status/"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -14,7 +14,7 @@
     {
       "trail": "Walnut Creek",
       "status": "open",
-      "source": "https://www.trailforks.com/region/walnut-creek/status/"
+      "source": "https://www.trailforks.com/region/walnut-creek-metropolitan-park/status/"
     },
     {
       "trail": "South Austin Trail Network",
@@ -43,8 +43,7 @@
     },
     {
       "trail": "Muleshoe Bend",
-      "status": "caution",
-      "statusNote": "Park closed Oct 26-28",
+      "status": "open",
       "source": "https://lcraparks.com/parks/muleshoe-bend-recreation-area"
     },
     {
@@ -54,8 +53,7 @@
     },
     {
       "trail": "Bluff Creek Ranch",
-      "status": "closed",
-      "statusNote": "Closed this weekend for a race event",
+      "status": "open",
       "source": "https://bcrwarda.com/"
     },
     {
@@ -65,28 +63,30 @@
     },
     {
       "trail": "Flat Rock Ranch",
-      "status": "open",
-      "source": "https://www.trailforks.com/region/flat-rock-ranch-16142/status/"
+      "status": "closed",
+      "statusNote": "Closed Nov-Dec for hunting season",
+      "source": "https://flatrockranchtx.com/"
     },
     {
       "trail": "Lake Georgetown",
       "status": "open",
-      "source": "https://www.trailforks.com/region/lake-georgetown-13743/status/"
+      "source": "https://www.trailforks.com/region/lake-georgetown/status/"
     },
     {
       "trail": "Pedernales Falls",
       "status": "open",
-      "source": "https://www.trailforks.com/region/pedernales-falls-state-park-21994/status/"
+      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls/alert"
     },
     {
       "trail": "McKinney Falls",
       "status": "open",
-      "source": "https://www.trailforks.com/region/mckinney-falls-state-park-22054/status/"
+      "source": "https://tpwd.texas.gov/state-parks/mckinney-falls/alert"
     },
     {
       "trail": "Reimers Ranch",
-      "status": "open",
-      "source": "https://www.trailforks.com/region/milton-reimers-ranch-park-17523/status/"
+      "status": "closed",
+      "statusNote": "MTB trails closed after recent rain until thoroughly dry",
+      "source": "https://parks.traviscountytx.gov/parks/reimers-ranch"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -95,19 +95,44 @@
     },
     {
       "trail": "Rocky Hill Ranch",
-      "status": "closed",
-      "statusNote": "Closed Oct 24-25 for Rise Racing events",
-      "source": "https://www.rockyhillranch.com/"
+      "status": "open",
+      "source": "https://www.rockyhillranch.com/events"
     },
     {
       "trail": "Spider Mountain",
       "status": "open",
-      "source": "https://www.trailforks.com/region/spider-mountain-bike-park-27035/status/"
+      "source": "https://www.spidermountain.com/"
     },
     {
       "trail": "Thumper",
       "status": "open",
       "source": "https://www.trailforks.com/region/dominion-at-great-hills-park-13787/status/"
+    },
+    {
+      "trail": "Forrest Creek Ranch",
+      "status": "caution",
+      "statusNote": "Private; open ride days only — check FB group",
+      "source": "https://www.mtbatx.com/austintrails/networks/forrestcreek"
+    },
+    {
+      "trail": "McKinney Roughs",
+      "status": "open",
+      "source": "https://lcraparks.com/parks/mckinney-roughs-nature-park"
+    },
+    {
+      "trail": "Bauerle Ranch",
+      "status": "open",
+      "source": "https://www.trailforks.com/region/bauerle-ranch-58155/status/"
+    },
+    {
+      "trail": "Grelle",
+      "status": "open",
+      "source": "https://lcraparks.com/parks/grelle-recreation-area"
+    },
+    {
+      "trail": "Shaffer Bend",
+      "status": "open",
+      "source": "https://lcraparks.com/parks/shaffer-bend-recreation-area"
     }
   ]
 }
