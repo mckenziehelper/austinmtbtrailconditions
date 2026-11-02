@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-02T11:11:01Z",
+  "updated": "2026-11-02T20:10:04Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "0.29 in. Saturday; slow-draining, partly shaded, slick and slow to dry."
+      "reason": "0.29 in. Saturday; slow-draining and partly shaded, still slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Rocky ledges drained; 0.39 in. 3 days ago, creek flow 0 cfs."
+      "reason": "Rocky ledges drained; 0.39 in. Saturday, creek flowing 0 cfs."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "0.26 in. 3 days ago; heavy shade and loamy dirt, slowest-drying trail."
+      "reason": "0.26 in. Saturday; heavy shade and loamy dirt, slowest to dry."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Wet",
-      "reason": "1.08 in. this week, 0.49 in. in 3 days; blackland and creek stage still up."
+      "reason": "1.1 in. this week, 0.47 Saturday; blackland clay and Slaughter Creek stay muddy."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Dry",
-      "reason": "0.29 in. 3 days ago and none since; open sections have dried."
+      "reason": "0.29 in. Saturday, three dry days since; open sections dried."
     },
     {
       "trail": "St Edwards",
       "prediction": "Dry",
-      "reason": "0.34 in. 3 days ago, creek flow 0 cfs; mild weather has dried it."
+      "reason": "0.34 in. Saturday; dry since, creek crossing at 0 cfs."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "0.33 in. 3 days ago, crossings at 0 cfs; no rain since."
+      "reason": "0.32 in. Saturday; no rain since, crossing gauge at 0 cfs."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "0.46 in. 3 days ago but none since; rocky and drained."
+      "reason": "0.45 in. Saturday but dry since; exposed ground has dried."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "0.75 in. this week; heavily shaded sand and dirt stays damp."
+      "reason": "0.33 in. Saturday; heavy shade and sand/dirt mix keep it damp."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "Rocky terrain; 0.32 in. 3 days ago and no rain since."
+      "reason": "Rocky and exposed; 0.32 in. Saturday, rain not due until later."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.27 in. 3 days ago; low soil moisture despite shade."
+      "reason": "0.27 in. Saturday; soil is dry (0.15) so shaded trail has dried."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Rocky limestone drains fast; 0.41 in. 3 days ago, none since."
+      "reason": "Rocky limestone; 0.4 in. Saturday and dry since."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "1.16 in. in 3 days; closes when wet and closed Nov-Dec for hunting."
+      "reason": "1.1 in. Saturday; ranch closes when wet, soils still near saturated."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "Rocky and only 0.16 in. in 3 days; no rain since."
+      "reason": "Light rain (0.16 in.) on rocky ground; dry since."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Dry",
-      "reason": "Rocky limestone; 0.36 in. 3 days ago, none since, drained."
+      "reason": "0.35 in. Saturday on rock; dry for two days."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "0.39 in. 3 days ago; Onion Creek flow only 0.35 cfs, crossing passable."
+      "reason": "0.37 in. Saturday, dry since; rain forecast later, creek 0.27 cfs."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "0.72 in. this week; county closes trails until thoroughly dry."
+      "reason": "0.72 in. this week; dirt trails close when wet and more rain likely."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.24 in. 3 days ago and none since; granite drains quickly."
+      "reason": "Only 0.18 in. Saturday; effectively dry."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "0.44 in. 3 days ago but soil moisture low at 0.20; dried."
+      "reason": "0.44 in. Saturday but soil is dry (0.17); shade has dried out."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "Built bike-park trails; 0.24 in. 3 days ago, low soil moisture."
+      "reason": "Only 0.18 in. Saturday; soil moisture low, dry."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "0.34 in. 3 days ago, none since; mild weather has dried it."
+      "reason": "0.34 in. Saturday, dry since; no meaningful moisture left."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Wet",
-      "reason": "0.63 in. 3 days ago; heavily shaded dirt trail still damp."
+      "reason": "1.67 in. in 72h; shaded dirt still soft and muddy."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.44 in. 3 days ago; soil moisture low at 0.20, none since."
+      "reason": "0.4 in. Saturday; soil dry (0.17) and no rain since."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "1.08 in. this week; slow-draining and floods, creek stage still up."
+      "reason": "1.08 in. this week; slow-draining, 0.47 in. Saturday, still muddy."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "Rocky; 0.33 in. 3 days ago, no rain since."
+      "reason": "Rocky; 0.33 in. Saturday and dry since."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Dry",
-      "reason": "0.35 in. 3 days ago and none since; wide ranch trails drained."
+      "reason": "0.35 in. Saturday, dry since; no meaningful rain in two days."
     }
   ]
 }
