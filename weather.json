@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:25:33Z",
+  "updated": "2026-11-02T03:52:41Z",
   "source": "Open-Meteo",
   "results": [
     {
@@ -34,7 +34,7 @@
       "soilMoisture": 0.352,
       "soilMoisture1to3cm": 0.354,
       "rainLast72h": 0.51,
-      "evaporationLast72h": 0.21,
+      "evaporationLast72h": 0.2,
       "rainNext24h": 0.0,
       "rainChance24h": 4
     },
@@ -196,7 +196,7 @@
       "soilMoisture": 0.328,
       "soilMoisture1to3cm": 0.332,
       "rainLast72h": 1.67,
-      "evaporationLast72h": 0.22,
+      "evaporationLast72h": 0.21,
       "rainNext24h": 0.0,
       "rainChance24h": 3
     },
@@ -232,7 +232,7 @@
       "soilMoisture": 0.351,
       "soilMoisture1to3cm": 0.354,
       "rainLast72h": 0.06,
-      "evaporationLast72h": 0.21,
+      "evaporationLast72h": 0.2,
       "rainNext24h": 0.0,
       "rainChance24h": 3
     }

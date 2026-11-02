@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:25:33Z",
+  "updated": "2026-11-02T03:52:41Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -107,7 +107,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Mild",
+      "temperature": "Warm",
       "soilMoisture": 0.349,
       "rainChance24h": 3,
       "source": "claude",
@@ -424,7 +424,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Lakeway 6 W",
