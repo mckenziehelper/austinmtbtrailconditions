@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T11:11:13Z",
+  "updated": "2026-11-02T11:55:48Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -19,7 +19,7 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.328,
       "rainChance24h": 55,
       "crossingStage": 1.68,
@@ -175,8 +175,7 @@
       "temperature": "Mild",
       "soilMoisture": 0.367,
       "rainChance24h": 62,
-      "source": "claude",
-      "reason": "1.16 in. in 3 days; closes when wet and closed Nov-Dec for hunting.",
+      "source": "rule",
       "status": "closed",
       "statusNote": "Closed Nov-Dec for hunting season",
       "statusChecked": "2026-11-02T03:25:19Z"
@@ -360,7 +359,7 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Cedar Creek 3 WSW",
@@ -400,8 +399,8 @@
     },
     {
       "station": "Fredericksburg 10 SSE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Mild"
     },
     {
