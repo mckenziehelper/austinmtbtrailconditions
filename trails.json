@@ -2,7 +2,7 @@
     {
         "name": "Brushy Creek",
         "city": "Cedar Park, TX",
-        "trailforks": "region/brushy-creek/",
+        "trailforks": "region/brushy-creek-regional-park/",
         "latitude": 30.5080547,
         "longitude": -97.77196,
         "gmaps": "https://goo.gl/maps/kt9XTrH3anDTiMaM7",
@@ -27,7 +27,7 @@
     {
         "name": "Walnut Creek",
         "city": "Austin, TX",
-        "trailforks": "region/walnut-creek/",
+        "trailforks": "region/walnut-creek-metropolitan-park/",
         "latitude": 30.4008039,
         "longitude": -97.686422,
         "gmaps": "https://goo.gl/maps/DUMoDCGe9j3fzPX68",
@@ -155,7 +155,7 @@
     {
         "name": "Lake Georgetown",
         "city": "Georgetown, TX",
-        "trailforks": "region/lake-georgetown-13743/",
+        "trailforks": "region/lake-georgetown/",
         "gmaps": "https://goo.gl/maps/KR2qS451rEWesuPD7",
         "latitude": 30.6736826,
         "longitude": -97.7368782,
@@ -199,7 +199,7 @@
         "station": "Lakeway 6 W",
         "surface": "dirt",
         "closesWhenWet": true,
-        "statusUrl": "https://parks.traviscountytx.gov/find-a-park/reimers-ranch",
+        "statusUrl": "https://parks.traviscountytx.gov/parks/reimers-ranch",
         "notes": "Mostly sandy singletrack with limestone slabs. Travis County closes trails after significant rain until thoroughly dry, sometimes when only slightly wet."
     },
     {
