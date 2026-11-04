@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-04T11:08:49Z",
+  "updated": "2026-11-04T20:08:24Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.07 in. overnight, 2.2 in. in 72h; slow-draining and slick."
+      "reason": "1.07 in. two days ago; slow-draining and slick, soil still wet."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Only 0.38 in. overnight; rock sheds water fast and the creek is low."
+      "reason": "Only 0.38 in. two days ago; rocky, and the creek is low with no flow."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "1.75 in. overnight; heavy shade and loamy dirt, slow to dry."
+      "reason": "1.75 in. two days ago; heavy shade on dirt, soil still saturated."
     },
     {
       "trail": "South Austin Trail Network",
-      "prediction": "Wet",
-      "reason": "0.21 in. overnight, 1.3 in. this week; clay and roots still damp."
+      "prediction": "Dry",
+      "reason": "Just 0.21 in. in 2 days, creek not flowing; mixed surface has drained."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.07 in. overnight; shaded sections stay moist, soil saturated."
+      "reason": "1.07 in. two days ago; shaded sections stay moist and soil is wet."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.36 in. overnight; creek flowing and one leg at creek level."
+      "reason": "1.36 in. two days ago; creek still flowing and soil is wet."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "0.84 in. overnight; creek flowing at 0.7 cfs, muddy crossings."
+      "reason": "1.36 in. two days ago; creek still running, muddy spots likely."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.06 in. overnight; soil saturated, Monkey Wrench slick when wet."
+      "reason": "About 1.06 in. two days ago; trails are slick when wet and soil is damp."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.08 in. overnight; heavy shade and sand/dirt mix dry slowly."
+      "reason": "1.08 in. two days ago; about 80% shaded so slow to dry."
     },
     {
       "trail": "Pace Bend",
-      "prediction": "Wet",
-      "reason": "0.96 in. overnight, 1.6 in. this week; sandy sections muddy."
+      "prediction": "Dry",
+      "reason": "0.96 in. two days ago; rocky terrain has had time to drain."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Light 0.27 in. and dry soil (0.23); forest floor should be rideable."
+      "reason": "0.55 in. two days ago and soil moisture is low; only pine needles slick."
     },
     {
       "trail": "Emma Long",
-      "prediction": "Wet",
-      "reason": "0.82 in. overnight; soil still wet and limestone ledges slick."
+      "prediction": "Dry",
+      "reason": "0.82 in. two days ago; limestone ledges drain fast, no rain coming."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "Closed Nov-Dec for hunting; also 1.98 in. this week."
+      "reason": "Rain estimates up to 3.3 in. in 72h; closes when wet, and seasonally closed for hunting."
     },
     {
       "trail": "Lake Georgetown",
-      "prediction": "Wet",
-      "reason": "0.59 in. overnight; sharp limestone is slick when damp."
+      "prediction": "Dry",
+      "reason": "0.59 in. two days ago; rocky and partly open, dried out by now."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "0.71 in. overnight, 2.4 in. in 72h; TPWD may close trails."
+      "reason": "Up to 2.4 in. in 72h and soil is wet; TPWD may keep trails closed."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "1.0 in. overnight; Onion Creek running 5 cfs, falls crossing unreliable."
+      "reason": "1.0 in. two days ago; soil still wet and creek crossings still have flow."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "0.95 in. overnight; county keeps trails closed until thoroughly dry."
+      "reason": "0.95 in. two days ago on sandy dirt; county keeps trails closed until dry."
     },
     {
       "trail": "Reveille Peak Ranch",
-      "prediction": "Wet",
-      "reason": "0.67 in. overnight; soil still saturated (0.37), cool and slow drying."
+      "prediction": "Dry",
+      "reason": "0.67 in. two days ago; open, well-draining terrain has dried."
     },
     {
       "trail": "Rocky Hill Ranch",
-      "prediction": "Wet",
-      "reason": "0.55 in. overnight; heavy shade, red mud at The Wall stays sticky."
+      "prediction": "Dry",
+      "reason": "0.55 in. two days ago and soil moisture is low; only the bottom of The Wall is sticky."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.67 in. fell but soil is dry (0.29) and bike-park trail drains quickly."
+      "reason": "Light rain two days ago and soil moisture is low; bike park drains well."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.36 in. overnight; rooty, shaded, creek crossings running."
+      "reason": "1.36 in. two days ago; creek crossing likely running and soil is wet."
     },
     {
       "trail": "Forrest Creek Ranch",
-      "prediction": "Wet",
-      "reason": "0.53 in. overnight; heavy shade keeps it muddy, soil saturated."
+      "prediction": "Dry",
+      "reason": "About 0.5 in. two days ago; shaded dirt has had 40 hours to dry."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.47 in. overnight but river-bottom soil is dry (0.24); rule-based Wet is too cautious."
+      "reason": "0.47 in. two days ago and soil moisture is low; no rain expected."
     },
     {
       "trail": "Bauerle Ranch",
-      "prediction": "Wet",
-      "reason": "0.21 in. but slow-draining and floods near Slaughter Creek; 1.3 in. this week."
+      "prediction": "Dry",
+      "reason": "Only 0.21 in. in 2 days and creek not flowing; floods only in wet periods."
     },
     {
       "trail": "Grelle",
-      "prediction": "Wet",
-      "reason": "1.08 in. overnight, 1.8 in. this week; sandy spots muddy."
+      "prediction": "Dry",
+      "reason": "1.08 in. two days ago; rocky singletrack drains quickly."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.01 in. overnight; wide ranch trails soft and rutting."
+      "reason": "1.01 in. two days ago; soil still wet on dirt ranch trails."
     }
   ]
 }
