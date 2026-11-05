@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-04T20:08:24Z",
+  "updated": "2026-11-05T11:11:11Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.07 in. two days ago; slow-draining and slick, soil still wet."
+      "reason": "1.07 in. two days ago; partly shaded and slow-draining, still slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Only 0.38 in. two days ago; rocky, and the creek is low with no flow."
+      "reason": "Only 0.38 in. two days ago; rocky, creek low with no flow."
     },
     {
       "trail": "Walnut Creek",
@@ -19,12 +19,12 @@
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "Just 0.21 in. in 2 days, creek not flowing; mixed surface has drained."
+      "reason": "Just 0.21 in. in 2 days and creek not flowing; mixed surface has drained."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.07 in. two days ago; shaded sections stay moist and soil is wet."
+      "reason": "1.07 in. two days ago; shaded sections hold moisture, soil still wet."
     },
     {
       "trail": "St Edwards",
@@ -34,102 +34,102 @@
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "1.36 in. two days ago; creek still running, muddy spots likely."
+      "reason": "0.84 in. two days ago, 1.22 in. over 72h; creek flowing, muddy crossings."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "About 1.06 in. two days ago; trails are slick when wet and soil is damp."
+      "reason": "About 1.06 in. two days ago with cool temps; not enough drying yet."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.08 in. two days ago; about 80% shaded so slow to dry."
+      "reason": "1.08 in. two days ago; heavily shaded so slow to dry."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "0.96 in. two days ago; rocky terrain has had time to drain."
+      "reason": "0.96 in. two days ago but rocky terrain has had time to drain."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.55 in. two days ago and soil moisture is low; only pine needles slick."
+      "reason": "Only 0.28 in. and soil moisture is low, so shade is not a concern."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "0.82 in. two days ago; limestone ledges drain fast, no rain coming."
+      "reason": "0.82 in. two days ago; rocky surface has drained."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "Rain estimates up to 3.3 in. in 72h; closes when wet, and seasonally closed for hunting."
+      "reason": "3.33 in. over 72h and it closes when wet; stay off."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "0.59 in. two days ago; rocky and partly open, dried out by now."
+      "reason": "0.59 in. two days ago; rocky and partly shaded, drained by now."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "Up to 2.4 in. in 72h and soil is wet; TPWD may keep trails closed."
+      "reason": "2.38 in. over 72h and it closes when wet; stay off."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "1.0 in. two days ago; soil still wet and creek crossings still have flow."
+      "reason": "Onion Creek running high (4.62 ft, 2.16 cfs) after 1.0 in. of rain."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "0.95 in. two days ago on sandy dirt; county keeps trails closed until dry."
+      "reason": "0.95 in. two days ago on dirt; closes when wet, stay off."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.67 in. two days ago; open, well-draining terrain has dried."
+      "reason": "0.67 in. two days ago; two dry days since, should be rideable."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "0.55 in. two days ago and soil moisture is low; only the bottom of The Wall is sticky."
+      "reason": "0.55 in. two days ago; soil moisture is low despite heavy shade."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "Light rain two days ago and soil moisture is low; bike park drains well."
+      "reason": "0.67 in. two days ago; dry since and soil moisture is moderate."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.36 in. two days ago; creek crossing likely running and soil is wet."
+      "reason": "1.36 in. two days ago; soil is wet and cool temps slow drying."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "About 0.5 in. two days ago; shaded dirt has had 40 hours to dry."
+      "reason": "0.53 in. two days ago; shaded dirt but light rain has mostly drained."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.47 in. two days ago and soil moisture is low; no rain expected."
+      "reason": "0.47 in. two days ago and low soil moisture; should be rideable."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.21 in. in 2 days and creek not flowing; floods only in wet periods."
+      "reason": "Only 0.21 in. in 2 days and Slaughter Creek not flowing; slow drainage ok."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "1.08 in. two days ago; rocky singletrack drains quickly."
+      "reason": "1.08 in. two days ago but rocky and dry since; minimal 72h rain nearby."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.01 in. two days ago; soil still wet on dirt ranch trails."
+      "reason": "1.01 in. two days ago; cool temps and wet soil, not dried yet."
     }
   ]
 }
