@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:08:04Z",
+  "updated": "2026-11-05T21:51:38Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.296,
-      "rainChance24h": 2,
+      "soilMoisture": 0.291,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "1.07 in. 2-3 days ago; partly shaded, slow-draining, still slick."
     },
@@ -17,8 +17,8 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.28,
+      "temperature": "Hot",
+      "soilMoisture": 0.276,
       "rainChance24h": 1,
       "crossingStage": 1.69,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.309,
+      "soilMoisture": 0.306,
       "rainChance24h": 1,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -44,7 +44,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.292,
+      "soilMoisture": 0.287,
       "rainChance24h": 1,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -57,8 +57,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.296,
-      "rainChance24h": 2,
+      "soilMoisture": 0.291,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "1.07 in. 2-3 days ago; shaded sections hold moisture, soil wet."
     },
@@ -68,8 +68,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.309,
-      "rainChance24h": 2,
+      "soilMoisture": 0.306,
+      "rainChance24h": 1,
       "crossingStage": 1.48,
       "crossingFlow": 0.47,
       "source": "claude",
@@ -80,9 +80,9 @@
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Warm",
-      "soilMoisture": 0.309,
-      "rainChance24h": 2,
+      "temperature": "Hot",
+      "soilMoisture": 0.306,
+      "rainChance24h": 1,
       "crossingStage": 1.48,
       "crossingFlow": 0.47,
       "source": "claude",
@@ -93,8 +93,8 @@
       "station": "Lakeway 2 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Warm",
-      "soilMoisture": 0.297,
+      "temperature": "Hot",
+      "soilMoisture": 0.293,
       "rainChance24h": 2,
       "source": "claude",
       "reason": "1.06 in. 2-3 days ago with mild temps; not dried out yet."
@@ -104,8 +104,8 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Warm",
-      "soilMoisture": 0.294,
+      "temperature": "Hot",
+      "soilMoisture": 0.291,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "1.08 in. 2-3 days ago; about 80% shaded, slow to dry."
@@ -116,8 +116,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.294,
-      "rainChance24h": 2,
+      "soilMoisture": 0.291,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "0.96 in. 2-3 days ago, but rocky and open; has drained."
     },
@@ -127,7 +127,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.159,
+      "soilMoisture": 0.156,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "Only 0.55 in. and soil moisture is low despite shade."
@@ -138,8 +138,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.303,
-      "rainChance24h": 2,
+      "soilMoisture": 0.299,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "0.82 in. 2-3 days ago; limestone ledges have drained."
     },
@@ -149,7 +149,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.32,
+      "soilMoisture": 0.317,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "Over 2 in. in 72h by model; closes when wet and closed for hunting."
@@ -160,7 +160,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.283,
+      "soilMoisture": 0.278,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "0.59 in. 2-3 days ago; rocky and partly shaded, drained."
@@ -171,7 +171,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.293,
+      "soilMoisture": 0.289,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "Up to 2.4 in. nearby; closes when wet, stream crossings running."
@@ -181,9 +181,9 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Warm",
-      "soilMoisture": 0.28,
-      "rainChance24h": 1,
+      "temperature": "Hot",
+      "soilMoisture": 0.276,
+      "rainChance24h": 0,
       "crossingStage": 4.59,
       "crossingFlow": 1.82,
       "source": "claude",
@@ -195,8 +195,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.298,
-      "rainChance24h": 2,
+      "soilMoisture": 0.294,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "0.95 in. on sandy dirt; Travis County closes it when wet."
     },
@@ -206,7 +206,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.3,
+      "soilMoisture": 0.297,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.67 in. 2-3 days ago and dry since; should be rideable."
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.154,
+      "soilMoisture": 0.151,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "0.55 in.; soil moisture low (0.18) despite heavy shade."
@@ -228,7 +228,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.243,
+      "soilMoisture": 0.241,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "0.67 in. 2-3 days ago; dry since, soil moisture moderate."
@@ -239,8 +239,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.309,
-      "rainChance24h": 2,
+      "soilMoisture": 0.306,
+      "rainChance24h": 1,
       "source": "claude",
       "reason": "1.36 in. 2-3 days ago; soil wet, creek crossing likely muddy."
     },
@@ -249,8 +249,8 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.274,
+      "temperature": "Hot",
+      "soilMoisture": 0.269,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "0.53 in. 2-3 days ago; light rain on shaded dirt has mostly drained."
@@ -261,8 +261,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Hot",
-      "soilMoisture": 0.148,
-      "rainChance24h": 1,
+      "soilMoisture": 0.144,
+      "rainChance24h": 0,
       "source": "claude",
       "reason": "0.47 in. and soil moisture low (0.17); should be rideable."
     },
@@ -272,7 +272,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.28,
+      "soilMoisture": 0.275,
       "rainChance24h": 1,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -284,8 +284,8 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm",
-      "soilMoisture": 0.295,
+      "temperature": "Hot",
+      "soilMoisture": 0.291,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "1.08 in. 2-3 days ago but rocky; local 72h rain minimal, drained."
@@ -296,7 +296,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Warm",
-      "soilMoisture": 0.302,
+      "soilMoisture": 0.298,
       "rainChance24h": 1,
       "source": "claude",
       "reason": "1.01 in. 2-3 days ago; wet soil and cool temps, not dried yet."
@@ -305,13 +305,13 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Cedar Creek near Bastrop",
@@ -371,7 +371,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Lakeway 6 W",
@@ -395,7 +395,7 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Pflugerville 3 SSE",
@@ -407,7 +407,7 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Warm"
+      "temperature": "Hot"
     },
     {
       "station": "Tow 10 ESE",
