@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-05T20:07:49Z",
+  "updated": "2026-11-06T11:09:43Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.07 in. 2-3 days ago; partly shaded, slow-draining, still slick."
+      "reason": "1.07 in. Wednesday; partly shaded, slow-draining, still slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Only 0.38 in. and rocky; creek low (1.68 ft, no flow)."
+      "reason": "Only 0.38 in.; rocky limestone and creek low with no flow."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "1.75 in. 2-3 days ago; heavy shade on dirt, soil still saturated."
+      "reason": "1.75 in. Wednesday; heavy shade on dirt, soil still saturated."
     },
     {
       "trail": "South Austin Trail Network",
@@ -24,112 +24,112 @@
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.07 in. 2-3 days ago; shaded sections hold moisture, soil wet."
+      "reason": "1.07 in. Wednesday; shaded sections hold moisture, soil wet."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.36 in. 2-3 days ago; creek still flowing, soil wet."
+      "reason": "1.36 in. Wednesday; Bull Creek still flowing, creek-level leg muddy."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "1.36 in. 2-3 days ago; creek flowing, muddy crossings likely."
+      "reason": "0.8-1.4 in. Wednesday; creek flowing, muddy crossings likely."
     },
     {
       "trail": "Mt Lakeway",
-      "prediction": "Wet",
-      "reason": "1.06 in. 2-3 days ago with mild temps; not dried out yet."
+      "prediction": "Dry",
+      "reason": "1.06 in. three days ago, none since; hillside drained, little local rain."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.08 in. 2-3 days ago; about 80% shaded, slow to dry."
+      "reason": "1.08 in. Wednesday; about 80% shaded, sandy sections slow to dry."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "0.96 in. 2-3 days ago, but rocky and open; has drained."
+      "reason": "0.96 in. three days ago, but rocky and open; has drained."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.55 in. and soil moisture is low despite shade."
+      "reason": "Only 0.28 in.; soil moisture low despite heavy shade."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "0.82 in. 2-3 days ago; limestone ledges have drained."
+      "reason": "0.82 in. three days ago; limestone ledges have drained."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "Over 2 in. in 72h by model; closes when wet and closed for hunting."
+      "reason": "Seasonally closed Nov-Dec, and over 3 in. modeled rain; closes when wet."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "0.59 in. 2-3 days ago; rocky and partly shaded, drained."
+      "reason": "0.59 in. three days ago; rocky and partly shaded, drained."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "Up to 2.4 in. nearby; closes when wet, stream crossings running."
+      "reason": "Over 2 in. modeled nearby; TPWD closes when wet, crossings running."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "1.0 in. 2-3 days ago; Onion Creek up at 4.6 ft, crossings flowing."
+      "reason": "1.0 in. Wednesday; Onion Creek up at 4.6 ft, falls crossings flowing."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "0.95 in. on sandy dirt; Travis County closes it when wet."
+      "reason": "0.95 in. on sandy dirt; Travis County keeps it closed until thoroughly dry."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.67 in. 2-3 days ago and dry since; should be rideable."
+      "reason": "0.67 in. three days ago and dry since; should be rideable."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "0.55 in.; soil moisture low (0.18) despite heavy shade."
+      "reason": "0.55 in.; soil moisture low despite heavy shade."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.67 in. 2-3 days ago; dry since, soil moisture moderate."
+      "reason": "0.67 in. three days ago; dry since, soil moisture moderate."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.36 in. 2-3 days ago; soil wet, creek crossing likely muddy."
+      "reason": "1.36 in. Wednesday; soil wet and creek crossing likely muddy."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.53 in. 2-3 days ago; light rain on shaded dirt has mostly drained."
+      "reason": "0.53 in. three days ago; light rain on shaded dirt has mostly drained."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.47 in. and soil moisture low (0.17); should be rideable."
+      "reason": "0.47 in. and soil moisture low; should be rideable."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.21 in. and Slaughter Creek not flowing; slow drainage ok."
+      "reason": "Only 0.21 in. and Slaughter Creek not flowing; slow drainage OK."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "1.08 in. 2-3 days ago but rocky; local 72h rain minimal, drained."
+      "reason": "1.08 in. three days ago but rocky; little local rain, drained."
     },
     {
       "trail": "Shaffer Bend",
-      "prediction": "Wet",
-      "reason": "1.01 in. 2-3 days ago; wet soil and cool temps, not dried yet."
+      "prediction": "Dry",
+      "reason": "1.01 in. three days ago, none since; wide ranch trail mostly drained."
     }
   ]
 }
