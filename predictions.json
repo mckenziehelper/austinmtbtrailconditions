@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:09:14Z",
+  "updated": "2026-11-06T21:12:35Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.27,
-      "rainChance24h": 7,
+      "soilMoisture": 0.266,
+      "rainChance24h": 20,
       "source": "claude",
       "reason": "1.36 in. this week; slow-draining and slick, soil still moist."
     },
@@ -17,10 +17,10 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.254,
-      "rainChance24h": 9,
-      "crossingStage": 1.69,
+      "temperature": "Warm",
+      "soilMoisture": 0.251,
+      "rainChance24h": 21,
+      "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "No rain in 3 days; rocky limestone, creek crossing low at 1.68 ft."
@@ -31,8 +31,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.288,
-      "rainChance24h": 8,
+      "soilMoisture": 0.286,
+      "rainChance24h": 19,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
@@ -44,8 +44,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.267,
-      "rainChance24h": 10,
+      "soilMoisture": 0.264,
+      "rainChance24h": 21,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
@@ -57,8 +57,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.27,
-      "rainChance24h": 7,
+      "soilMoisture": 0.266,
+      "rainChance24h": 19,
       "source": "claude",
       "reason": "1.36 in. this week; shaded sections stay moist, soil 0.30."
     },
@@ -68,8 +68,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.288,
-      "rainChance24h": 8,
+      "soilMoisture": 0.286,
+      "rainChance24h": 21,
       "crossingStage": 1.47,
       "crossingFlow": 0.44,
       "source": "claude",
@@ -81,8 +81,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.288,
-      "rainChance24h": 9,
+      "soilMoisture": 0.286,
+      "rainChance24h": 20,
       "crossingStage": 1.47,
       "crossingFlow": 0.44,
       "source": "claude",
@@ -93,9 +93,9 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.275,
-      "rainChance24h": 9,
+      "temperature": "Warm",
+      "soilMoisture": 0.272,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "No rain in 3 days; 1.5 in. earlier in week has had time to dry."
     },
@@ -105,8 +105,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.275,
-      "rainChance24h": 8,
+      "soilMoisture": 0.272,
+      "rainChance24h": 21,
       "source": "claude",
       "reason": "1.4 in. this week; heavy shade keeps the dirt damp in cool weather."
     },
@@ -116,8 +116,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.275,
-      "rainChance24h": 8,
+      "soilMoisture": 0.272,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "Rocky and no rain in 3 days; earlier rain has drained."
     },
@@ -126,9 +126,9 @@
       "station": "Waldeck 1 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.141,
-      "rainChance24h": 8,
+      "temperature": "Warm",
+      "soilMoisture": 0.139,
+      "rainChance24h": 9,
       "source": "claude",
       "reason": "Soil dry at 0.16 and only light rain; shade not a concern."
     },
@@ -137,9 +137,9 @@
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.28,
-      "rainChance24h": 9,
+      "temperature": "Warm",
+      "soilMoisture": 0.278,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "Rocky, exposed and no rain in 3 days."
     },
@@ -149,8 +149,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.302,
-      "rainChance24h": 13,
+      "soilMoisture": 0.299,
+      "rainChance24h": 20,
       "source": "claude",
       "reason": "1.35 in. this week, wettest soil at 0.32; closes when wet."
     },
@@ -160,8 +160,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.259,
-      "rainChance24h": 6,
+      "soilMoisture": 0.255,
+      "rainChance24h": 16,
       "source": "claude",
       "reason": "Rocky, only 0.75 in. this week and none in 3 days."
     },
@@ -171,8 +171,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.273,
-      "rainChance24h": 10,
+      "soilMoisture": 0.27,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "Rocky; 1.06 in. this week, none in 3 days, soil drying."
     },
@@ -181,11 +181,11 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.254,
-      "rainChance24h": 9,
-      "crossingStage": 4.5,
-      "crossingFlow": 0.69,
+      "temperature": "Warm",
+      "soilMoisture": 0.251,
+      "rainChance24h": 21,
+      "crossingStage": 4.49,
+      "crossingFlow": 0.62,
       "source": "claude",
       "reason": "No rain in 3 days; Onion Creek flow low at 0.69 cfs. Rule says Wet."
     },
@@ -195,8 +195,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.276,
-      "rainChance24h": 10,
+      "soilMoisture": 0.273,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "1.24 in. this week on dirt; closes when wet, cool temps."
     },
@@ -205,9 +205,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.285,
-      "rainChance24h": 6,
+      "temperature": "Warm",
+      "soilMoisture": 0.282,
+      "rainChance24h": 21,
       "source": "claude",
       "reason": "0.85 in. this week and none in 3 days; has dried."
     },
@@ -217,8 +217,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.137,
-      "rainChance24h": 8,
+      "soilMoisture": 0.135,
+      "rainChance24h": 12,
       "source": "claude",
       "reason": "Soil dry at 0.15 and 1 in. this week; shade ok."
     },
@@ -227,9 +227,9 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild",
-      "soilMoisture": 0.234,
-      "rainChance24h": 6,
+      "temperature": "Warm",
+      "soilMoisture": 0.232,
+      "rainChance24h": 21,
       "source": "claude",
       "reason": "0.85 in. this week, none in 3 days; soil 0.24."
     },
@@ -239,8 +239,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Mild",
-      "soilMoisture": 0.288,
-      "rainChance24h": 8,
+      "soilMoisture": 0.286,
+      "rainChance24h": 21,
       "source": "claude",
       "reason": "1.7 in. this week, soil 0.30; cool weather slows drying."
     },
@@ -250,8 +250,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.242,
-      "rainChance24h": 10,
+      "soilMoisture": 0.238,
+      "rainChance24h": 21,
       "source": "claude",
       "reason": "1.15 in. this week but none in 3 days; shaded dirt likely tacky."
     },
@@ -261,8 +261,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Warm",
-      "soilMoisture": 0.123,
-      "rainChance24h": 8,
+      "soilMoisture": 0.121,
+      "rainChance24h": 18,
       "source": "claude",
       "reason": "Soil dry at 0.14 and no rain in 3 days."
     },
@@ -272,8 +272,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.252,
-      "rainChance24h": 10,
+      "soilMoisture": 0.248,
+      "rainChance24h": 21,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
@@ -285,8 +285,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.274,
-      "rainChance24h": 8,
+      "soilMoisture": 0.27,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "Rocky; no rain in 3 days despite 1.4 in. this week."
     },
@@ -296,8 +296,8 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Mild",
-      "soilMoisture": 0.283,
-      "rainChance24h": 8,
+      "soilMoisture": 0.28,
+      "rainChance24h": 22,
       "source": "claude",
       "reason": "No rain in 3 days; 1.36 in. earlier this week has dried."
     },
@@ -305,7 +305,7 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Cedar Creek 3 WSW",
@@ -365,13 +365,13 @@
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Lakeway 6 W",
@@ -395,7 +395,7 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     },
     {
       "station": "Pflugerville 3 SSE",
@@ -413,7 +413,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Mild"
+      "temperature": "Warm"
     }
   ]
 }
