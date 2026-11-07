@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-06T20:09:03Z",
+  "updated": "2026-11-07T11:08:21Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.36 in. this week; slow-draining and slick, soil still moist."
+      "reason": "1.1 in. this week, none in 3 days; slow-draining, partial shade, soil moist."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "No rain in 3 days; rocky limestone, creek crossing low at 1.68 ft."
+      "reason": "0.4 in. this week, none in 3 days; rocky limestone, crossing low at 1.68 ft."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "2.0 in. this week; heavy shade, dirt, slow-drying Point Six Loop."
+      "reason": "1.8 in. this week; heavy shade, dirt, soil 0.30; Point Six Loop stays muddy."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "No rain in 3+ days, 0.67 in. this week; crossing low."
+      "reason": "0.2 in. this week, none in 3 days; crossing low (0 cfs), mixed rocky surface."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.36 in. this week; shaded sections stay moist, soil 0.30."
+      "reason": "1.1 in. this week; shaded sections stay moist and more rain likely (60%)."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.7 in. this week with cool temps; soil still moist, no drying boost."
+      "reason": "1.4 in. this week, cool temps; soil still moist and one leg runs at creek level."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "No rain in 3 days, 1.16 in. this week; creek crossing flow low."
+      "reason": "0.8 in. this week, none in 3 days; creek crossings low at 0.4 cfs."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "No rain in 3 days; 1.5 in. earlier in week has had time to dry."
+      "reason": "1.1 in. earlier this week but none in 3 days; cool, breezy drying has caught up."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.4 in. this week; heavy shade keeps the dirt damp in cool weather."
+      "reason": "1.1 in. this week; heavy shade and mixed sand/dirt, rain chance 69% today."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "Rocky and no rain in 3 days; earlier rain has drained."
+      "reason": "1.0 in. earlier this week, none in 3 days; rocky and drains quickly."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Soil dry at 0.16 and only light rain; shade not a concern."
+      "reason": "0.3 in. this week; soil dry at 0.15 despite heavy shade, little rain ahead."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Rocky, exposed and no rain in 3 days."
+      "reason": "0.8 in. earlier this week, none in 3 days; rocky limestone ledges drain fast."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "1.35 in. this week, wettest soil at 0.32; closes when wet."
+      "reason": "Soil wettest in region at 0.31 and trail closes when wet; seasonally closed Nov-Dec."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "Rocky, only 0.75 in. this week and none in 3 days."
+      "reason": "0.6 in. this week, none in 3 days; rocky and partly open, but rain chance 85%."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Dry",
-      "reason": "Rocky; 1.06 in. this week, none in 3 days, soil drying."
+      "reason": "0.7 in. earlier this week, none in 3 days; rocky limestone, check TPWD closures."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "No rain in 3 days; Onion Creek flow low at 0.69 cfs. Rule says Wet."
+      "reason": "1.0 in. earlier this week, none in 3 days; Onion Creek flow low at 0.49 cfs."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.24 in. this week on dirt; closes when wet, cool temps."
+      "reason": "1.0 in. this week; sandy dirt and the county closes it until thoroughly dry."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.85 in. this week and none in 3 days; has dried."
+      "reason": "0.7 in. this week, none in 3 days; soil 0.28, but heavy rain likely (92%)."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "Soil dry at 0.15 and 1 in. this week; shade ok."
+      "reason": "0.6 in. this week; soil dry at 0.14 despite heavy shade, no rain ahead."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.85 in. this week, none in 3 days; soil 0.24."
+      "reason": "0.7 in. this week, none in 3 days; soil 0.24, bike park drains well."
     },
     {
       "trail": "Thumper",
-      "prediction": "Wet",
-      "reason": "1.7 in. this week, soil 0.30; cool weather slows drying."
+      "prediction": "Dry",
+      "reason": "1.4 in. earlier this week, none in 3 days; rocky and drains; soil 0.30 a bit damp."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "1.15 in. this week but none in 3 days; shaded dirt likely tacky."
+      "reason": "0.5 in. this week; heavy shade but soil only 0.25, little rain ahead."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "Soil dry at 0.14 and no rain in 3 days."
+      "reason": "0.5 in. this week; soil dry at 0.13, little rain ahead."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.67 in. this week, none in 3 days; slow drainage has recovered."
+      "reason": "0.2 in. this week, none in 3 days; Slaughter Creek low at 0 cfs, soil 0.26."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "Rocky; no rain in 3 days despite 1.4 in. this week."
+      "reason": "1.1 in. earlier this week, none in 3 days; rocky and drains quickly."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Dry",
-      "reason": "No rain in 3 days; 1.36 in. earlier this week has dried."
+      "reason": "1.0 in. earlier this week, none in 3 days; wide ranch trails dry readily."
     }
   ]
 }
