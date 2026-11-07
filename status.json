@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:25:19Z",
+  "updated": "2026-11-07T10:37:07Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -64,7 +64,7 @@
     {
       "trail": "Flat Rock Ranch",
       "status": "closed",
-      "statusNote": "Closed Nov-Dec for hunting season",
+      "statusNote": "Seasonal hunting closure Nov-Dec",
       "source": "https://flatrockranchtx.com/"
     },
     {
@@ -75,17 +75,17 @@
     {
       "trail": "Pedernales Falls",
       "status": "open",
-      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls/alert"
+      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls"
     },
     {
       "trail": "McKinney Falls",
       "status": "open",
-      "source": "https://tpwd.texas.gov/state-parks/mckinney-falls/alert"
+      "source": "https://tpwd.texas.gov/state-parks/mckinney-falls"
     },
     {
       "trail": "Reimers Ranch",
-      "status": "closed",
-      "statusNote": "MTB trails closed after recent rain until thoroughly dry",
+      "status": "caution",
+      "statusNote": "Salmagundi trail race Nov 7 on most trails; riding disrupted",
       "source": "https://parks.traviscountytx.gov/parks/reimers-ranch"
     },
     {
@@ -96,7 +96,7 @@
     {
       "trail": "Rocky Hill Ranch",
       "status": "open",
-      "source": "https://www.rockyhillranch.com/events"
+      "source": "https://www.rockyhillranch.com/"
     },
     {
       "trail": "Spider Mountain",
