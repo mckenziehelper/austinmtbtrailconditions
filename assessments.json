@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:08:21Z",
+  "updated": "2026-11-07T20:08:19Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -89,7 +89,7 @@
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.7 in. this week, none in 3 days; soil 0.28, but heavy rain likely (92%)."
+      "reason": "0.7 in. this week, none in 3 days; soil 0.28 and drying, but heavy rain looks likely soon."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -99,12 +99,12 @@
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.7 in. this week, none in 3 days; soil 0.24, bike park drains well."
+      "reason": "0.7 in. this week, none in 3 days; soil 0.24, bike park drains well; heavy rain likely soon."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "1.4 in. earlier this week, none in 3 days; rocky and drains; soil 0.30 a bit damp."
+      "reason": "1.4 in. this week, none in 3 days; soil 0.31 a bit damp but drying with no rain in 3 days."
     },
     {
       "trail": "Forrest Creek Ranch",
