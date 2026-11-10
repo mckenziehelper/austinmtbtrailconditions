@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:37:07Z",
+  "updated": "2026-11-10T03:27:45Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -90,8 +90,9 @@
     },
     {
       "trail": "Reveille Peak Ranch",
-      "status": "open",
-      "source": "https://www.trailforks.com/region/reveille-peak-ranch/status/"
+      "status": "closed",
+      "source": "https://www.rprtexas.com/",
+      "statusNote": "Events only; day use ended Oct 2026"
     },
     {
       "trail": "Rocky Hill Ranch",

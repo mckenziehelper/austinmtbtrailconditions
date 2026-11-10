@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:29:23Z",
+  "updated": "2026-11-10T03:27:56Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,11 +7,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.415,
-      "rainChance24h": 12,
+      "soilMoisture": 0.413,
+      "rainChance24h": 8,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -19,14 +19,14 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.433,
+      "soilMoisture": 0.453,
       "rainChance24h": 9,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "0.87 in. over 2 days, more rain today; rocky but soil saturated, creek at 1.68 ft.",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Walnut Creek",
@@ -34,13 +34,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.424,
-      "rainChance24h": 10,
+      "soilMoisture": 0.422,
+      "rainChance24h": 9,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "South Austin Trail Network",
@@ -48,13 +48,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.455,
+      "soilMoisture": 0.48,
       "rainChance24h": 10,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Suburban Ninja",
@@ -62,11 +62,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.415,
-      "rainChance24h": 13,
+      "soilMoisture": 0.413,
+      "rainChance24h": 10,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "St Edwards",
@@ -74,13 +74,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.424,
-      "rainChance24h": 12,
+      "soilMoisture": 0.422,
+      "rainChance24h": 9,
       "crossingStage": 1.54,
       "crossingFlow": 0.69,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Bull Creek",
@@ -88,13 +88,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.424,
-      "rainChance24h": 12,
+      "soilMoisture": 0.422,
+      "rainChance24h": 10,
       "crossingStage": 1.54,
       "crossingFlow": 0.69,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Mt Lakeway",
@@ -102,11 +102,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.443,
-      "rainChance24h": 20,
+      "soilMoisture": 0.47,
+      "rainChance24h": 12,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Muleshoe Bend",
@@ -114,11 +114,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.429,
-      "rainChance24h": 26,
+      "soilMoisture": 0.447,
+      "rainChance24h": 9,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Pace Bend",
@@ -126,11 +126,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.429,
-      "rainChance24h": 23,
+      "soilMoisture": 0.447,
+      "rainChance24h": 10,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -138,11 +138,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.273,
-      "rainChance24h": 10,
+      "soilMoisture": 0.27,
+      "rainChance24h": 11,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Emma Long",
@@ -150,11 +150,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.422,
-      "rainChance24h": 11,
+      "soilMoisture": 0.428,
+      "rainChance24h": 10,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -162,12 +162,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.47,
-      "rainChance24h": 13,
+      "soilMoisture": 0.481,
+      "rainChance24h": 14,
       "source": "rule",
       "status": "closed",
       "statusNote": "Seasonal hunting closure Nov-Dec",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Lake Georgetown",
@@ -175,11 +175,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.421,
-      "rainChance24h": 18,
+      "soilMoisture": 0.42,
+      "rainChance24h": 7,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Pedernales Falls",
@@ -187,11 +187,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.482,
-      "rainChance24h": 22,
+      "soilMoisture": 0.46,
+      "rainChance24h": 12,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "McKinney Falls",
@@ -199,13 +199,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.433,
+      "soilMoisture": 0.453,
       "rainChance24h": 9,
       "crossingStage": 4.74,
       "crossingFlow": 3.15,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Reimers Ranch",
@@ -213,12 +213,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.454,
-      "rainChance24h": 19,
+      "soilMoisture": 0.474,
+      "rainChance24h": 13,
       "source": "rule",
       "status": "caution",
       "statusNote": "Salmagundi trail race Nov 7 on most trails; riding disrupted",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -226,11 +226,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.441,
-      "rainChance24h": 20,
+      "soilMoisture": 0.437,
+      "rainChance24h": 13,
       "source": "rule",
-      "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "status": "closed",
+      "statusNote": "Events only; day use ended Oct 2026",
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -238,11 +239,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.293,
-      "rainChance24h": 10,
+      "soilMoisture": 0.289,
+      "rainChance24h": 8,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Spider Mountain",
@@ -250,11 +251,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.322,
-      "rainChance24h": 22,
+      "soilMoisture": 0.32,
+      "rainChance24h": 15,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Thumper",
@@ -262,11 +263,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.424,
-      "rainChance24h": 12,
+      "soilMoisture": 0.422,
+      "rainChance24h": 9,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -274,12 +275,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.437,
+      "soilMoisture": 0.444,
       "rainChance24h": 10,
       "source": "rule",
       "status": "caution",
       "statusNote": "Private; open ride days only \u2014 check FB group",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "McKinney Roughs",
@@ -287,11 +288,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.308,
-      "rainChance24h": 9,
+      "soilMoisture": 0.304,
+      "rainChance24h": 8,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Bauerle Ranch",
@@ -299,13 +300,13 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.442,
-      "rainChance24h": 9,
+      "soilMoisture": 0.482,
+      "rainChance24h": 10,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Grelle",
@@ -313,11 +314,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.431,
-      "rainChance24h": 28,
+      "soilMoisture": 0.462,
+      "rainChance24h": 11,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "trail": "Shaffer Bend",
@@ -325,11 +326,11 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.436,
-      "rainChance24h": 28,
+      "soilMoisture": 0.434,
+      "rainChance24h": 8,
       "source": "rule",
       "status": "open",
-      "statusChecked": "2026-11-07T10:37:07Z"
+      "statusChecked": "2026-11-10T03:27:45Z"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
