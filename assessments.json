@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-09T20:08:55Z",
+  "updated": "2026-11-10T11:09:38Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.1 in. over 2 days, 0.1 today; partial shade, slow-draining and slick."
+      "reason": "1.2 in. over 2 days; partial shade, slow-draining, cool and little drying."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Wet",
-      "reason": "0.87 in. over 2 days, more rain today; rocky but soil saturated, creek at 1.68 ft."
+      "reason": "0.87 in. over 2 days; rocky but soil saturated, creek at 1.68 ft."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "0.8 in. over 2 days; heavy-shade dirt with saturated soil, cool and slow to dry."
+      "reason": "0.8 in. over 2 days, 2.6 in. this week; shaded dirt dries slowly."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Wet",
-      "reason": "0.6 in. over 2 days; saturated soil, cool, and Slaughter Creek crossing up at 3.3 ft."
+      "reason": "Recent rain (soil 0.48) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.1 in. over 2 days; shaded sections hold moisture, 36% rain chance."
+      "reason": "Recent rain (soil 0.41) and cool weather mean little drying; still wet."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.3 in. over 2 days with little drying; creek-level leg and saturated soil."
+      "reason": "Recent rain (soil 0.42) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "1.0 in. over 2 days; creek running 0.72 cfs and crossings muddy."
+      "reason": "Recent rain (soil 0.42) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.5 in. over 2 days, 0.12 today; cool weather and little evaporation."
+      "reason": "Recent rain (soil 0.47) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.3 in. over 2 days; heavily shaded with very wet soil (0.47)."
+      "reason": "1.4 in. over 2 days, 0.3 yesterday; heavy shade keeps it muddy."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Wet",
-      "reason": "1.2 in. over 2 days, 0.2 today; rocky but sandy sections and soil still wet."
+      "reason": "Recent rain (soil 0.45) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.19 in. over 2 days and soil is fairly dry (0.32); watch slick pine needles."
+      "reason": "Only 0.19 in. in 2 days and dry soil; heavy shade but should be rideable."
     },
     {
       "trail": "Emma Long",
       "prediction": "Wet",
-      "reason": "1.4 in. over 2 days; limestone ledges slick and soil saturated."
+      "reason": "Recent rain (soil 0.43) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "2.6 in. over 2 days, 0.74 today; rocky but soaked, and closes when wet."
+      "reason": "2.6 in. over 2 days, 3.5 in. in 72h; closes when wet, soil saturated."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Wet",
-      "reason": "1.0 in. over 2 days, 0.34 today; sharp limestone is slick when damp."
+      "reason": "Recent rain (soil 0.42) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "1.8 in. over 2 days, 0.33 today; stream crossings up and closes when wet."
+      "reason": "1.7 in. over 2 days; closes when wet and soil is still saturated."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "0.45 in. over 2 days; Onion Creek up at 4.7 ft so Lower Falls crossing is unsafe."
+      "reason": "Creek running 3.15 cfs at 4.74 ft after recent rain; soil still saturated."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.55 in. over 2 days; sandy trail soaked and closes after significant rain."
+      "reason": "1.65 in. over 2 days; closes when wet and soil is saturated."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.4 in. over 2 days, 0.44 today; soil very wet (0.50)."
+      "reason": "Recent rain (soil 0.44) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.14 in. of rain and soil is dry (0.33); sandy hard-pack, minor mud at The Wall."
+      "reason": "Just 0.14 in. in 2 days and dry soil; shaded dirt should be firm."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Wet",
-      "reason": "1.4 in. over 2 days, 0.44 today; cool and little evaporation to dry it out."
+      "reason": "1.3 in. over 2 days and 0.4 yesterday; soil still damp in cool weather."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.3 in. over 2 days; rooty, rocky tread slick and creek crossing muddy."
+      "reason": "Recent rain (soil 0.42) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Wet",
-      "reason": "0.45 in. over 2 days; heavily shaded dirt with wet soil and 62% rain chance."
+      "reason": "Recent rain (soil 0.44) and cool weather mean little drying; still wet."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "Just 0.21 in. over 2 days and soil is dry (0.33); should be rideable."
+      "reason": "Only 0.23 in. in 2 days and dry soil; light rain, trails should be rideable."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "0.6 in. over 2 days; slow-draining, floods easily, Slaughter Creek up at 3.3 ft."
+      "reason": "Recent rain (soil 0.48) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Grelle",
       "prediction": "Wet",
-      "reason": "1.3 in. over 2 days; rocky but soil saturated (0.47) with more rain likely."
+      "reason": "Recent rain (soil 0.46) and cool weather mean little drying; still wet."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.2 in. over 2 days, 0.26 today; soil very wet and horse-churned trail turns to mud."
+      "reason": "Recent rain (soil 0.43) and cool weather mean little drying; still wet."
     }
   ]
 }
