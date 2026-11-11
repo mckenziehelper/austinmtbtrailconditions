@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:17:08Z",
+  "updated": "2026-11-11T11:38:18Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -215,8 +215,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.399,
       "rainChance24h": 1,
-      "crossingStage": 4.64,
-      "crossingFlow": 2.3,
+      "crossingStage": 4.63,
+      "crossingFlow": 2.23,
       "source": "claude",
       "reason": "0.54 in. three days plus 0.09 yesterday; soil saturated, creek up at 4.67 ft.",
       "status": "open",
