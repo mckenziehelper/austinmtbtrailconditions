@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-11T20:08:48Z",
+  "updated": "2026-11-12T11:10:47Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.2 in. last week; partial shade, slow-draining, soil still near saturated."
+      "reason": "1.2 in. this week; slow-draining and slick, still wet."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Only 0.16 in. in 3 days; rocky limestone drains fast, crossing flow is 0 cfs."
+      "reason": "Rocky limestone; only 0.9 in. this week, none in 2 days, creek low."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "0.85 in. this week; heavy shade dirt and soil still saturated (0.39)."
+      "reason": "Heavily shaded dirt, 0.85 in. this week; slow to dry, soil still moist."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "Just 0.26 in. in 3 days and mixed surface; crossing at 0 cfs."
+      "reason": "Only 0.7 in. this week and none lately; creek crossing is low."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.2 in. in the past week and soil still wet (0.37); not enough drying yet."
+      "reason": "1.2 in. this week; shaded sections stay moist, no rain since."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.4 in. this week, soil still saturated, and creek still flowing at 0.6 cfs."
+      "reason": "1.4 in. this week and 3.3 in. in 2 weeks; creek-level leg likely damp."
     },
     {
       "trail": "Bull Creek",
-      "prediction": "Wet",
-      "reason": "1.4 in. this week, soil still saturated, and creek still flowing at 0.6 cfs."
+      "prediction": "Dry",
+      "reason": "1.0 in. this week but nothing in 5 days; Dry despite wet rule-based call."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.7 in. this week with soil still saturated; little drying so far."
+      "reason": "1.7 in. this week, soil still saturated; not yet dried out."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.5 in. this week, 0.44 in. in 3 days; heavy shade keeps it muddy."
+      "reason": "Heavy shade with 1.5 in. this week and 0.3 in. three days ago."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "Rocky and exposed; only 0.38 in. in 3 days, so it should be rideable."
+      "reason": "Rocky and exposed; 4 dry days since 1.3 in. last week."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.17 in. all week and soil is relatively dry (0.27)."
+      "reason": "Little rain (0.4 in. this week) and low soil moisture."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Rocky; just 0.18 in. in 3 days after rain last week."
+      "reason": "Rocky; 4 dry days after last week's rain, drains fast."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "1.7 in. in 72 hours; this trail closes when wet and soil is saturated."
+      "reason": "Heavy rain recently (1.4 in. in 72h by model); soil wettest in region."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "Rocky; 0.49 in. over 3 days with no rain since, partial shade only."
+      "reason": "Rocky with partial shade; no rain in 2 days since 1.2 in. last week."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "2.0 in. this week and 0.54 in. in 3 days; closes when wet."
+      "reason": "2.0 in. this week and closes when wet; give it more time."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "Light rain lately (0.22 in. in 3 days), 0.56 in. for the week."
+      "reason": "Only 0.6 in. this week; no meaningful rain in 2 days."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.7 in. this week and 0.37 in. in 3 days; dirt trail that closes when wet."
+      "reason": "Dirt trail that closes when wet; 1.7 in. this week."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.4 in. this week with soil still saturated (0.39)."
+      "reason": "1.4 in. this week with 0.4 in. three days ago; still damp."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.17 in. this week and soil is dry (0.27)."
+      "reason": "Just 0.2 in. this week and low soil moisture."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.45 in. in 3 days but soil is fairly dry (0.29), so drying is quick."
+      "reason": "Soil moisture low; 4 dry days since last week's rain."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.4 in. this week with soil still saturated (0.39)."
+      "reason": "1.4 in. this week and 3.3 in. in 2 weeks; soil still wet."
     },
     {
       "trail": "Forrest Creek Ranch",
-      "prediction": "Wet",
-      "reason": "Heavy-shade dirt with soil still saturated (0.38) despite light rain."
+      "prediction": "Dry",
+      "reason": "Only 0.5 in. this week, none lately; shade slows it but mostly dry."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "Only 0.34 in. this week and soil is dry (0.26)."
+      "reason": "Little rain (0.3 in. this week), warm and low soil moisture."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "Slow-draining trail; soil still saturated (0.38) after 0.67 in. this week."
+      "reason": "Known slow drainage; 0.7 in. this week keeps it muddy."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "Rocky; 0.44 in. in 3 days with no recent rain, should drain quickly."
+      "reason": "Rocky; 4 dry days since last week's 1.5 in., drains quickly."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.4 in. this week, 0.45 in. in 3 days; soil still saturated (0.39)."
+      "reason": "1.4 in. this week and 3.2 in. in 2 weeks; soil still wettest."
     }
   ]
 }
