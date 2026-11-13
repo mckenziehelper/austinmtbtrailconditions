@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-12T20:08:55Z",
+  "updated": "2026-11-13T11:12:00Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.2 in. this week; slow-draining and slick, soil still saturated."
+      "reason": "1.2 in. this week; slow-draining, partly shaded, still slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Rocky limestone; 0.9 in. this week, little since, creek low."
+      "reason": "Rocky limestone; 0.9 in. this week, none in 3 days, creek flow 0."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "0.85 in. this week; heavy shade and cool temps keep dirt muddy."
+      "reason": "0.85 in. this week; heavy shade, cool temps, damp soil keep dirt muddy."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "Only 0.7 in. this week, none lately; Slaughter Creek crossing low."
+      "reason": "0.67 in. this week, almost none since; creek at zero flow."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.2 in. this week; shaded sections stay moist, little drying."
+      "reason": "1.2 in. this week; shaded sections stay moist in cool weather."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.4 in. this week, soil saturated; Bull Creek crossing still flowing."
+      "reason": "1.4 in. this week; cold, creek-level leg still flowing (0.55 cfs)."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "1.0 in. this week but only 0.06 in. in 3 days; creek crossing low."
+      "reason": "1.0 in. this week but no rain in 3+ days; Bull Ck flow modest."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.7 in. this week and soil saturated; cool temps slow drying."
+      "reason": "1.7 in. this week; soil still damp, slow to dry in cool air."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.5 in. this week; heavy shade and saturated soil, still muddy."
+      "reason": "1.5 in. this week; heavy shade and wet soil (0.35)."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "Rocky and open; 1.3 in. this week but no rain in 2 days."
+      "reason": "Rocky, exposed; 1.3 in. earlier this week, none in 3 days."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.4 in. this week and soil moisture is low."
+      "reason": "Only 0.4 in. this week and soil is dry (0.21)."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Rocky; 1.5 in. this week but dry for 2 days, drains quickly."
+      "reason": "Rocky; 1.5 in. earlier this week, nothing in 3 days."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "2.8 in. this week, 1 in. in 3 days; closes when wet, soil saturated."
+      "reason": "2.8 in. this week; soil saturated (0.39), closes when wet."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "Rocky; 1.2 in. this week, nothing in 2 days, drying."
+      "reason": "Rocky; 1.2 in. earlier this week, nothing in 3+ days."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "2.0 in. this week; closes when wet and soil still saturated."
+      "reason": "2.0 in. this week; soil wet and park closes when wet."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "Only 0.56 in. this week; Onion Creek crossing low."
+      "reason": "0.56 in. this week, little since; creek flow low."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.7 in. this week; dirt trails close when wet, soil saturated."
+      "reason": "1.7 in. this week; dirt trails, wet soil, closes when wet."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.4 in. this week with saturated soil and cool temps; not dry yet."
+      "reason": "1.4 in. this week; soil still wet (0.37), slow drying."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.17 in. this week and soil moisture is low."
+      "reason": "Only 0.17 in. this week; soil dry (0.21) despite shade."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "Soil moisture is low despite 1.4 in. this week; drained and drying."
+      "reason": "1.4 in. earlier this week, but soil has dried (0.27)."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.4 in. this week with saturated soil; still damp."
+      "reason": "1.4 in. this week; cold temps and damp soil slow drying."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.5 in. this week, nothing in 2 days despite shade."
+      "reason": "0.5 in. this week, mostly a week ago; soil moderate."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "Only 0.34 in. this week and soil moisture is low."
+      "reason": "0.34 in. this week; soil dry (0.20)."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "Slow-draining; 0.7 in. this week and soil saturated, rule-based Wet."
+      "reason": "Slow-draining; 0.67 in. this week and soil still damp."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "Rocky; 1.5 in. this week but dry for 2 days, drains quickly."
+      "reason": "Rocky; 1.5 in. earlier this week, none in 3 days."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.4 in. this week with saturated soil; no meaningful drying."
+      "reason": "1.4 in. this week; wet soil (0.37), little drying in cool air."
     }
   ]
 }
