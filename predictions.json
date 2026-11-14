@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T20:08:39Z",
+  "updated": "2026-11-14T20:17:06Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -215,8 +215,8 @@
       "temperature": "Mild",
       "soilMoisture": 0.317,
       "rainChance24h": 89,
-      "crossingStage": 4.52,
-      "crossingFlow": 0.86,
+      "crossingStage": 4.51,
+      "crossingFlow": 0.77,
       "source": "claude",
       "reason": "Only 0.56 in. this week, none in 3 days.",
       "status": "open",
@@ -240,7 +240,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.342,
       "rainChance24h": 94,
       "source": "claude",
@@ -267,7 +267,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.263,
       "rainChance24h": 94,
       "source": "claude",
@@ -348,7 +348,7 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Mild",
       "soilMoisture": 0.341,
       "rainChance24h": 91,
       "source": "claude",
@@ -444,7 +444,7 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
@@ -468,7 +468,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Mild"
     }
   ]
 }
