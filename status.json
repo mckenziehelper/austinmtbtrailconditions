@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:27:45Z",
+  "updated": "2026-11-14T10:37:19Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -84,15 +84,14 @@
     },
     {
       "trail": "Reimers Ranch",
-      "status": "caution",
-      "statusNote": "Salmagundi trail race Nov 7 on most trails; riding disrupted",
+      "status": "open",
       "source": "https://parks.traviscountytx.gov/parks/reimers-ranch"
     },
     {
       "trail": "Reveille Peak Ranch",
       "status": "closed",
-      "source": "https://www.rprtexas.com/",
-      "statusNote": "Events only; day use ended Oct 2026"
+      "statusNote": "Events only; day use ended Oct 2026",
+      "source": "https://www.rprtexas.com/"
     },
     {
       "trail": "Rocky Hill Ranch",
