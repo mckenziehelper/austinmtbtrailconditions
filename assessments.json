@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-15T11:08:22Z",
+  "updated": "2026-11-15T20:08:21Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "0.18 in. just fell, 1.3 in. this week; slow-draining, partly shaded; 1.5 in. coming."
+      "reason": "1.20 in. in the last day, 0.38 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Wet",
-      "reason": "Rocky, but 0.54 in. fell overnight with 2.2 in. forecast; creek flow 0; likely slick."
+      "reason": "1.57 in. in the last day, 0.39 in. in the past hour; soil saturated, 88% rain chance."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "0.27 in. overnight, 1.1 in. this week; heavy-shade dirt on damp soil stays muddy."
+      "reason": "1.36 in. in the last day, 0.28 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Wet",
-      "reason": "0.57 in. overnight, 1.2 in. this week, and 2.3 in. forecast; mixed surface slick."
+      "reason": "1.41 in. in the last day, 0.35 in. in the past hour; soil saturated, 84% rain chance."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "0.18 in. just fell on 1.3 in. week; shaded sections stay moist; 1.2 in. coming."
+      "reason": "1.20 in. in the last day, 0.38 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "0.28 in. overnight; Bull Ck crossing flowing at 1.19 cfs; 1.1 in. forecast."
+      "reason": "1.42 in. in the last day, 0.40 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "0.37 in. overnight, 1.3 in. this week; creek crossing running 1.19 cfs; more rain due."
+      "reason": "1.40 in. in the last day, 0.33 in. in the past hour; soil saturated, 90% rain chance."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "0.36 in. overnight on 1.5 in. week, soil damp, more rain due; will be muddy."
+      "reason": "1.15 in. in the last day, 0.30 in. in the past hour; soil saturated, 89% rain chance."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "Heavy shade, 1.3 in. this week, soil damp, 0.8 in. forecast; slow to dry."
+      "reason": "0.95 in. in the last day, 0.27 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Pace Bend",
-      "prediction": "Dry",
-      "reason": "Rocky and exposed; only 0.02 in. in 3 days, so it has dried; 0.6 in. forecast."
+      "prediction": "Wet",
+      "reason": "0.99 in. in the last day, 0.27 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Bluff Creek Ranch",
-      "prediction": "Wet",
-      "reason": "0.21 in. overnight; heavy shade holds moisture; 1.3 in. forecast."
+      "prediction": "Dry",
+      "reason": "Only 0.26 in. in a day and none in 12h; soil dry, but rain likely tonight (82%)."
     },
     {
       "trail": "Emma Long",
       "prediction": "Wet",
-      "reason": "Rocky, but 0.38 in. fell overnight on a 1.5 in. week; rain more likely; slick."
+      "reason": "1.37 in. in the last day, 0.36 in. in the past hour; soil saturated, 90% rain chance."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "Wettest soil (0.37) after 2.1 in. this week; closes when wet; 0.6 in. forecast."
+      "reason": "Rule says Wet and trail is closed; 1.47 in. this week, rain at 62%."
     },
     {
       "trail": "Lake Georgetown",
-      "prediction": "Dry",
-      "reason": "Rocky; no rain in 3 days, but 97% chance of 0.7 in. next 24h; dry for now."
+      "prediction": "Wet",
+      "reason": "1.13 in. in the last day, 0.15 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "2.2 in. forecast, soil damp after 1.4 in. this week; park closes when wet."
+      "reason": "0.67 in. in the last day, 0.18 in. in the past hour; soil saturated, 86% rain chance."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "0.53 in. overnight; Onion Creek running high at 4.6 ft, 2 cfs; 1.6 in. coming."
+      "reason": "1.45 in. in the last day, 0.31 in. in the past hour; soil saturated, 84% rain chance."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "Dirt, closes when wet; 1.4 in. this week, damp soil, 1.2 in. forecast."
+      "reason": "0.80 in. in the last day, 0.31 in. in the past hour; soil saturated, 88% rain chance."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.3 in. this week, soil 0.34 still damp, 1.5 in. forecast at 94%; not dry."
+      "reason": "Rule says Wet and trail is closed; 1.78 in. this week, rain at 71%."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Wet",
-      "reason": "0.45 in. overnight on heavy-shade dirt; 3.1 in. forecast; muddy."
+      "reason": "0.47 in. in 12h on shaded dirt, 0.95 in. more coming (82%)."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Wet",
-      "reason": "No recent rain but 1.3 in. this week; 1.8 in. forecast at 94%; call Wet."
+      "reason": "1.20 in. in the last day, 0.05 in. in the past hour; soil saturated, 66% rain chance."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "0.28 in. overnight on 1.5 in. week; more rain due; muddy."
+      "reason": "1.42 in. in the last day, 0.40 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Wet",
-      "reason": "0.37 in. overnight on heavy-shade dirt; 2.2 in. forecast; muddy."
+      "reason": "0.82 in. in the last day, 0.33 in. in the past hour; soil saturated, 79% rain chance."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Wet",
-      "reason": "0.41 in. overnight, soil damp, 2.2 in. forecast; muddy."
+      "reason": "0.89 in. in the last day, 0.44 in. in the past hour; soil saturated, 85% rain chance."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "0.57 in. overnight, slow-draining; Slaughter Ck 3.3 ft; 1.4 in. forecast."
+      "reason": "1.41 in. in the last day, 0.35 in. in the past hour; soil saturated, 82% rain chance."
     },
     {
       "trail": "Grelle",
-      "prediction": "Dry",
-      "reason": "Rocky and open; only 0.02 in. in 3 days, week's rain has drained; rain likely tonight."
+      "prediction": "Wet",
+      "reason": "0.95 in. in the last day, 0.27 in. in the past hour; soil saturated, 91% rain chance."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.2 in. this week, soil 0.34 damp, 1.25 in. forecast at 91%; still wet."
+      "reason": "0.91 in. in the last day, 0.19 in. in the past hour; soil saturated, 91% rain chance."
     }
   ]
 }
