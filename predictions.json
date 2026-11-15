@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:08:40Z",
+  "updated": "2026-11-15T20:42:35Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -9,7 +9,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.492,
       "rainChance24h": 5,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.20 in. in the last day, 0.38 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -21,8 +22,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.497,
       "rainChance24h": 6,
-      "crossingStage": 2.55,
-      "crossingFlow": 1.23,
+      "crossingStage": 2.52,
+      "crossingFlow": 0.83,
       "source": "rule",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
@@ -35,9 +36,10 @@
       "temperature": "Cool",
       "soilMoisture": 0.501,
       "rainChance24h": 6,
-      "crossingStage": 0.98,
+      "crossingStage": 0.87,
       "crossingFlow": null,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.36 in. in the last day, 0.28 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -49,8 +51,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.485,
       "rainChance24h": 6,
-      "crossingStage": 4.13,
-      "crossingFlow": 0.08,
+      "crossingStage": 4.1,
+      "crossingFlow": 0.06,
       "source": "rule",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
@@ -63,7 +65,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.492,
       "rainChance24h": 4,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.20 in. in the last day, 0.38 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -75,9 +78,10 @@
       "temperature": "Cool",
       "soilMoisture": 0.501,
       "rainChance24h": 5,
-      "crossingStage": 2.17,
-      "crossingFlow": 66.8,
-      "source": "rule",
+      "crossingStage": 2.19,
+      "crossingFlow": 69.4,
+      "source": "claude",
+      "reason": "1.42 in. in the last day, 0.40 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -89,8 +93,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.501,
       "rainChance24h": 5,
-      "crossingStage": 2.17,
-      "crossingFlow": 66.8,
+      "crossingStage": 2.19,
+      "crossingFlow": 69.4,
       "source": "rule",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
@@ -103,7 +107,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.48,
       "rainChance24h": 4,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.15 in. in the last day, 0.30 in. in the past hour; soil saturated, 89% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -128,7 +133,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.465,
       "rainChance24h": 4,
-      "source": "rule",
+      "source": "claude",
+      "reason": "0.99 in. in the last day, 0.27 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -152,7 +158,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.497,
       "rainChance24h": 5,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.37 in. in the last day, 0.36 in. in the past hour; soil saturated, 90% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -178,7 +185,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.481,
       "rainChance24h": 5,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.13 in. in the last day, 0.15 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -190,7 +198,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.444,
       "rainChance24h": 3,
-      "source": "rule",
+      "source": "claude",
+      "reason": "0.67 in. in the last day, 0.18 in. in the past hour; soil saturated, 86% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -202,8 +211,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.497,
       "rainChance24h": 8,
-      "crossingStage": 7.91,
-      "crossingFlow": 575.81,
+      "crossingStage": 7.86,
+      "crossingFlow": 553.37,
       "source": "rule",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
@@ -216,7 +225,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.468,
       "rainChance24h": 4,
-      "source": "rule",
+      "source": "claude",
+      "reason": "0.80 in. in the last day, 0.31 in. in the past hour; soil saturated, 88% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -267,7 +277,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.501,
       "rainChance24h": 5,
-      "source": "rule",
+      "source": "claude",
+      "reason": "1.42 in. in the last day, 0.40 in. in the past hour; soil saturated, 91% rain chance.",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
     },
@@ -279,7 +290,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.506,
       "rainChance24h": 17,
-      "source": "rule",
+      "source": "claude",
+      "reason": "0.82 in. in the last day, 0.33 in. in the past hour; soil saturated, 79% rain chance.",
       "status": "caution",
       "statusNote": "Private; open ride days only \u2014 check FB group",
       "statusChecked": "2026-11-14T10:37:19Z"
@@ -304,8 +316,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.496,
       "rainChance24h": 7,
-      "crossingStage": 4.13,
-      "crossingFlow": 0.08,
+      "crossingStage": 4.1,
+      "crossingFlow": 0.06,
       "source": "rule",
       "status": "open",
       "statusChecked": "2026-11-14T10:37:19Z"
