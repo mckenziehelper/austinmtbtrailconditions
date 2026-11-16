@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-16T11:09:38Z",
+  "updated": "2026-11-16T20:08:51Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.4 in. in the last day; shaded, slow-draining, soil saturated and cold."
+      "reason": "1.6 in. two days ago, soil saturated (0.41); shaded/slow to dry."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Wet",
-      "reason": "1.9 in. in the last day; rock sheds water but ledges and dirt still slick."
+      "reason": "2.4 in. two days ago, soil saturated (0.41); rock still slick."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "1.5 in. in the last day; heavy shade, dirt trail and saturated soil."
+      "reason": "1.8 in. two days ago, soil saturated (0.42); shaded/slow to dry."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Wet",
-      "reason": "1.6 in. in the last day, 2.1 in. in 2 days; soil saturated, roots and clay slick."
+      "reason": "2.1 in. two days ago, soil saturated (0.41); cool weather, slow drying."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.4 in. in the last day; shaded sections stay moist, soil saturated."
+      "reason": "1.6 in. two days ago, soil saturated (0.41); cool weather, slow drying."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.6 in. in the last day; saturated soil, cool, low-lying creek leg wet."
+      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "1.6 in. in the last day; creek crossings and muddy spots, soil saturated."
+      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.2 in. in the last day; soil saturated, Monkey Wrench slick when wet."
+      "reason": "1.6 in. two days ago, soil saturated (0.40); cool weather, slow drying."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.3 in. in the last day; heavy shade and sand/dirt, slow to dry."
+      "reason": "1.4 in. two days ago, soil saturated (0.40); shaded/slow to dry."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Wet",
-      "reason": "1.3 in. in the last day; rocky but sandy sections and soil saturated."
+      "reason": "1.4 in. two days ago, soil saturated (0.40); rock still slick."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Wet",
-      "reason": "0.4 in. in the last day, 0.8 in. in 3; heavy forest shade, slick needles."
+      "reason": "1.3 in. two days ago, soil saturated (0.26); shaded/slow to dry."
     },
     {
       "trail": "Emma Long",
       "prediction": "Wet",
-      "reason": "1.5 in. in the last day; rock is slick, soil saturated, little drying."
+      "reason": "1.9 in. two days ago, soil saturated (0.41); rock still slick."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "0.6 in. recently; closes when wet and is closed Nov-Dec for hunting."
+      "reason": "0.6 in. two days ago, soil saturated (0.40); closes when wet."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Wet",
-      "reason": "1.3 in. in the last day; sharp limestone is slick when damp."
+      "reason": "1.3 in. two days ago, soil saturated (0.41); rock still slick."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "1.1 in. in the last day; wet limestone and stream crossings, may close."
+      "reason": "1.1 in. two days ago, soil saturated (0.40); closes when wet."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "1.8 in. in the last day; Onion Creek at 6.9 ft and 227 cfs, crossing is high."
+      "reason": "2.3 in. two days ago; soil saturated, Onion Creek crossing at 6 ft."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.1 in. in the last day; sandy trails closed by the county until thoroughly dry."
+      "reason": "1.1 in. two days ago, soil saturated (0.40); closes when wet."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.2 in. in the last day; saturated soil and cold, minimal evaporation."
+      "reason": "1.3 in. two days ago, soil saturated (0.41); cool weather, slow drying."
     },
     {
       "trail": "Rocky Hill Ranch",
-      "prediction": "Wet",
-      "reason": "0.4 in. in the last day, 0.8 in. in 3; heavy shade and red mud stay wet."
+      "prediction": "Dry",
+      "reason": "0.8 in. two days ago, sandy soil has drained (soil 0.27)."
     },
     {
       "trail": "Spider Mountain",
-      "prediction": "Wet",
-      "reason": "1.2 in. in the last day; soil still damp, cold with little drying."
+      "prediction": "Dry",
+      "reason": "1.3 in. two days ago, built bike-park trail, soil drained to 0.31."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.6 in. in the last day; roots and rock slick, soil saturated."
+      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Wet",
-      "reason": "1.1 in. in the last day, 1.5 in. in 2; heavy shade dirt trail, slow to dry."
+      "reason": "1.5 in. two days ago, soil saturated (0.41); shaded/slow to dry."
     },
     {
       "trail": "McKinney Roughs",
-      "prediction": "Wet",
-      "reason": "1.2 in. in the last day, 1.6 in. in 2; shared with horses, soil still damp."
+      "prediction": "Dry",
+      "reason": "1.6 in. two days ago, sandy soil has drained (soil 0.29)."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "1.6 in. in the last day; slow-draining creek-bottom loop, floods when wet."
+      "reason": "2.1 in. two days ago, soil saturated (0.41); shaded/slow to dry."
     },
     {
       "trail": "Grelle",
       "prediction": "Wet",
-      "reason": "1.3 in. in the last day; rock gardens slick, soil saturated."
+      "reason": "1.4 in. two days ago, soil saturated (0.40); rock still slick."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.1 in. in the last day; ranch trails soft, cool with little drying."
+      "reason": "1.2 in. two days ago, soil saturated (0.41); cool weather, slow drying."
     }
   ]
 }
