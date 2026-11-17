@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:43:12Z",
+  "updated": "2026-11-17T11:11:17Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,12 +7,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.392,
+      "soilMoisture": 0.387,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.6 in. two days ago, soil saturated (0.41); shaded/slow to dry.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.6 in. in 2 days, soil wet (0.39), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -20,44 +18,38 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.4,
+      "soilMoisture": 0.394,
       "rainChance24h": 0,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "2.4 in. two days ago, soil saturated (0.41); rock still slick.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "2.2 in. in 2 days, soil wet (0.40), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Walnut Creek",
       "station": "Pflugerville 3 SSE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.408,
+      "temperature": "Cold",
+      "soilMoisture": 0.404,
       "rainChance24h": 0,
       "crossingStage": 0.02,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "1.8 in. two days ago, soil saturated (0.42); shaded/slow to dry.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.7 in. in 2 days, soil wet (0.41), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "South Austin Trail Network",
       "station": "Manchaca 4 W",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.396,
+      "temperature": "Cold",
+      "soilMoisture": 0.393,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "2.1 in. two days ago, soil saturated (0.41); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; stays muddy."
     },
     {
       "trail": "Suburban Ninja",
@@ -65,12 +57,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.392,
+      "soilMoisture": 0.387,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.6 in. two days ago, soil saturated (0.41); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.6 in. in 2 days, soil wet (0.39), cold; stays muddy."
     },
     {
       "trail": "St Edwards",
@@ -78,14 +68,12 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.408,
+      "soilMoisture": 0.404,
       "rainChance24h": 0,
-      "crossingStage": 1.67,
-      "crossingFlow": 4.57,
+      "crossingStage": 1.65,
+      "crossingFlow": 3.17,
       "source": "claude",
-      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
     },
     {
       "trail": "Bull Creek",
@@ -93,27 +81,23 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.408,
+      "soilMoisture": 0.404,
       "rainChance24h": 0,
-      "crossingStage": 1.67,
-      "crossingFlow": 4.57,
+      "crossingStage": 1.65,
+      "crossingFlow": 3.17,
       "source": "claude",
-      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
     },
     {
       "trail": "Mt Lakeway",
       "station": "Lakeway 2 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.39,
+      "temperature": "Cold",
+      "soilMoisture": 0.386,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.6 in. two days ago, soil saturated (0.40); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.5 in. in 2 days, soil wet (0.39), cold; stays muddy."
     },
     {
       "trail": "Muleshoe Bend",
@@ -121,12 +105,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.389,
+      "soilMoisture": 0.384,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.4 in. two days ago, soil saturated (0.40); shaded/slow to dry.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "Pace Bend",
@@ -134,25 +116,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.389,
+      "soilMoisture": 0.384,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.4 in. two days ago, soil saturated (0.40); rock still slick.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Bluff Creek Ranch",
       "station": "Waldeck 1 SW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.249,
+      "temperature": "Cold",
+      "soilMoisture": 0.237,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.3 in. two days ago, soil saturated (0.26); shaded/slow to dry.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.1 in. in 2 days, soil wet (0.25), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "Emma Long",
@@ -160,12 +138,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.398,
+      "soilMoisture": 0.393,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.9 in. two days ago, soil saturated (0.41); rock still slick.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -175,10 +151,8 @@
       "temperature": "Cold",
       "soilMoisture": 0.393,
       "rainChance24h": 0,
-      "source": "rule",
-      "status": "closed",
-      "statusNote": "Seasonal hunting closure Nov-Dec",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "source": "claude",
+      "reason": "0.6 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Lake Georgetown",
@@ -186,12 +160,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.393,
+      "soilMoisture": 0.388,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.3 in. two days ago, soil saturated (0.41); rock still slick.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.3 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Pedernales Falls",
@@ -199,27 +171,22 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.388,
+      "soilMoisture": 0.385,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "1.1 in. two days ago, soil saturated (0.40); closes when wet.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "source": "rule"
     },
     {
       "trail": "McKinney Falls",
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.4,
+      "temperature": "Cold",
+      "soilMoisture": 0.394,
       "rainChance24h": 0,
-      "crossingStage": 5.73,
-      "crossingFlow": 35.89,
+      "crossingStage": 5.52,
+      "crossingFlow": 22.18,
       "source": "claude",
-      "reason": "2.3 in. two days ago; soil saturated, Onion Creek crossing at 6 ft.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "2.2 in. in 2 days, soil wet (0.40), cold; stays muddy."
     },
     {
       "trail": "Reimers Ranch",
@@ -227,12 +194,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.388,
+      "soilMoisture": 0.385,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.1 in. two days ago, soil saturated (0.40); closes when wet.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.1 in. in 2 days, soil wet (0.39), cold; stays muddy."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -240,25 +205,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.394,
+      "soilMoisture": 0.393,
       "rainChance24h": 0,
-      "source": "rule",
-      "status": "closed",
-      "statusNote": "Events only; day use ended Oct 2026",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "source": "claude",
+      "reason": "1.3 in. in 2 days, soil wet (0.39), cold; stays muddy."
     },
     {
       "trail": "Rocky Hill Ranch",
       "station": "Colorado River at Smithville",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.261,
+      "temperature": "Cold",
+      "soilMoisture": 0.251,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.8 in. two days ago, sandy soil has drained (soil 0.27).",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "Only 0.7 in. in 2 days, soil drier (0.26); dirt but dry enough."
     },
     {
       "trail": "Spider Mountain",
@@ -266,11 +227,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.305,
+      "soilMoisture": 0.307,
       "rainChance24h": 0,
-      "source": "rule",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "source": "claude",
+      "reason": "1.3 in. in 2 days, soil wet (0.30), cold; stays muddy."
     },
     {
       "trail": "Thumper",
@@ -278,26 +238,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.408,
+      "soilMoisture": 0.404,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.9 in. two days ago, soil saturated (0.42); cool weather, slow drying.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
     },
     {
       "trail": "Forrest Creek Ranch",
       "station": "Cedar Creek 3 WSW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.397,
+      "temperature": "Cold",
+      "soilMoisture": 0.388,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.5 in. two days ago, soil saturated (0.41); shaded/slow to dry.",
-      "status": "caution",
-      "statusNote": "Private; open ride days only \u2014 check FB group",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.2 in. in 2 days, soil wet (0.40), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "McKinney Roughs",
@@ -305,27 +260,23 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.283,
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.6 in. two days ago, sandy soil has drained (soil 0.29).",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.4 in. two days ago but soil dry (0.28), no rain since; Dry."
     },
     {
       "trail": "Bauerle Ranch",
       "station": "Manchaca 4 W",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.395,
+      "temperature": "Cold",
+      "soilMoisture": 0.389,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "2.1 in. two days ago, soil saturated (0.41); shaded/slow to dry.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; shaded/slow to drain; stays muddy."
     },
     {
       "trail": "Grelle",
@@ -333,24 +284,21 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.388,
+      "soilMoisture": 0.383,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "1.4 in. two days ago, soil saturated (0.40); rock still slick.",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
     },
     {
       "trail": "Shaffer Bend",
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
-      "soilMoisture": 0.397,
+      "temperature": "Cold",
+      "soilMoisture": 0.395,
       "rainChance24h": 0,
-      "source": "rule",
-      "status": "open",
-      "statusChecked": "2026-11-14T10:37:19Z"
+      "source": "claude",
+      "reason": "1.2 in. in 2 days, soil wet (0.40), cold; stays muddy."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -362,7 +310,7 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Creek near Bastrop",
@@ -378,9 +326,9 @@
     },
     {
       "station": "Colorado River at Smithville",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Cool"
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cold"
     },
     {
       "station": "Cow Creek near Lago Vista",
@@ -422,7 +370,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 6 W",
@@ -434,25 +382,25 @@
       "station": "Manchaca 4 W",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Marble Falls 6 ENE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Pflugerville 3 SSE",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Spicewood 2 NNE",
