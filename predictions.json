@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T11:11:17Z",
+  "updated": "2026-11-17T12:41:30Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -70,8 +70,8 @@
       "temperature": "Cold",
       "soilMoisture": 0.404,
       "rainChance24h": 0,
-      "crossingStage": 1.65,
-      "crossingFlow": 3.17,
+      "crossingStage": 1.64,
+      "crossingFlow": 2.62,
       "source": "claude",
       "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
     },
@@ -83,8 +83,8 @@
       "temperature": "Cold",
       "soilMoisture": 0.404,
       "rainChance24h": 0,
-      "crossingStage": 1.65,
-      "crossingFlow": 3.17,
+      "crossingStage": 1.64,
+      "crossingFlow": 2.62,
       "source": "claude",
       "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
     },
@@ -160,7 +160,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.388,
+      "soilMoisture": 0.387,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.3 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
@@ -183,8 +183,8 @@
       "temperature": "Cold",
       "soilMoisture": 0.394,
       "rainChance24h": 0,
-      "crossingStage": 5.52,
-      "crossingFlow": 22.18,
+      "crossingStage": 5.49,
+      "crossingFlow": 20.62,
       "source": "claude",
       "reason": "2.2 in. in 2 days, soil wet (0.40), cold; stays muddy."
     },
@@ -194,7 +194,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.385,
+      "soilMoisture": 0.384,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.1 in. in 2 days, soil wet (0.39), cold; stays muddy."
@@ -205,7 +205,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.393,
+      "soilMoisture": 0.392,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.3 in. in 2 days, soil wet (0.39), cold; stays muddy."
@@ -295,7 +295,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.395,
+      "soilMoisture": 0.394,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.2 in. in 2 days, soil wet (0.40), cold; stays muddy."

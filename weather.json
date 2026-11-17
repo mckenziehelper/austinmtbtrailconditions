@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-17T11:11:17Z",
+  "updated": "2026-11-17T12:41:30Z",
   "source": "Open-Meteo",
   "results": [
     {
       "trail": "Brushy Creek",
       "soilMoisture": 0.387,
-      "soilMoisture1to3cm": 0.388,
+      "soilMoisture1to3cm": 0.387,
       "rainLast72h": 0.78,
       "evaporationLast72h": 0.14,
       "rainNext24h": 0.0,
@@ -41,7 +41,7 @@
     {
       "trail": "Suburban Ninja",
       "soilMoisture": 0.387,
-      "soilMoisture1to3cm": 0.388,
+      "soilMoisture1to3cm": 0.387,
       "rainLast72h": 0.83,
       "evaporationLast72h": 0.14,
       "rainNext24h": 0.0,
@@ -97,7 +97,7 @@
       "soilMoisture": 0.237,
       "soilMoisture1to3cm": 0.237,
       "rainLast72h": 1.1,
-      "evaporationLast72h": 0.21,
+      "evaporationLast72h": 0.2,
       "rainNext24h": 0.0,
       "rainChance24h": 0
     },
@@ -121,7 +121,7 @@
     },
     {
       "trail": "Lake Georgetown",
-      "soilMoisture": 0.388,
+      "soilMoisture": 0.387,
       "soilMoisture1to3cm": 0.388,
       "rainLast72h": 0.15,
       "evaporationLast72h": 0.16,
@@ -131,7 +131,7 @@
     {
       "trail": "Pedernales Falls",
       "soilMoisture": 0.385,
-      "soilMoisture1to3cm": 0.386,
+      "soilMoisture1to3cm": 0.385,
       "rainLast72h": 0.21,
       "evaporationLast72h": 0.12,
       "rainNext24h": 0.0,
@@ -148,7 +148,7 @@
     },
     {
       "trail": "Reimers Ranch",
-      "soilMoisture": 0.385,
+      "soilMoisture": 0.384,
       "soilMoisture1to3cm": 0.385,
       "rainLast72h": 0.41,
       "evaporationLast72h": 0.12,
@@ -157,8 +157,8 @@
     },
     {
       "trail": "Reveille Peak Ranch",
-      "soilMoisture": 0.393,
-      "soilMoisture1to3cm": 0.394,
+      "soilMoisture": 0.392,
+      "soilMoisture1to3cm": 0.393,
       "rainLast72h": 1.88,
       "evaporationLast72h": 0.15,
       "rainNext24h": 0.0,
@@ -187,7 +187,7 @@
       "soilMoisture": 0.404,
       "soilMoisture1to3cm": 0.405,
       "rainLast72h": 0.39,
-      "evaporationLast72h": 0.17,
+      "evaporationLast72h": 0.16,
       "rainNext24h": 0.0,
       "rainChance24h": 0
     },
@@ -229,8 +229,8 @@
     },
     {
       "trail": "Shaffer Bend",
-      "soilMoisture": 0.395,
-      "soilMoisture1to3cm": 0.396,
+      "soilMoisture": 0.394,
+      "soilMoisture1to3cm": 0.395,
       "rainLast72h": 0.97,
       "evaporationLast72h": 0.14,
       "rainNext24h": 0.0,
