@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-17T11:11:04Z",
+  "updated": "2026-11-17T20:08:47Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "1.6 in. in 2 days, soil wet (0.39), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.2 in. two days ago, cold, saturated soil; slow-draining and slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Wet",
-      "reason": "2.2 in. in 2 days, soil wet (0.40), cold; rock still slick; stays muddy."
+      "reason": "1.6 in. in 2 days, cold and saturated; limestone slick, creek stage 1.7 ft."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Wet",
-      "reason": "1.7 in. in 2 days, soil wet (0.41), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.1 in. in 2 days, cold; heavy shade and loamy dirt, still muddy."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; stays muddy."
+      "reason": "1.3 in. in 2 days, saturated soil, cold; Slaughter Creek stage 3.3 ft."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "1.6 in. in 2 days, soil wet (0.39), cold; stays muddy."
+      "reason": "1.2 in. in 2 days, soil saturated and cold; shaded sections stay moist."
     },
     {
       "trail": "St Edwards",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
+      "reason": "1.4 in. in 2 days, soil saturated, cold; creek-level leg still damp."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
+      "reason": "1.2 in. in 2 days, saturated soil, cold; creek crossings and mud south of 360."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Wet",
-      "reason": "1.5 in. in 2 days, soil wet (0.39), cold; stays muddy."
+      "reason": "1.1 in. in 2 days, saturated soil and cold weather; slow to dry."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Wet",
-      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.4 in. in 2 days; heavily shaded with cold, saturated soil."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Wet",
-      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
+      "reason": "1.3 in. in 2 days, cold, soil saturated; sandy sections still soft."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Wet",
-      "reason": "1.1 in. in 2 days, soil wet (0.25), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.0 in. in 2 days; heavy shade, cold, pine needles slick."
     },
     {
       "trail": "Emma Long",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; rock still slick; stays muddy."
+      "reason": "1.4 in. in 2 days, soil saturated; cold, so rock ledges stay slick."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "0.6 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
+      "reason": "0.6 in. in 2 days, soil wet; closes when wet and is closed Nov-Dec."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Wet",
-      "reason": "1.3 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
+      "reason": "1.0 in. in 2 days, cold, saturated soil; limestone slick when damp."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Wet",
-      "reason": "1.1 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
+      "reason": "1.1 in. in 2 days, wet soil; TPWD may close trails after rain."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Wet",
-      "reason": "2.2 in. in 2 days, soil wet (0.40), cold; stays muddy."
+      "reason": "1.3 in. in 2 days; Onion Creek running 5.5 ft at 21 cfs, soil saturated."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "1.1 in. in 2 days, soil wet (0.39), cold; stays muddy."
+      "reason": "1.1 in. in 2 days, wet soil; county closes sandy trails until thoroughly dry."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Wet",
-      "reason": "1.3 in. in 2 days, soil wet (0.39), cold; stays muddy."
+      "reason": "1.3 in. in 3 days, soil still saturated (0.39) and cold."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.7 in. in 2 days, soil drier (0.26); dirt but dry enough."
+      "reason": "Only 0.16 in. in 2 days and soil dry (0.25); sandy hard-pack drains well."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Wet",
-      "reason": "1.3 in. in 2 days, soil wet (0.30), cold; stays muddy."
+      "reason": "1.3 in. in 3 days, soil still moist (0.31) and cold; slow to dry."
     },
     {
       "trail": "Thumper",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.41), cold; stays muddy."
+      "reason": "1.4 in. in 2 days, saturated soil, cold; rocky and rooty with creek crossing."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Wet",
-      "reason": "1.2 in. in 2 days, soil wet (0.40), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.0 in. in 2 days, heavy shade and cold; soil saturated, stays muddy."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "1.4 in. two days ago but soil dry (0.28), no rain since; Dry."
+      "reason": "1.2 in. 2 days ago, but sandy soil is drained (0.28) and no rain since."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Wet",
-      "reason": "1.8 in. in 2 days, soil wet (0.40), cold; shaded/slow to drain; stays muddy."
+      "reason": "1.3 in. in 2 days; slow-draining, floods in wet periods, creek at 3.3 ft."
     },
     {
       "trail": "Grelle",
       "prediction": "Wet",
-      "reason": "1.4 in. in 2 days, soil wet (0.39), cold; rock still slick; stays muddy."
+      "reason": "1.4 in. in 2 days, cold; rock slick and soil saturated."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Wet",
-      "reason": "1.2 in. in 2 days, soil wet (0.40), cold; stays muddy."
+      "reason": "1.1 in. in 2 days, saturated soil and cold; ranch trails still soft."
     }
   ]
 }
