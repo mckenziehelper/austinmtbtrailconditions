@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:30:59Z",
+  "updated": "2026-11-18T11:09:47Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -8,17 +8,18 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.2 in. two days ago, cold, saturated soil; slow-draining and slick."
+      "reason": "1.2 in. three days ago, cold, saturated soil; slow-draining and slick."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "station": "Barton Creek at Loop 360, Austin",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
-      "crossingStage": 1.68,
+      "crossingStage": 1.66,
       "crossingFlow": 0.0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "Rain was 3 days ago, rocky limestone, creek flow 0; rule says Wet but rock drains fast."
     },
     {
       "trail": "Walnut Creek",
@@ -29,7 +30,7 @@
       "crossingStage": 0.02,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "1.1 in. in 2 days, cold; heavy shade and loamy dirt, still muddy."
+      "reason": "1.2 in. three days ago, cold; heavy shade and loamy dirt, still muddy."
     },
     {
       "trail": "South Austin Trail Network",
@@ -40,7 +41,7 @@
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "1.3 in. in 2 days, saturated soil, cold; Slaughter Creek stage 3.3 ft."
+      "reason": "1.3 in. three days ago, saturated soil, cold; Slaughter Creek 3.3 ft."
     },
     {
       "trail": "Suburban Ninja",
@@ -49,7 +50,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.2 in. in 2 days, soil saturated and cold; shaded sections stay moist."
+      "reason": "1.2 in. three days ago, soil saturated and cold; shaded sections stay moist."
     },
     {
       "trail": "St Edwards",
@@ -60,7 +61,7 @@
       "crossingStage": 1.6,
       "crossingFlow": 1.19,
       "source": "claude",
-      "reason": "1.4 in. in 2 days, soil saturated, cold; creek-level leg still damp."
+      "reason": "1.4 in. three days ago, soil saturated, cold; creek-level leg still damp."
     },
     {
       "trail": "Bull Creek",
@@ -71,16 +72,16 @@
       "crossingStage": 1.6,
       "crossingFlow": 1.19,
       "source": "claude",
-      "reason": "1.2 in. in 2 days, saturated soil, cold; creek crossings and mud south of 360."
+      "reason": "1.4 in. three days ago, saturated soil, cold; creek flowing, muddy spots."
     },
     {
       "trail": "Mt Lakeway",
       "station": "Lakeway 2 E",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "source": "claude",
-      "reason": "1.1 in. in 2 days, saturated soil and cold weather; slow to dry."
+      "reason": "1.1 in. three days ago, saturated soil and cold; slick when wet."
     },
     {
       "trail": "Muleshoe Bend",
@@ -88,7 +89,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "source": "rule"
+      "source": "claude",
+      "reason": "1.4 in. three days ago; heavy shade and cold keep soil saturated."
     },
     {
       "trail": "Pace Bend",
@@ -97,25 +99,25 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.3 in. in 2 days, cold, soil saturated; sandy sections still soft."
+      "reason": "1.3-1.7 in. three days ago, cold, soil saturated; sandy sections soft."
     },
     {
       "trail": "Bluff Creek Ranch",
       "station": "Waldeck 1 SW",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.0 in. in 2 days; heavy shade, cold, pine needles slick."
+      "reason": "Only 0.35 in. and soil is dry (0.22); rule says Wet but shaded loam has drained."
     },
     {
       "trail": "Emma Long",
       "station": "Lake Austin at Cortana Shores",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.4 in. in 2 days, soil saturated; cold, so rock ledges stay slick."
+      "reason": "Rain was 3 days ago, rocky ledges, no rain since; rule says Wet but rock drains quickly."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -124,7 +126,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "0.6 in. in 2 days, soil wet; closes when wet and is closed Nov-Dec."
+      "reason": "0.65 in. three days ago, soil wet, closes when wet; also closed Nov-Dec."
     },
     {
       "trail": "Lake Georgetown",
@@ -133,7 +135,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.0 in. in 2 days, cold, saturated soil; limestone slick when damp."
+      "reason": "1.25 in. three days ago, cold, saturated soil; limestone slick when damp."
     },
     {
       "trail": "Pedernales Falls",
@@ -142,7 +144,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.1 in. in 2 days, wet soil; TPWD may close trails after rain."
+      "reason": "1.1 in. three days ago, wet soil; TPWD may close trails after rain."
     },
     {
       "trail": "McKinney Falls",
@@ -150,10 +152,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "crossingStage": 5.22,
-      "crossingFlow": 11.11,
+      "crossingStage": 5.15,
+      "crossingFlow": 9.43,
       "source": "claude",
-      "reason": "1.3 in. in 2 days; Onion Creek running 5.5 ft at 21 cfs, soil saturated."
+      "reason": "1.5 in. three days ago; Onion Creek 5.2 ft at 11 cfs, crossing risk."
     },
     {
       "trail": "Reimers Ranch",
@@ -161,7 +163,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "source": "rule"
+      "source": "claude",
+      "reason": "1.1 in. three days ago, saturated soil; Travis County keeps trails closed when damp."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -169,7 +172,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "source": "rule"
+      "source": "claude",
+      "reason": "1.3-1.9 in. three days ago, soil saturated, cold; slow to dry."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -178,15 +182,16 @@
       "isDry": true,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "Only 0.16 in. in 2 days and soil dry (0.25); sandy hard-pack drains well."
+      "reason": "Only 0.35 in. recently and soil is dry (0.24); sandy hard-pack drains well."
     },
     {
       "trail": "Spider Mountain",
       "station": "Tow 10 ESE",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
-      "source": "rule"
+      "source": "claude",
+      "reason": "1.3 in. three days ago but soil is drying (0.30); rule says Wet, rocky terrain drained."
     },
     {
       "trail": "Thumper",
@@ -195,7 +200,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.4 in. in 2 days, saturated soil, cold; rocky and rooty with creek crossing."
+      "reason": "1.4 in. three days ago, saturated soil, cold; rooty with creek crossing."
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -204,7 +209,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.0 in. in 2 days, heavy shade and cold; soil saturated, stays muddy."
+      "reason": "1.1-1.8 in. three days ago; heavy shade and cold keep soil saturated."
     },
     {
       "trail": "McKinney Roughs",
@@ -213,7 +218,7 @@
       "isDry": true,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.2 in. 2 days ago, but sandy soil is drained (0.28) and no rain since."
+      "reason": "1.2 in. three days ago, but sandy soil drained (0.26) and no rain since."
     },
     {
       "trail": "Bauerle Ranch",
@@ -224,15 +229,16 @@
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "1.3 in. in 2 days; slow-draining, floods in wet periods, creek at 3.3 ft."
+      "reason": "1.3-1.6 in. three days ago; slow-draining, floods in wet periods, creek 3.3 ft."
     },
     {
       "trail": "Grelle",
       "station": "Spicewood 2 NNE",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
-      "source": "rule"
+      "source": "claude",
+      "reason": "Rain was 3 days ago, rocky and exposed, no rain since; rule says Wet but rock drains fast."
     },
     {
       "trail": "Shaffer Bend",
@@ -241,7 +247,7 @@
       "isDry": false,
       "temperature": "Cold",
       "source": "claude",
-      "reason": "1.1 in. in 2 days, saturated soil and cold; ranch trails still soft."
+      "reason": "1.2 in. three days ago, saturated soil and cold; ranch trails still soft."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -293,8 +299,8 @@
     },
     {
       "station": "Johnson City 10 E",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold"
     },
     {
@@ -313,7 +319,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 6 W",
