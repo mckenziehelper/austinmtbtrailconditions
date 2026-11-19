@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:09:59Z",
+  "updated": "2026-11-19T12:24:00Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.339,
+      "soilMoisture": 0.34,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.55 in. four days ago; partial shade, slow-draining, still slick."
@@ -17,8 +17,8 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.344,
+      "temperature": "Cool",
+      "soilMoisture": 0.345,
       "rainChance24h": 0,
       "crossingStage": 1.65,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.359,
       "rainChance24h": 0,
       "crossingStage": 0.02,
       "crossingFlow": null,
@@ -57,7 +57,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.339,
+      "soilMoisture": 0.34,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.55 in. four days ago; shaded sections stay moist, cool, low evaporation."
@@ -68,10 +68,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.359,
       "rainChance24h": 0,
-      "crossingStage": 1.58,
-      "crossingFlow": 0.83,
+      "crossingStage": 1.57,
+      "crossingFlow": 0.79,
       "source": "claude",
       "reason": "1.9 in. four days ago; saturated soil, creek-level leg still flowing."
     },
@@ -81,10 +81,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.359,
       "rainChance24h": 0,
-      "crossingStage": 1.58,
-      "crossingFlow": 0.83,
+      "crossingStage": 1.57,
+      "crossingFlow": 0.79,
       "source": "claude",
       "reason": "1.9 in. four days ago; saturated soil, muddy creek crossings still flowing."
     },
@@ -107,8 +107,7 @@
       "temperature": "Cold",
       "soilMoisture": 0.341,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "1.4 in. four days ago; heavy shade, saturated soil, cool."
+      "source": "rule"
     },
     {
       "trail": "Pace Bend",
@@ -127,7 +126,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.19,
+      "soilMoisture": 0.191,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.8 in. last week; soil dry despite shade."
@@ -137,7 +136,7 @@
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
+      "temperature": "Cool",
       "soilMoisture": 0.347,
       "rainChance24h": 0,
       "source": "claude",
@@ -182,10 +181,10 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.345,
       "rainChance24h": 0,
-      "crossingStage": 4.96,
-      "crossingFlow": 5.83,
+      "crossingStage": 4.95,
+      "crossingFlow": 5.68,
       "source": "claude",
       "reason": "2.3 in. four days ago; saturated soil, Onion Creek still 7 cfs."
     },
@@ -239,7 +238,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.359,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.9 in. four days ago; soil still saturated, cool with slow drying."
@@ -250,7 +249,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.333,
+      "soilMoisture": 0.335,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "1.5 in. this week; heavy shade, dirt trail, saturated soil."
@@ -272,7 +271,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cool",
-      "soilMoisture": 0.337,
+      "soilMoisture": 0.338,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
@@ -282,13 +281,12 @@
     {
       "trail": "Grelle",
       "station": "Spicewood 2 NNE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold",
       "soilMoisture": 0.336,
       "rainChance24h": 0,
-      "source": "claude",
-      "reason": "Rocky; 1.4 in. four days ago, none since, drains fast."
+      "source": "rule"
     },
     {
       "trail": "Shaffer Bend",
@@ -305,7 +303,7 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Cool"
     },
     {
       "station": "Cedar Creek 3 WSW",
@@ -365,7 +363,7 @@
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Cool"
     },
     {
       "station": "Lakeway 2 E",
@@ -405,8 +403,8 @@
     },
     {
       "station": "Spicewood 2 NNE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold"
     },
     {
