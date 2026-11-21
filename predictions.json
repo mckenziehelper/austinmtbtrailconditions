@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:08:20Z",
+  "updated": "2026-11-21T11:58:19Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -92,7 +92,7 @@
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.343,
       "rainChance24h": 6,
       "crossingStage": 1.55,
@@ -186,7 +186,7 @@
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.317,
       "rainChance24h": 3,
       "source": "claude",
@@ -216,8 +216,8 @@
       "temperature": "Cool",
       "soilMoisture": 0.324,
       "rainChance24h": 8,
-      "crossingStage": 4.79,
-      "crossingFlow": 3.65,
+      "crossingStage": 4.78,
+      "crossingFlow": 3.54,
       "source": "claude",
       "reason": "2.3 in. this week; creek still running (3.7 cfs), soil wet.",
       "status": "open",
@@ -310,7 +310,7 @@
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
+      "temperature": "Cool",
       "soilMoisture": 0.211,
       "rainChance24h": 8,
       "source": "claude",
@@ -375,7 +375,7 @@
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Cool"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -399,7 +399,7 @@
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Fredericksburg 10 SSE",
