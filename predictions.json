@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:15:38Z",
+  "updated": "2026-11-24T20:09:07Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.316,
+      "soilMoisture": 0.319,
       "rainChance24h": 63,
       "source": "rule"
     },
@@ -17,24 +17,25 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.331,
       "rainChance24h": 50,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.03 in. this week, none in 24h; cold and dry air, trail has dried."
+      "reason": "Only 0.02 in. this week; rocky and the creek crossing is low, so the trail has dried."
     },
     {
       "trail": "Walnut Creek",
       "station": "Pflugerville 3 SSE",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.349,
       "rainChance24h": 61,
       "crossingStage": 0.02,
       "crossingFlow": null,
-      "source": "rule"
+      "source": "claude",
+      "reason": "Just 0.01 in. this week; shaded dirt but a week of drying, so rule-based Wet looks too cautious."
     },
     {
       "trail": "South Austin Trail Network",
@@ -42,12 +43,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.318,
+      "soilMoisture": 0.351,
       "rainChance24h": 40,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
+      "reason": "0.01 in. this week and none in 24h; crossing is calm, trail has dried."
     },
     {
       "trail": "Suburban Ninja",
@@ -55,7 +56,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.316,
+      "soilMoisture": 0.319,
       "rainChance24h": 60,
       "source": "rule"
     },
@@ -65,9 +66,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.349,
       "rainChance24h": 61,
-      "crossingStage": 1.54,
+      "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "rule"
     },
@@ -77,9 +78,9 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.349,
       "rainChance24h": 60,
-      "crossingStage": 1.54,
+      "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "rule"
     },
@@ -89,31 +90,29 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.309,
+      "soilMoisture": 0.321,
       "rainChance24h": 56,
       "source": "rule"
     },
     {
       "trail": "Muleshoe Bend",
       "station": "Spicewood 2 NNE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.316,
+      "soilMoisture": 0.317,
       "rainChance24h": 41,
-      "source": "claude",
-      "reason": "0.04 in. this week; shaded/slow-draining but 10+ days since real rain."
+      "source": "rule"
     },
     {
       "trail": "Pace Bend",
       "station": "Cow Creek near Lago Vista",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.316,
+      "soilMoisture": 0.317,
       "rainChance24h": 48,
-      "source": "claude",
-      "reason": "0.00 in. this week, none in 24h; cold and dry air, trail has dried."
+      "source": "rule"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -121,10 +120,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.17,
+      "soilMoisture": 0.168,
       "rainChance24h": 23,
       "source": "claude",
-      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
+      "reason": "No rain in a week, mild temps and low soil moisture; trail is dry."
     },
     {
       "trail": "Emma Long",
@@ -132,7 +131,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.325,
+      "soilMoisture": 0.327,
       "rainChance24h": 57,
       "source": "rule"
     },
@@ -142,8 +141,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.379,
-      "rainChance24h": 25,
+      "soilMoisture": 0.36,
+      "rainChance24h": 10,
       "source": "rule"
     },
     {
@@ -152,7 +151,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.306,
+      "soilMoisture": 0.313,
       "rainChance24h": 40,
       "source": "rule"
     },
@@ -162,8 +161,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.306,
-      "rainChance24h": 57,
+      "soilMoisture": 0.316,
+      "rainChance24h": 34,
       "source": "rule"
     },
     {
@@ -172,12 +171,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.322,
-      "rainChance24h": 34,
+      "soilMoisture": 0.331,
+      "rainChance24h": 31,
       "crossingStage": 4.67,
       "crossingFlow": 2.54,
       "source": "claude",
-      "reason": "No rain in a week; creek flow low, trail dry."
+      "reason": "No rain in 3 days and mild air; trail has dried."
     },
     {
       "trail": "Reimers Ranch",
@@ -185,8 +184,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.302,
-      "rainChance24h": 57,
+      "soilMoisture": 0.32,
+      "rainChance24h": 47,
       "source": "rule"
     },
     {
@@ -195,8 +194,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.34,
-      "rainChance24h": 31,
+      "soilMoisture": 0.335,
+      "rainChance24h": 21,
       "source": "rule"
     },
     {
@@ -205,10 +204,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.178,
+      "soilMoisture": 0.176,
       "rainChance24h": 19,
       "source": "claude",
-      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
+      "reason": "No rain in a week, low soil moisture and mild temps; trail is dry."
     },
     {
       "trail": "Spider Mountain",
@@ -216,8 +215,8 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.277,
-      "rainChance24h": 33,
+      "soilMoisture": 0.276,
+      "rainChance24h": 20,
       "source": "rule"
     },
     {
@@ -226,7 +225,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.344,
+      "soilMoisture": 0.349,
       "rainChance24h": 61,
       "source": "rule"
     },
@@ -235,21 +234,22 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.299,
+      "temperature": "Cold",
+      "soilMoisture": 0.317,
       "rainChance24h": 18,
       "source": "claude",
-      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
+      "reason": "No rain in a week and mild temps; shaded dirt has had time to dry."
     },
     {
       "trail": "McKinney Roughs",
       "station": "Cedar Creek near Bastrop",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Cool",
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cold",
       "soilMoisture": 0.197,
       "rainChance24h": 25,
-      "source": "rule"
+      "source": "claude",
+      "reason": "0.02 in. in the last week and low soil moisture; trail is dry."
     },
     {
       "trail": "Bauerle Ranch",
@@ -257,23 +257,22 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.308,
-      "rainChance24h": 36,
+      "soilMoisture": 0.331,
+      "rainChance24h": 35,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "0.01 in. this week; shaded/slow-draining but 10+ days since real rain."
+      "reason": "No rain in 2 days and 0.01 in. this week; slow drainage but little water to hold."
     },
     {
       "trail": "Grelle",
       "station": "Spicewood 2 NNE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.301,
-      "rainChance24h": 39,
-      "source": "claude",
-      "reason": "0.04 in. this week, none in 24h; cold and dry air, trail has dried."
+      "soilMoisture": 0.308,
+      "rainChance24h": 38,
+      "source": "rule"
     },
     {
       "trail": "Shaffer Bend",
@@ -281,7 +280,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.334,
+      "soilMoisture": 0.33,
       "rainChance24h": 33,
       "source": "rule"
     },
@@ -295,13 +294,13 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Creek near Bastrop",
       "prediction": "Wet",
       "isDry": false,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -317,8 +316,8 @@
     },
     {
       "station": "Cow Creek near Lago Vista",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold"
     },
     {
@@ -389,8 +388,8 @@
     },
     {
       "station": "Spicewood 2 NNE",
-      "prediction": "Dry",
-      "isDry": true,
+      "prediction": "Wet",
+      "isDry": false,
       "temperature": "Cold"
     },
     {
