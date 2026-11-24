@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-23T20:08:34Z",
+  "updated": "2026-11-24T11:09:29Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Dry",
-      "reason": "Only 0.01 in. this week; slow-draining, but 10+ days to dry since the last rain."
+      "reason": "0.01 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "0.03 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.03 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Dry",
-      "reason": "No rain in a week, 55F and breezy; shaded dirt may hold some damp but is rideable."
+      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "St Edwards",
       "prediction": "Dry",
-      "reason": "0.10 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.10 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "No meaningful rain in a week (0.02 in.); creek stage low, soil has dried."
+      "reason": "0.02 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "0.03 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.03 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Dry",
-      "reason": "0.04 in. this week; shaded but over a week since real rain, soil dried out."
+      "reason": "0.04 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "0.00 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.00 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.00 in. this week; shaded but over a week since real rain, soil dried out."
+      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "0.00 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.00 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, nothing in 24h; no rain to trigger a wet closure."
     },
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, nothing in 24h; no rain to trigger a wet closure."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "0.00 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "No rain in a week; creek flow low, trail dry."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, nothing in 24h; no rain to trigger a wet closure."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "0.00 in. this week; shaded but over a week since real rain, soil dried out."
+      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "0.10 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.10 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "0.00 in. this week; shaded but over a week since real rain, soil dried out."
+      "reason": "0.00 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.01 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.01 in. this week; slow-draining, but 10+ days to dry since the last rain."
+      "reason": "0.01 in. this week; shaded/slow-draining but 10+ days since real rain."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "0.04 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.04 in. this week, none in 24h; cold and dry air, trail has dried."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Dry",
-      "reason": "0.01 in. this week, last real rain 10+ days ago; trail has dried out."
+      "reason": "0.00 in. this week, none in 24h; cold and dry air, trail has dried."
     }
   ]
 }
