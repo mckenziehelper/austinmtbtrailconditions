@@ -1,135 +1,135 @@
 {
-  "updated": "2026-11-24T20:08:51Z",
+  "updated": "2026-11-25T11:09:09Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Wet",
-      "reason": "0.14 in. in the last day; slow-draining, partly shaded, and cold air limits drying."
+      "reason": "0.17 in. Tuesday on a slow-draining trail; cold, humid air limits drying."
     },
     {
       "trail": "Barton Creek Greenbelt",
       "prediction": "Dry",
-      "reason": "Only 0.02 in. this week; rocky and the creek crossing is low, so the trail has dried."
+      "reason": "Only 0.02 in. this week, rocky, no creek flow; rule-based Wet is too cautious."
     },
     {
       "trail": "Walnut Creek",
       "prediction": "Dry",
-      "reason": "Just 0.01 in. this week; shaded dirt but a week of drying, so rule-based Wet looks too cautious."
+      "reason": "Just 0.04 in. this week; shaded dirt has had days to dry, so rule-based Wet is too cautious."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "0.01 in. this week and none in 24h; crossing is calm, trail has dried."
+      "reason": "Only 0.03 in. this week and no creek flow; rule-based Wet is too cautious."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Wet",
-      "reason": "0.14 in. in the last day with cold air; likely still tacky, so stay off today."
+      "reason": "0.17 in. Tuesday with cold, humid air; shaded sections are likely still damp."
     },
     {
       "trail": "St Edwards",
       "prediction": "Dry",
-      "reason": "Only 0.06 in. in the last day and 0.15 in. over 3 days; light rain, so rule-based Wet is too cautious."
+      "reason": "Light 0.11 in. Tuesday and a low creek; too little to keep it muddy despite rule-based Wet."
     },
     {
       "trail": "Bull Creek",
       "prediction": "Dry",
-      "reason": "0.03 in. in the last day and 0.05 in. this week; light rain has mostly dried."
+      "reason": "Only 0.07 in. Tuesday and a low creek; too little to keep it muddy despite rule-based Wet."
     },
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "0.08 in. in the last day is light; soil is not saturated, so rule-based Wet is too cautious."
+      "reason": "Light 0.14 in. Tuesday, little else this week; should be rideable despite rule-based Wet."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Dry",
-      "reason": "No rain in 3 days and 0.03 in. this week; shaded but has had time to dry."
+      "reason": "Only 0.04 in. this week; too little to wet this shaded trail despite rule-based Wet."
     },
     {
       "trail": "Pace Bend",
       "prediction": "Dry",
-      "reason": "No rain in a week and rocky surface; trail is dry."
+      "reason": "Just 0.02 in. this week on a rocky trail; rule-based Wet is too cautious."
     },
     {
       "trail": "Bluff Creek Ranch",
       "prediction": "Dry",
-      "reason": "No rain in a week, mild temps and low soil moisture; trail is dry."
+      "reason": "No rain in a week and low soil moisture; trail is dry."
     },
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "0.03 in. in the last day on a rocky surface; dries quickly, rule-based Wet is too cautious."
+      "reason": "Light 0.08 in. on limestone ledges dries fast; rule-based Wet is too cautious."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Wet",
-      "reason": "0.13 in. in the last day, highest soil moisture of any trail, and it closes when wet."
+      "reason": "0.14 in. Tuesday, cold air slows drying, and the ranch closes when wet."
     },
     {
       "trail": "Lake Georgetown",
-      "prediction": "Dry",
-      "reason": "0.09 in. in the last day on rocky, partly shaded trail; light rain, mostly dry."
+      "prediction": "Wet",
+      "reason": "0.15 in. Tuesday in cold air; its limestone is slick when damp."
     },
     {
       "trail": "Pedernales Falls",
       "prediction": "Dry",
-      "reason": "Only 0.07 in. in the last day on rocky ground; light rain, but check for a wet-weather closure."
+      "reason": "Light 0.11 in. Tuesday on rocky ground; mostly dried, so rule-based Wet is too cautious."
     },
     {
       "trail": "McKinney Falls",
       "prediction": "Dry",
-      "reason": "No rain in 3 days and mild air; trail has dried."
+      "reason": "Only 0.01 in. this week and Onion Creek is low; rule-based Wet is too cautious."
     },
     {
       "trail": "Reimers Ranch",
       "prediction": "Wet",
-      "reason": "0.12 in. in the last day on dirt that closes when wet, with cold air slowing drying."
+      "reason": "0.16 in. Tuesday on dirt that closes when wet; cold air slows drying."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "0.08 in. in the last day is light and a week of little rain; rule-based Wet is too cautious."
+      "reason": "Light 0.08 in. this week; too little to keep trails muddy despite rule-based Wet."
     },
     {
       "trail": "Rocky Hill Ranch",
       "prediction": "Dry",
-      "reason": "No rain in a week, low soil moisture and mild temps; trail is dry."
+      "reason": "No rain in a week and low soil moisture; trail is dry."
     },
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "0.08 in. in the last day is light, soil moisture is low-moderate; mostly rideable."
+      "reason": "Light 0.08 in. this week and lower soil moisture; rule-based Wet is too cautious."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "Only 0.06 in. in the last day; light rain, rule-based Wet is too cautious."
+      "reason": "Light 0.11 in. Tuesday on rocky singletrack; rule-based Wet is too cautious."
     },
     {
       "trail": "Forrest Creek Ranch",
       "prediction": "Dry",
-      "reason": "No rain in a week and mild temps; shaded dirt has had time to dry."
+      "reason": "No rain in a week; shaded dirt has had time to dry."
     },
     {
       "trail": "McKinney Roughs",
       "prediction": "Dry",
-      "reason": "0.02 in. in the last week and low soil moisture; trail is dry."
+      "reason": "Only 0.02 in. this week and low soil moisture; trail is dry."
     },
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "No rain in 2 days and 0.01 in. this week; slow drainage but little water to hold."
+      "reason": "Only 0.03 in. this week; little water to hold even with slow drainage, despite rule-based Wet."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "No rain in 3 days on rocky terrain; trail is dry."
+      "reason": "Only 0.04 in. this week on rocky terrain; rule-based Wet is too cautious."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Dry",
-      "reason": "0.08 in. in the last day is light; moderate soil moisture, mostly rideable."
+      "reason": "Light 0.11 in. Tuesday is too little to make mud; rule-based Wet is too cautious."
     }
   ]
 }
