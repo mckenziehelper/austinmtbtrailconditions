@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:09:21Z",
+  "updated": "2026-11-25T13:46:59Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.318,
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.17 in. Tuesday on a slow-draining trail; cold, humid air limits drying."
@@ -18,7 +18,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.345,
+      "soilMoisture": 0.344,
       "rainChance24h": 0,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.357,
       "rainChance24h": 0,
       "crossingStage": 0.02,
       "crossingFlow": null,
@@ -44,7 +44,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.341,
+      "soilMoisture": 0.339,
       "rainChance24h": 0,
       "crossingStage": 3.26,
       "crossingFlow": 0.0,
@@ -57,7 +57,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.318,
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.17 in. Tuesday with cold, humid air; shaded sections are likely still damp."
@@ -68,7 +68,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.357,
       "rainChance24h": 0,
       "crossingStage": 1.54,
       "crossingFlow": 0.69,
@@ -81,7 +81,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.357,
       "rainChance24h": 0,
       "crossingStage": 1.54,
       "crossingFlow": 0.69,
@@ -94,7 +94,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.33,
+      "soilMoisture": 0.329,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.14 in. Tuesday, little else this week; should be rideable despite rule-based Wet."
@@ -127,7 +127,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.183,
+      "soilMoisture": 0.182,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture; trail is dry."
@@ -138,7 +138,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.338,
+      "soilMoisture": 0.337,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. on limestone ledges dries fast; rule-based Wet is too cautious."
@@ -171,7 +171,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.326,
+      "soilMoisture": 0.325,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. Tuesday on rocky ground; mostly dried, so rule-based Wet is too cautious."
@@ -182,7 +182,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.345,
+      "soilMoisture": 0.344,
       "rainChance24h": 0,
       "crossingStage": 4.66,
       "crossingFlow": 2.46,
@@ -195,7 +195,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.326,
+      "soilMoisture": 0.325,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.16 in. Tuesday on dirt that closes when wet; cold air slows drying."
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.19,
+      "soilMoisture": 0.189,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture; trail is dry."
@@ -228,7 +228,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.277,
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and lower soil moisture; rule-based Wet is too cautious."
@@ -239,7 +239,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.358,
+      "soilMoisture": 0.357,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. Tuesday on rocky singletrack; rule-based Wet is too cautious."
@@ -250,7 +250,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.328,
+      "soilMoisture": 0.326,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week; shaded dirt has had time to dry."
@@ -261,7 +261,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.216,
+      "soilMoisture": 0.215,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.02 in. this week and low soil moisture; trail is dry."
@@ -272,7 +272,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.333,
+      "soilMoisture": 0.331,
       "rainChance24h": 0,
       "crossingStage": 3.26,
       "crossingFlow": 0.0,
@@ -285,7 +285,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.314,
+      "soilMoisture": 0.313,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.04 in. this week on rocky terrain; rule-based Wet is too cautious."
