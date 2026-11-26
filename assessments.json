@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T11:08:16Z",
+  "updated": "2026-11-26T20:08:30Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Dry",
-      "reason": "0.18 in. Tuesday has had over a day to dry, so rule-based Wet is cautious; watch low spots."
+      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low spots may be damp."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -14,22 +14,22 @@
     {
       "trail": "Walnut Creek",
       "prediction": "Dry",
-      "reason": "Just 0.04 in. this week; too little to leave this shaded dirt muddy."
+      "reason": "Just 0.04 in. this week and a low creek; too little to muddy this shaded dirt."
     },
     {
       "trail": "South Austin Trail Network",
       "prediction": "Dry",
-      "reason": "Only 0.04 in. this week and no creek flow, so rule-based Wet is too cautious."
+      "reason": "Only 0.04 in. this week and no creek flow."
     },
     {
       "trail": "Suburban Ninja",
       "prediction": "Dry",
-      "reason": "0.18 in. Tuesday has had time to dry, so rule-based Wet is cautious; shade may be damp."
+      "reason": "0.18 in. mostly Tuesday has had time to dry; shaded spots may be damp."
     },
     {
       "trail": "St Edwards",
       "prediction": "Dry",
-      "reason": "Light 0.20 in. this week, almost none in the past day, and a low creek."
+      "reason": "Light 0.20 in. this week, none in the past day, and a low creek."
     },
     {
       "trail": "Bull Creek",
@@ -39,12 +39,12 @@
     {
       "trail": "Mt Lakeway",
       "prediction": "Dry",
-      "reason": "Light 0.17 in. this week and almost none in the past day."
+      "reason": "Light 0.17 in. this week and none in the past day."
     },
     {
       "trail": "Muleshoe Bend",
       "prediction": "Dry",
-      "reason": "Only 0.04 in. this week; too little to leave this shaded trail muddy."
+      "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
     },
     {
       "trail": "Pace Bend",
@@ -59,7 +59,7 @@
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Light 0.08 in. this week on limestone ledges."
+      "reason": "Light 0.08 in. this week on limestone ledges, none in the past day."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -69,7 +69,7 @@
     {
       "trail": "Lake Georgetown",
       "prediction": "Dry",
-      "reason": "Light 0.16 in. this week on rock has had time to dry."
+      "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry."
     },
     {
       "trail": "Pedernales Falls",
@@ -84,12 +84,12 @@
     {
       "trail": "Reimers Ranch",
       "prediction": "Dry",
-      "reason": "0.16 in. Tuesday on sandy trail has had time to dry; rule says Wet, so check park status."
+      "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
     },
     {
       "trail": "Reveille Peak Ranch",
       "prediction": "Dry",
-      "reason": "Light 0.08 in. this week and almost none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -99,12 +99,12 @@
     {
       "trail": "Spider Mountain",
       "prediction": "Dry",
-      "reason": "Light 0.08 in. this week and almost none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day."
     },
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "Light 0.20 in. this week on rocky singletrack, almost none in the past day."
+      "reason": "Light 0.20 in. this week on rocky singletrack, none in the past day."
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -119,17 +119,17 @@
     {
       "trail": "Bauerle Ranch",
       "prediction": "Dry",
-      "reason": "Only 0.04 in. this week; rule-based Wet is too cautious even with slow drainage."
+      "reason": "Only 0.04 in. this week and no creek flow, even with slow drainage."
     },
     {
       "trail": "Grelle",
       "prediction": "Dry",
-      "reason": "Only 0.04 in. this week on rocky terrain."
+      "reason": "Only 0.03 in. this week on rocky terrain."
     },
     {
       "trail": "Shaffer Bend",
       "prediction": "Dry",
-      "reason": "Light 0.12 in. this week, almost none in the past day."
+      "reason": "Light 0.12 in. this week and none in the past day."
     }
   ]
 }

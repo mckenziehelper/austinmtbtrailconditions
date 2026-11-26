@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:01:46Z",
+  "updated": "2026-11-26T20:08:46Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,10 +7,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.274,
+      "soilMoisture": 0.264,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.18 in. Tuesday has had over a day to dry, so rule-based Wet is cautious; watch low spots."
+      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low spots may be damp."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,7 +18,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.307,
+      "soilMoisture": 0.3,
       "rainChance24h": 0,
       "crossingStage": 1.68,
       "crossingFlow": 0.0,
@@ -31,12 +31,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.315,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "Just 0.04 in. this week; too little to leave this shaded dirt muddy."
+      "reason": "Just 0.04 in. this week and a low creek; too little to muddy this shaded dirt."
     },
     {
       "trail": "South Austin Trail Network",
@@ -44,12 +44,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.302,
+      "soilMoisture": 0.294,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week and no creek flow, so rule-based Wet is too cautious."
+      "reason": "Only 0.04 in. this week and no creek flow."
     },
     {
       "trail": "Suburban Ninja",
@@ -57,10 +57,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.274,
+      "soilMoisture": 0.264,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.18 in. Tuesday has had time to dry, so rule-based Wet is cautious; shade may be damp."
+      "reason": "0.18 in. mostly Tuesday has had time to dry; shaded spots may be damp."
     },
     {
       "trail": "St Edwards",
@@ -68,12 +68,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.315,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "claude",
-      "reason": "Light 0.20 in. this week, almost none in the past day, and a low creek."
+      "reason": "Light 0.20 in. this week, none in the past day, and a low creek."
     },
     {
       "trail": "Bull Creek",
@@ -81,7 +81,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.315,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -94,10 +94,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.291,
+      "soilMoisture": 0.284,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.17 in. this week and almost none in the past day."
+      "reason": "Light 0.17 in. this week and none in the past day."
     },
     {
       "trail": "Muleshoe Bend",
@@ -105,10 +105,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.281,
+      "soilMoisture": 0.273,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week; too little to leave this shaded trail muddy."
+      "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
     },
     {
       "trail": "Pace Bend",
@@ -116,7 +116,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.281,
+      "soilMoisture": 0.273,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Just 0.02 in. this week on a rocky trail."
@@ -127,7 +127,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.148,
+      "soilMoisture": 0.142,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -138,10 +138,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.304,
+      "soilMoisture": 0.298,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week on limestone ledges."
+      "reason": "Light 0.08 in. this week on limestone ledges, none in the past day."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -149,7 +149,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.286,
+      "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.15 in. this week on rock has dried; note the Nov-Dec hunting closure."
@@ -160,10 +160,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.265,
+      "soilMoisture": 0.256,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.16 in. this week on rock has had time to dry."
+      "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry."
     },
     {
       "trail": "Pedernales Falls",
@@ -171,7 +171,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.291,
+      "soilMoisture": 0.283,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. this week on rocky ground has had time to dry."
@@ -182,7 +182,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.307,
+      "soilMoisture": 0.3,
       "rainChance24h": 0,
       "crossingStage": 4.65,
       "crossingFlow": 2.38,
@@ -195,10 +195,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.288,
+      "soilMoisture": 0.279,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.16 in. Tuesday on sandy trail has had time to dry; rule says Wet, so check park status."
+      "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -206,10 +206,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.302,
+      "soilMoisture": 0.294,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week and almost none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day."
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.158,
+      "soilMoisture": 0.153,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -228,10 +228,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.251,
+      "soilMoisture": 0.246,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week and almost none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day."
     },
     {
       "trail": "Thumper",
@@ -239,10 +239,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.322,
+      "soilMoisture": 0.315,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.20 in. this week on rocky singletrack, almost none in the past day."
+      "reason": "Light 0.20 in. this week on rocky singletrack, none in the past day."
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -250,7 +250,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.286,
+      "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week; shaded dirt has had time to dry."
@@ -261,7 +261,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.184,
+      "soilMoisture": 0.178,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.02 in. this week and low soil moisture."
@@ -272,12 +272,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.288,
+      "soilMoisture": 0.279,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week; rule-based Wet is too cautious even with slow drainage."
+      "reason": "Only 0.04 in. this week and no creek flow, even with slow drainage."
     },
     {
       "trail": "Grelle",
@@ -285,10 +285,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.273,
+      "soilMoisture": 0.263,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week on rocky terrain."
+      "reason": "Only 0.03 in. this week on rocky terrain."
     },
     {
       "trail": "Shaffer Bend",
@@ -296,10 +296,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cool",
-      "soilMoisture": 0.303,
+      "soilMoisture": 0.295,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.12 in. this week, almost none in the past day."
+      "reason": "Light 0.12 in. this week and none in the past day."
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
