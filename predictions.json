@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:56:32Z",
+  "updated": "2026-11-26T06:49:21Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,8 +7,6 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.292,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "0.17 in. Tuesday on a slow-draining trail; cold weather limits drying."
     },
@@ -17,9 +15,7 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.322,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "crossingStage": 1.67,
       "crossingFlow": 0.0,
       "source": "claude",
@@ -30,9 +26,7 @@
       "station": "Pflugerville 3 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.338,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
@@ -44,9 +38,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.316,
-      "rainChance24h": 0,
-      "crossingStage": 3.27,
+      "crossingStage": 3.26,
       "crossingFlow": 0.0,
       "source": "rule"
     },
@@ -56,8 +48,6 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.292,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "0.17 in. Tuesday and cold weather; shaded sections may still be damp."
     },
@@ -66,9 +56,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.338,
-      "rainChance24h": 0,
+      "temperature": "Very Cold",
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "claude",
@@ -80,8 +68,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.338,
-      "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "claude",
@@ -92,9 +78,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.306,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "source": "claude",
       "reason": "Light 0.14 in. Tuesday and no rain since; should have dried enough to ride."
     },
@@ -103,9 +87,7 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.291,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "source": "claude",
       "reason": "Only 0.04 in. this week; too little to leave this shaded trail muddy."
     },
@@ -114,9 +96,7 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.291,
-      "rainChance24h": 0,
+      "temperature": "Very Cold",
       "source": "claude",
       "reason": "Just 0.02 in. this week on a rocky trail."
     },
@@ -126,8 +106,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.162,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
     },
@@ -137,8 +115,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.318,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. on limestone ledges, with a day to dry."
     },
@@ -148,20 +124,17 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.293,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "0.14 in. Tuesday on rock has had a day to dry; note the Nov-Dec hunting closure."
     },
     {
       "trail": "Lake Georgetown",
       "station": "Florence 3 SW",
-      "prediction": "Wet",
-      "isDry": false,
+      "prediction": "Dry",
+      "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.283,
-      "rainChance24h": 0,
-      "source": "rule"
+      "source": "claude",
+      "reason": "0.15 in. Tuesday on rock has had a day to dry, so rule-based Wet is too cautious."
     },
     {
       "trail": "Pedernales Falls",
@@ -169,8 +142,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.302,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. Tuesday on rocky ground; a day of drying should be enough."
     },
@@ -179,11 +150,9 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.322,
-      "rainChance24h": 0,
-      "crossingStage": 4.66,
-      "crossingFlow": 2.46,
+      "temperature": "Cold",
+      "crossingStage": 4.65,
+      "crossingFlow": 2.38,
       "source": "claude",
       "reason": "Only 0.01 in. this week and Onion Creek is low."
     },
@@ -193,8 +162,6 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.301,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "0.16 in. Tuesday on dirt, cold weather, and the park closes even when slightly wet."
     },
@@ -203,9 +170,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.315,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "source": "claude",
       "reason": "Light 0.08 in. this week and no rain since Tuesday."
     },
@@ -215,8 +180,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.172,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
     },
@@ -225,9 +188,7 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.262,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "source": "claude",
       "reason": "Light 0.08 in. this week and no rain since Tuesday."
     },
@@ -236,9 +197,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.338,
-      "rainChance24h": 0,
+      "temperature": "Very Cold",
       "source": "claude",
       "reason": "Light 0.11 in. Tuesday on rocky singletrack, with a day to dry."
     },
@@ -247,9 +206,7 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.301,
-      "rainChance24h": 0,
+      "temperature": "Very Cold",
       "source": "claude",
       "reason": "No rain in a week; shaded dirt has had time to dry."
     },
@@ -258,9 +215,7 @@
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.198,
-      "rainChance24h": 0,
+      "temperature": "Very Cold",
       "source": "claude",
       "reason": "Only 0.02 in. this week and low soil moisture."
     },
@@ -270,9 +225,7 @@
       "prediction": "Wet",
       "isDry": false,
       "temperature": "Cold",
-      "soilMoisture": 0.305,
-      "rainChance24h": 0,
-      "crossingStage": 3.27,
+      "crossingStage": 3.26,
       "crossingFlow": 0.0,
       "source": "rule"
     },
@@ -281,9 +234,7 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.287,
-      "rainChance24h": 0,
+      "temperature": "Cold",
       "source": "claude",
       "reason": "Only 0.04 in. this week on rocky terrain."
     },
@@ -293,8 +244,6 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.313,
-      "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. Tuesday, a day ago, is too little to leave mud."
     },
@@ -302,19 +251,19 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Very Cold"
     },
     {
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Very Cold"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -332,7 +281,7 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Very Cold"
     },
     {
       "station": "Florence 3 SW",
@@ -356,7 +305,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Very Cold"
     },
     {
       "station": "Lake Austin at Cortana Shores",
@@ -368,7 +317,7 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 6 W",
@@ -392,25 +341,25 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Pflugerville 3 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     }
   ]
 }
