@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T20:08:30Z",
+  "updated": "2026-11-27T11:08:37Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "prediction": "Dry",
-      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low spots may be damp."
+      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low creekside spots may be damp."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -59,12 +59,12 @@
     {
       "trail": "Emma Long",
       "prediction": "Dry",
-      "reason": "Light 0.08 in. this week on limestone ledges, none in the past day."
+      "reason": "Light 0.08 in. this week on rock, none in the past day."
     },
     {
       "trail": "Flat Rock Ranch",
       "prediction": "Dry",
-      "reason": "Light 0.15 in. this week on rock has dried; note the Nov-Dec hunting closure."
+      "reason": "Light 0.15 in. this week on rock has had time to dry."
     },
     {
       "trail": "Lake Georgetown",
@@ -104,7 +104,7 @@
     {
       "trail": "Thumper",
       "prediction": "Dry",
-      "reason": "Light 0.20 in. this week on rocky singletrack, none in the past day."
+      "reason": "Light 0.20 in. this week, none in the past day."
     },
     {
       "trail": "Forrest Creek Ranch",

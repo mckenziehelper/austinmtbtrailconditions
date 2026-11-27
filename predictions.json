@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T02:35:31Z",
+  "updated": "2026-11-27T11:08:49Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -10,7 +10,7 @@
       "soilMoisture": 0.268,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low spots may be damp."
+      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low creekside spots may be damp."
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,7 +18,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.3,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
       "crossingStage": 1.67,
       "crossingFlow": 0.0,
@@ -31,7 +31,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.317,
+      "soilMoisture": 0.313,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -44,7 +44,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.295,
+      "soilMoisture": 0.293,
       "rainChance24h": 0,
       "crossingStage": 3.26,
       "crossingFlow": 0.0,
@@ -68,7 +68,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.317,
+      "soilMoisture": 0.313,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -81,7 +81,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.317,
+      "soilMoisture": 0.313,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -94,7 +94,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.285,
+      "soilMoisture": 0.284,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.17 in. this week and none in the past day."
@@ -105,7 +105,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.276,
+      "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
@@ -115,8 +115,8 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.276,
+      "temperature": "Very Cold",
+      "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Just 0.02 in. this week on a rocky trail."
@@ -127,7 +127,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.143,
+      "soilMoisture": 0.142,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -138,10 +138,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.299,
+      "soilMoisture": 0.298,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week on limestone ledges, none in the past day."
+      "reason": "Light 0.08 in. this week on rock, none in the past day."
     },
     {
       "trail": "Flat Rock Ranch",
@@ -149,17 +149,17 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.281,
+      "soilMoisture": 0.283,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.15 in. this week on rock has dried; note the Nov-Dec hunting closure."
+      "reason": "Light 0.15 in. this week on rock has had time to dry."
     },
     {
       "trail": "Lake Georgetown",
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
+      "temperature": "Very Cold",
       "soilMoisture": 0.26,
       "rainChance24h": 0,
       "source": "claude",
@@ -182,10 +182,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.3,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
-      "crossingStage": 4.65,
-      "crossingFlow": 2.38,
+      "crossingStage": 4.66,
+      "crossingFlow": 2.46,
       "source": "claude",
       "reason": "Only 0.01 in. this week and Onion Creek is low."
     },
@@ -195,7 +195,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.281,
+      "soilMoisture": 0.28,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
@@ -206,7 +206,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.298,
+      "soilMoisture": 0.297,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.154,
+      "soilMoisture": 0.152,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -228,7 +228,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.252,
+      "soilMoisture": 0.25,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -239,10 +239,10 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.317,
+      "soilMoisture": 0.313,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.20 in. this week on rocky singletrack, none in the past day."
+      "reason": "Light 0.20 in. this week, none in the past day."
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -250,7 +250,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.277,
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week; shaded dirt has had time to dry."
@@ -261,7 +261,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.179,
+      "soilMoisture": 0.175,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.02 in. this week and low soil moisture."
@@ -272,7 +272,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.279,
+      "soilMoisture": 0.278,
       "rainChance24h": 0,
       "crossingStage": 3.26,
       "crossingFlow": 0.0,
@@ -285,7 +285,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.266,
+      "soilMoisture": 0.267,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week on rocky terrain."
@@ -296,7 +296,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.298,
+      "soilMoisture": 0.299,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.12 in. this week and none in the past day."
@@ -335,13 +335,13 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Very Cold"
     },
     {
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Very Cold"
     },
     {
       "station": "Fredericksburg 10 SSE",
