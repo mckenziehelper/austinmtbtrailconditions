@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-26T20:08:46Z",
+  "updated": "2026-11-27T02:35:31Z",
   "results": [
     {
       "trail": "Brushy Creek",
       "station": "Cedar Park 3 SSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.264,
+      "temperature": "Cold",
+      "soilMoisture": 0.268,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low spots may be damp."
@@ -17,10 +17,10 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.3,
       "rainChance24h": 0,
-      "crossingStage": 1.68,
+      "crossingStage": 1.67,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "Only 0.04 in. this week on rock, with no creek flow."
@@ -30,8 +30,8 @@
       "station": "Pflugerville 3 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.315,
+      "temperature": "Cold",
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -43,10 +43,10 @@
       "station": "Manchaca 4 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.294,
+      "temperature": "Cold",
+      "soilMoisture": 0.295,
       "rainChance24h": 0,
-      "crossingStage": 3.27,
+      "crossingStage": 3.26,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "Only 0.04 in. this week and no creek flow."
@@ -56,8 +56,8 @@
       "station": "Cedar Park 3 SSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.264,
+      "temperature": "Cold",
+      "soilMoisture": 0.268,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.18 in. mostly Tuesday has had time to dry; shaded spots may be damp."
@@ -67,8 +67,8 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.315,
+      "temperature": "Cold",
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -80,8 +80,8 @@
       "station": "Bull Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.315,
+      "temperature": "Cold",
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -93,8 +93,8 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.284,
+      "temperature": "Cold",
+      "soilMoisture": 0.285,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.17 in. this week and none in the past day."
@@ -104,8 +104,8 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.273,
+      "temperature": "Cold",
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
@@ -115,8 +115,8 @@
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.273,
+      "temperature": "Cold",
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Just 0.02 in. this week on a rocky trail."
@@ -126,8 +126,8 @@
       "station": "Waldeck 1 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.142,
+      "temperature": "Cold",
+      "soilMoisture": 0.143,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -137,8 +137,8 @@
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.298,
+      "temperature": "Cold",
+      "soilMoisture": 0.299,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week on limestone ledges, none in the past day."
@@ -148,8 +148,8 @@
       "station": "Fredericksburg 10 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.277,
+      "temperature": "Cold",
+      "soilMoisture": 0.281,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.15 in. this week on rock has dried; note the Nov-Dec hunting closure."
@@ -159,8 +159,8 @@
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.256,
+      "temperature": "Cold",
+      "soilMoisture": 0.26,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry."
@@ -170,8 +170,8 @@
       "station": "Johnson City 10 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.283,
+      "temperature": "Cold",
+      "soilMoisture": 0.285,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. this week on rocky ground has had time to dry."
@@ -181,7 +181,7 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.3,
       "rainChance24h": 0,
       "crossingStage": 4.65,
@@ -194,8 +194,8 @@
       "station": "Lakeway 6 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.279,
+      "temperature": "Cold",
+      "soilMoisture": 0.281,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
@@ -205,8 +205,8 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.294,
+      "temperature": "Cold",
+      "soilMoisture": 0.298,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -216,8 +216,8 @@
       "station": "Colorado River at Smithville",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.153,
+      "temperature": "Cold",
+      "soilMoisture": 0.154,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -227,8 +227,8 @@
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.246,
+      "temperature": "Cold",
+      "soilMoisture": 0.252,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -238,8 +238,8 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.315,
+      "temperature": "Cold",
+      "soilMoisture": 0.317,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.20 in. this week on rocky singletrack, none in the past day."
@@ -249,7 +249,7 @@
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
@@ -260,8 +260,8 @@
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.178,
+      "temperature": "Cold",
+      "soilMoisture": 0.179,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.02 in. this week and low soil moisture."
@@ -271,10 +271,10 @@
       "station": "Manchaca 4 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
+      "temperature": "Cold",
       "soilMoisture": 0.279,
       "rainChance24h": 0,
-      "crossingStage": 3.27,
+      "crossingStage": 3.26,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "Only 0.04 in. this week and no creek flow, even with slow drainage."
@@ -284,8 +284,8 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.263,
+      "temperature": "Cold",
+      "soilMoisture": 0.266,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week on rocky terrain."
@@ -295,8 +295,8 @@
       "station": "Marble Falls 6 ENE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.295,
+      "temperature": "Cold",
+      "soilMoisture": 0.298,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.12 in. this week and none in the past day."
@@ -305,115 +305,115 @@
       "station": "Barton Creek at Loop 360, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Creek 3 WSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Park 3 SSW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Colorado River at Smithville",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cow Creek near Lago Vista",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Fredericksburg 10 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Johnson City 10 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lake Austin at Cortana Shores",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 6 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Manchaca 4 W",
-      "prediction": "Wet",
-      "isDry": false,
-      "temperature": "Cool"
+      "prediction": "Dry",
+      "isDry": true,
+      "temperature": "Cold"
     },
     {
       "station": "Marble Falls 6 ENE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Pflugerville 3 SSE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Tow 10 ESE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     }
   ]
 }
