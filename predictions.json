@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:08:49Z",
+  "updated": "2026-11-27T13:24:11Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,7 +7,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.268,
+      "soilMoisture": 0.269,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low creekside spots may be damp."
@@ -20,7 +20,7 @@
       "temperature": "Cold",
       "soilMoisture": 0.296,
       "rainChance24h": 0,
-      "crossingStage": 1.67,
+      "crossingStage": 1.68,
       "crossingFlow": 0.0,
       "source": "claude",
       "reason": "Only 0.04 in. this week on rock, with no creek flow."
@@ -31,7 +31,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.313,
+      "soilMoisture": 0.314,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
@@ -57,7 +57,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.268,
+      "soilMoisture": 0.269,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.18 in. mostly Tuesday has had time to dry; shaded spots may be damp."
@@ -67,8 +67,8 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.313,
+      "temperature": "Very Cold",
+      "soilMoisture": 0.314,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -81,7 +81,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.313,
+      "soilMoisture": 0.314,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
@@ -105,7 +105,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.277,
+      "soilMoisture": 0.278,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
@@ -116,7 +116,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Very Cold",
-      "soilMoisture": 0.277,
+      "soilMoisture": 0.278,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Just 0.02 in. this week on a rocky trail."
@@ -127,7 +127,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.142,
+      "soilMoisture": 0.143,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -149,7 +149,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.283,
+      "soilMoisture": 0.284,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.15 in. this week on rock has had time to dry."
@@ -159,8 +159,8 @@
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Very Cold",
-      "soilMoisture": 0.26,
+      "temperature": "Cold",
+      "soilMoisture": 0.261,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry."
@@ -171,7 +171,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.285,
+      "soilMoisture": 0.286,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.11 in. this week on rocky ground has had time to dry."
@@ -195,7 +195,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.28,
+      "soilMoisture": 0.281,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
@@ -206,7 +206,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.297,
+      "soilMoisture": 0.298,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -217,7 +217,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.152,
+      "soilMoisture": 0.153,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week and low soil moisture."
@@ -228,7 +228,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.25,
+      "soilMoisture": 0.252,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.08 in. this week and none in the past day."
@@ -238,8 +238,8 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold",
-      "soilMoisture": 0.313,
+      "temperature": "Very Cold",
+      "soilMoisture": 0.314,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.20 in. this week, none in the past day."
@@ -250,7 +250,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.276,
+      "soilMoisture": 0.277,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "No rain in a week; shaded dirt has had time to dry."
@@ -285,7 +285,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.267,
+      "soilMoisture": 0.268,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Only 0.03 in. this week on rocky terrain."
@@ -296,7 +296,7 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.299,
+      "soilMoisture": 0.3,
       "rainChance24h": 0,
       "source": "claude",
       "reason": "Light 0.12 in. this week and none in the past day."
@@ -341,7 +341,7 @@
       "station": "Florence 3 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Very Cold"
+      "temperature": "Cold"
     },
     {
       "station": "Fredericksburg 10 SSE",
@@ -359,7 +359,7 @@
       "station": "Jollyville 2 SW",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cold"
+      "temperature": "Very Cold"
     },
     {
       "station": "Lake Austin at Cortana Shores",
