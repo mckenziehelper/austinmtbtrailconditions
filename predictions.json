@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T05:51:55Z",
+  "updated": "2026-11-28T10:37:33Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -7,10 +7,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.244,
+      "soilMoisture": 0.247,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low creekside spots may be damp."
+      "reason": "0.18 in. mostly Tuesday, none in the past day; likely dry, but low creekside spots may be damp.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Barton Creek Greenbelt",
@@ -18,12 +20,14 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.274,
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
       "crossingStage": 1.67,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week on rock, with no creek flow."
+      "reason": "Only 0.04 in. this week on rock, with no creek flow.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Walnut Creek",
@@ -31,12 +35,14 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.293,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
       "crossingStage": 0.03,
       "crossingFlow": null,
       "source": "claude",
-      "reason": "Just 0.04 in. this week and a low creek; too little to muddy this shaded dirt."
+      "reason": "Just 0.04 in. this week and a low creek; too little to muddy this shaded dirt.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "South Austin Trail Network",
@@ -44,12 +50,14 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.271,
+      "soilMoisture": 0.273,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week and no creek flow."
+      "reason": "Only 0.04 in. this week and no creek flow.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Suburban Ninja",
@@ -57,10 +65,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.244,
+      "soilMoisture": 0.247,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.18 in. mostly Tuesday and none since; likely dry, though shaded spots may be damp."
+      "reason": "0.18 in. mostly Tuesday and none since; likely dry, though shaded spots may be damp.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "St Edwards",
@@ -68,12 +78,14 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.293,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "claude",
-      "reason": "Light 0.20 in. this week, none in the past day, and a low creek."
+      "reason": "Light 0.20 in. this week, none in the past day, and a low creek.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Bull Creek",
@@ -81,34 +93,40 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.293,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
       "crossingStage": 1.53,
       "crossingFlow": 0.65,
       "source": "claude",
-      "reason": "Only 0.09 in. this week and a low creek."
+      "reason": "Only 0.09 in. this week and a low creek.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Mt Lakeway",
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.264,
+      "temperature": "Cold",
+      "soilMoisture": 0.266,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.17 in. this week and none in the past day."
+      "reason": "Light 0.17 in. this week and none in the past day.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Muleshoe Bend",
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.255,
+      "temperature": "Cold",
+      "soilMoisture": 0.259,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy."
+      "reason": "Only 0.03 in. this week; too little to leave this shaded trail muddy.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Pace Bend",
@@ -116,10 +134,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.255,
+      "soilMoisture": 0.259,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Just 0.02 in. this week on a rocky trail."
+      "reason": "Just 0.02 in. this week on a rocky trail.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Bluff Creek Ranch",
@@ -127,10 +147,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.124,
+      "soilMoisture": 0.127,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in a week and low soil moisture."
+      "reason": "No rain in a week and low soil moisture.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Emma Long",
@@ -138,10 +160,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.277,
+      "soilMoisture": 0.279,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week on rock, none in the past day."
+      "reason": "Light 0.08 in. this week on rock, none in the past day.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Flat Rock Ranch",
@@ -149,10 +173,13 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.263,
+      "soilMoisture": 0.267,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.15 in. Tuesday has dried off rock; note it is listed as closed Nov-Dec for hunting."
+      "reason": "0.15 in. Tuesday has dried off rock; note it is listed as closed Nov-Dec for hunting.",
+      "status": "closed",
+      "statusNote": "Seasonal hunting closure Nov-Dec",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Lake Georgetown",
@@ -160,10 +187,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.236,
+      "soilMoisture": 0.239,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry."
+      "reason": "Light 0.16 in. this week, none in the past day; rock has had time to dry.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Pedernales Falls",
@@ -171,34 +200,40 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.262,
+      "soilMoisture": 0.264,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.11 in. this week on rocky ground has had time to dry."
+      "reason": "Light 0.11 in. this week on rocky ground has had time to dry.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "McKinney Falls",
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.274,
+      "temperature": "Cold",
+      "soilMoisture": 0.276,
       "rainChance24h": 0,
-      "crossingStage": 4.65,
-      "crossingFlow": 2.38,
+      "crossingStage": 4.64,
+      "crossingFlow": 2.3,
       "source": "claude",
-      "reason": "Only 0.01 in. this week and Onion Creek is low."
+      "reason": "Only 0.01 in. this week and Onion Creek is low.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Reimers Ranch",
       "station": "Lakeway 6 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.257,
+      "temperature": "Cold",
+      "soilMoisture": 0.259,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "0.16 in. earlier this week has had time to dry; check park status before going."
+      "reason": "0.16 in. earlier this week has had time to dry; check park status before going.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Reveille Peak Ranch",
@@ -206,10 +241,13 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.276,
+      "soilMoisture": 0.279,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week and none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day.",
+      "status": "closed",
+      "statusNote": "Events only; day use ended Oct 2026",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Rocky Hill Ranch",
@@ -217,10 +255,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.135,
+      "soilMoisture": 0.139,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in a week and low soil moisture."
+      "reason": "No rain in a week and low soil moisture.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Spider Mountain",
@@ -228,10 +268,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.231,
+      "soilMoisture": 0.236,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.08 in. this week and none in the past day."
+      "reason": "Light 0.08 in. this week and none in the past day.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Thumper",
@@ -239,10 +281,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.293,
+      "soilMoisture": 0.296,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.20 in. this week, none in the past day."
+      "reason": "Light 0.20 in. this week, none in the past day.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Forrest Creek Ranch",
@@ -250,21 +294,26 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.252,
+      "soilMoisture": 0.256,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "No rain in a week; shaded dirt has had time to dry."
+      "reason": "No rain in a week; shaded dirt has had time to dry.",
+      "status": "caution",
+      "statusNote": "Private; open ride days only \u2014 check FB group",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "McKinney Roughs",
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.157,
+      "temperature": "Cold",
+      "soilMoisture": 0.159,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Only 0.02 in. this week and low soil moisture."
+      "reason": "Only 0.02 in. this week and low soil moisture.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Bauerle Ranch",
@@ -272,23 +321,27 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.253,
+      "soilMoisture": 0.256,
       "rainChance24h": 0,
       "crossingStage": 3.27,
       "crossingFlow": 0.0,
       "source": "claude",
-      "reason": "Only 0.04 in. this week and no creek flow, even with slow drainage."
+      "reason": "Only 0.04 in. this week and no creek flow, even with slow drainage.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Grelle",
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool",
-      "soilMoisture": 0.241,
+      "temperature": "Cold",
+      "soilMoisture": 0.244,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Only 0.03 in. this week on rocky terrain."
+      "reason": "Only 0.03 in. this week on rocky terrain.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "trail": "Shaffer Bend",
@@ -296,10 +349,12 @@
       "prediction": "Dry",
       "isDry": true,
       "temperature": "Cold",
-      "soilMoisture": 0.278,
+      "soilMoisture": 0.281,
       "rainChance24h": 0,
       "source": "claude",
-      "reason": "Light 0.12 in. this week and none in the past day."
+      "reason": "Light 0.12 in. this week and none in the past day.",
+      "status": "open",
+      "statusChecked": "2026-11-28T10:37:22Z"
     },
     {
       "station": "Barton Creek at Loop 360, Austin",
@@ -317,7 +372,7 @@
       "station": "Cedar Creek near Bastrop",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Cedar Park 3 SSW",
@@ -371,13 +426,13 @@
       "station": "Lakeway 2 E",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Lakeway 6 W",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Manchaca 4 W",
@@ -395,7 +450,7 @@
       "station": "Onion Creek at Hwy 183, Austin",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Pflugerville 3 SSE",
@@ -407,7 +462,7 @@
       "station": "Spicewood 2 NNE",
       "prediction": "Dry",
       "isDry": true,
-      "temperature": "Cool"
+      "temperature": "Cold"
     },
     {
       "station": "Tow 10 ESE",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T10:39:54Z",
+  "updated": "2026-11-28T10:37:22Z",
   "results": [
     {
       "trail": "Brushy Creek",
@@ -64,7 +64,7 @@
     {
       "trail": "Flat Rock Ranch",
       "status": "closed",
-      "statusNote": "Seasonal closure Nov-Dec for hunting",
+      "statusNote": "Seasonal hunting closure Nov-Dec",
       "source": "https://flatrockranchtx.com/"
     },
     {
@@ -74,9 +74,8 @@
     },
     {
       "trail": "Pedernales Falls",
-      "status": "caution",
-      "statusNote": "Park closed 10pm Nov 21 to 2pm Nov 24 for permitted hunt",
-      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls/alert"
+      "status": "open",
+      "source": "https://tpwd.texas.gov/state-parks/pedernales-falls"
     },
     {
       "trail": "McKinney Falls",
@@ -85,8 +84,7 @@
     },
     {
       "trail": "Reimers Ranch",
-      "status": "closed",
-      "statusNote": "MTB trails closed after recent rain until thoroughly dry",
+      "status": "open",
       "source": "https://parks.traviscountytx.gov/parks/reimers-ranch"
     },
     {
@@ -102,8 +100,7 @@
     },
     {
       "trail": "Spider Mountain",
-      "status": "caution",
-      "statusNote": "Hill Country Downhill race Nov 20-21; expect race activity today",
+      "status": "open",
       "source": "https://www.spidermountain.com/"
     },
     {
